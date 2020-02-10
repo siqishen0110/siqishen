@@ -1,896 +1,896 @@
-ID,Name,JapaneseName,Station,FirstCategory,SecondCategory,DinnerPrice,LunchPrice,TotalRating,DinnerRating,LunchRating,ReviewNum,Lat,Long
-1,Orudeidainingurajou  ,オールデイダイニング　ラジョウ,Kyoto,Buffet style,Cafe,￥4000～￥4999,￥2000～￥2999,3.39,3.2,3.38,56,34.98617515,135.7613139
-2,Steak Frites Gaspard zinzin  ,ステックフリット ガスパール ザンザン,Karasuma,Bistro,Steak,￥3000～￥3999,￥1000～￥1999,3.18,3.06,3.33,70,35.0058258,135.7598568
-3,KAZUMA  ,和馬,Sanjo,Izakaya (Tavern),Japanese food (other),￥3000～￥3999,NA,3.28,3.28,NA,7,35.00658257,135.7702467
-4,okonomiyakiteppanyakimiki  ,お好み焼き 鉄板焼き 三喜,Tambaguchi,Okonomiyaki,Izakaya (Tavern),￥3000～￥3999,NA,3.14,3.14,NA,16,34.99592443,135.7482665
-5,Shaofeiyan  ,小肥羊 京都河原町店,Kyoto Shiyakusho Mae,Chinese hot pot / fire pot,Chinese,￥4000～￥4999,￥1000～￥1999,3.16,3.16,3.05,23,35.00790072,135.7682018
-6,okuta-va  ,OCTAVAR,Kyoto,Bar,Italian,￥4000～￥4999,￥1000～￥1999,3.08,3,3.11,24,34.98349709,135.7605594
-7,Resort dining&bar HaLe  ,Resort dining&bar HaLe 河原町店,Sanjo,Italian,Bar,￥3000～￥3999,￥1000～￥1999,3.04,3.05,3,22,35.00719471,135.7694681
-8,Sumika  ,棲家,Kawaramachi,Izakaya (Tavern),Creative cuisine,￥3000～￥3999,NA,3.34,3.34,NA,23,35.00470409,135.7701821
-9,Gayagaya  ,我家我家,Sanjo,Izakaya (Tavern),Bar,￥3000～￥3999,NA,3.03,3.04,NA,3,35.00717416,135.7699678
-10,Ishibekoujimamecha  ,石塀小路 豆ちゃ 京都,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,￥4000～￥4999,NA,3.56,3.56,NA,92,35.00081306,135.7791554
-11,nagoyako-chintokoshitsuizakayatorisai  ,名古屋コーチンと個室居酒屋 鶏彩 河原町店,Sanjo,Izakaya (Tavern),Japanese food (other),￥3000～￥3999,NA,3.04,3.04,NA,4,35.0073958,135.7692742
-12,Gionabesu  ,祇園 Abbesses,Gion Shijo,French,Italian,￥8000～￥9999,￥6000～￥7999,3.58,3.54,3.56,120,35.0019537,135.7748213
-13,nishikimachinoakarishoutengai  ,錦 街の灯り商店街,Karasuma,Izakaya (Tavern),Bar,￥2000～￥2999,￥2000～￥2999,3,3,NA,2,35.00516313,135.7619763
-14,gionni-yongo  ,祗園245,Sanjo Keihan,Italian,French,￥10000～￥14999,￥6000～￥7999,3.85,3.83,3.75,39,35.00630102,135.7756227
-15,Mumon  ,無門 三条室町店,Karasuma Oike,Shabu Shabu (Japanese Steamboat),Fugu (Blowfish),￥5000～￥5999, ～￥999,3.05,3.05,NA,13,35.00933483,135.7578354
-16,itariandainingutoreotto  ,イタリアンダイニングTREOTTO 西院店,Saiin,Italian,Dining bar,￥3000～￥3999,NA,3.04,3.04,3.03,2,35.00372858,135.7312551
-17,Sukiyakisunibiizakayahokuto  ,すき焼き炭火居酒屋 北斗,Kyoto,Sukiyaki,Yakitori (Grilled chicken),￥3000～￥3999,NA,3.09,3.1,NA,19,34.98906451,135.7586046
-18,Sakaean  ,さかえ庵,Karasuma,Izakaya (Tavern),Nihonshu (Japanese sake),￥2000～￥2999, ～￥999,3.09,3.1,3.06,31,35.00468374,135.7624141
-19,biakicchinnikubarujikabiyajikabiya  ,ビアキッチン肉バル ジカビヤ 京都河原町店,Kawaramachi,Bar,Izakaya (Tavern),￥3000～￥3999,￥1000～￥1999,3.06,3.06,NA,21,35.00626924,135.768979
-20,ANAGOYA NORESORE  ,穴子家 NORESORE 京都本店,Nijojo Mae,Izakaya (Tavern),Seafood,￥5000～￥5999,￥2000～￥2999,3.5,3.07,3.55,16,35.01258469,135.7536195
-21,bejo-tamucho  ,ベジョータ ムチョ 室町店,Shijo,Spain,Izakaya (Tavern),￥3000～￥3999,NA,3.16,3.16,NA,18,35.00138624,135.7579121
-22,TENTATION  ,タンタシオン,Sanjo,Bistro,Italian,￥4000～￥4999,NA,3.06,3.06,NA,3,35.0095578,135.7702899
-23,Izakayariraku  ,居酒屋 りらく,Karasuma,Yakitori (Grilled chicken),Fowl,￥3000～￥3999,NA,3.03,3.03,NA,24,35.00257147,135.7626947
-24,kyoutohyouto  ,京都 瓢斗 京都店,Karasuma,Pork Shabu Shabu,Shabu Shabu (Japanese Steamboat),￥8000～￥9999,￥2000～￥2999,3.64,3.66,3.58,46,35.0055908,135.7583294
-25,Robatayagaburi  ,炉端屋 がぶり,Karasuma,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.09,3.09,NA,16,35.00651711,135.7594454
-26,Kushiyachouemon  ,長右衛門 京都烏丸店,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999, ～￥999,3.03,3.03,3.02,10,35.00508842,135.7620638
-27,Torattoriaviare  ,トラットリアヴィアーレ 京都本店,Kiyomizu Gojo,Italian,Western Cuisine,￥5000～￥5999,￥1000～￥1999,3.44,3.3,3.31,33,34.99854227,135.7676828
-28,Komefuku  ,米福 京都木屋町,Sanjo,Tempura,Seafood,￥3000～￥3999,NA,3.06,3.06,NA,10,35.00829461,135.7706832
-29,Togiya  ,十祇家 木屋町御池店,Kyoto Shiyakusho Mae,Izakaya (Tavern),Chinese,￥3000～￥3999,￥1000～￥1999,3.08,3.08,NA,23,35.0118284,135.7708614
-30,kushiyakimanten  ,串焼 満天 先斗町店,Sanjo,Yakitori (Grilled chicken),Kyoto Cuisine,￥3000～￥3999,NA,3.35,3.35,3.04,14,35.00796132,135.7710027
-31,Kurogewagyuutenshou  ,黒毛和牛 天正,Marutamachi,Yakiniku (BBQ Beef),Sukiyaki,￥5000～￥5999, ～￥999,3.5,3.47,3.16,13,35.01466375,135.7603646
-32,Chizutakkarubikoshitsubaruvino  ,チーズタッカルビ×個室 バル・ヴィーノ,Sanjo,Izakaya (Tavern),Dining bar,￥2000～￥2999,NA,3.17,3.17,NA,10,35.00738941,135.7693292
-33,teppandainingukyoushikian  ,鉄板ダイニング 京四季庵,Gion Shijo,Teppanyaki,Steak,￥5000～￥5999,NA,3.06,3.06,NA,16,35.00508719,135.7711664
-34,Yasuma  ,靖馬,Kawaramachi,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.02,3.02,NA,26,35.00437168,135.7697441
-35,In the Soup.  ,in the Soup.,Gion Shijo,Bar,Bistro,￥3000～￥3999,￥1000～￥1999,3.02,3.03,NA,5,35.00412676,135.7727658
-36,Gionyakinikukokoro  ,祇園焼肉 志,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3.06,3.06,NA,5,35.00567025,135.7753752
-37,daininguba-daburyu-  ,Dining Bar W,Gion Shijo,Kappo (Traditional Japanese),Steak,￥4000～￥4999,NA,3.25,3.25,NA,17,35.00513665,135.7726471
-38,Kyoutodaina  ,京都ダイナー,Karasuma,Bistro,Bar,￥3000～￥3999,￥2000～￥2999,3.54,3.53,3.32,82,35.00530675,135.7638808
-39,Zasoudouhigashiyamakyouto  ,THE SODOH HIGASHIYAMA KYOTO,Gion Shijo,Italian,Pasta,￥6000～￥7999,￥2000～￥2999,3.61,3.61,3.58,272,34.99889633,135.7796679
-40,Gokyou  ,牛京 東九条店,Jujo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,NA,3.04,3.04,NA,2,34.97540433,135.759546
-41,Ichifuji  ,一知富士,Shijo,Izakaya (Tavern),Kappo (Traditional Japanese),￥4000～￥4999,NA,3.05,3.05,NA,12,35.00137458,135.7582332
-42,Tsukihikarasuma  ,月陽 KARASUMA,Shijo,Izakaya (Tavern),Creative cuisine,￥4000～￥4999,￥1000～￥1999,3.17,3.17,3.03,35,35.00140428,135.7573322
-43,Kyoutotempuraendou  ,京都 天ぷら圓堂 岡崎邸,Higashiyama,Tempura,Kaiseki (Traditional Japanese),￥10000～￥14999,￥5000～￥5999,3.55,3.45,3.59,6,35.01616672,135.7802501
-44,Resutoraniro  ,restaurant IRO,Karasuma,Izakaya (Tavern),Creative cuisine,￥4000～￥4999,NA,3.08,3.08,NA,31,35.00291505,135.7632593
-45,Shuteimichiya  ,酒亭 道や,Karasuma Oike,Izakaya (Tavern),Seafood,￥5000～￥5999, ～￥999,3.06,3.06,NA,1,35.01332192,135.7587254
-46,Trattoria La Pace  ,トラットリア ラパーチェ,Karasuma,Italian,Pizza,￥4000～￥4999,￥1000～￥1999,3.51,3.3,3.51,52,35.00526009,135.7633476
-47,Izakayabambu  ,居酒屋 バンブー 京都駅前,Kyoto,Izakaya (Tavern),Kappo (Traditional Japanese),￥3000～￥3999,NA,3.02,3.02,NA,20,34.98456518,135.7531344
-48,Peppa  ,ペッパー,Kawaramachi,Okinawan Cuisine,Izakaya (Tavern),￥3000～￥3999,NA,3.08,3.09,NA,11,35.00511634,135.7703184
-49,Banikuryourisemmontenumayarou  ,馬肉料理専門店　馬野郎,Kawaramachi,Yakiniku (BBQ Beef),Shabu Shabu (Japanese Steamboat),￥3000～￥3999,NA,3.51,3.51,NA,52,35.00479581,135.7702928
-50,Teppanryourihanaroku  ,鉄板料理 花六,Gojo,Teppanyaki,Kyoto Cuisine,￥10000～￥14999,NA,3.47,3.47,NA,2,34.99345906,135.7595496
-51,Kyoutohanabi  ,京都ハナビ,Karasuma,Izakaya (Tavern),Japanese food (other),￥2000～￥2999,NA,3.12,3.12,NA,25,35.00267232,135.7625575
-52,Kyoutohananomai  ,京都 花の舞,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999, ～￥999,3.04,3.04,NA,11,34.98679091,135.7609745
-53,pontochoutanrakuyatoriume  ,先斗町 炭楽屋とりうめ,Sanjo,Yakitori (Grilled chicken),Izakaya (Tavern),￥4000～￥4999,NA,3.05,3.05,NA,7,35.0076733,135.7712113
-54,Osakanadekoboko  ,御肴 凸鉾,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.42,3.42,NA,18,34.98970255,135.7611427
-55,Sunny  ,Sunny,Sanjo,Dining bar,Steak,￥3000～￥3999,￥1000～￥1999,3.48,3.33,3.35,39,35.00881262,135.7708999
-56,Gochiya  ,ご馳家,Kyoto,Izakaya (Tavern),Creative cuisine,￥3000～￥3999, ～￥999,3.18,3.13,3.1,33,34.98844046,135.7612791
-57,Shusaijoujou  ,酒菜 乗々,Kyoto,Creative cuisine,Izakaya (Tavern),￥5000～￥5999,NA,3.03,3.03,3.03,12,34.98836485,135.7552979
-58,o-rudeidainingukaza  ,オールデイダイニング カザ,Kyoto,Buffet style,Cafe,￥4000～￥4999,￥2000～￥2999,3.41,3.08,3.52,15,34.98616083,135.7525041
-59,Yakinikudainingukinoe  ,焼肉ダイニング 甲,Kyoto Shiyakusho Mae,Yakiniku (BBQ Beef),Korean cuisine,￥5000～￥5999,NA,3.58,3.57,3.51,39,35.01226046,135.7641636
-60,Manjirou  ,萬治郎,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥10000～￥14999,￥3000～￥3999,3.57,3.54,3.53,57,35.00174575,135.7800261
-61,Sakayaagurema  ,酒彩 あぐれま,Sanjo,Izakaya (Tavern),Sukiyaki,￥4000～￥4999,NA,3.03,3.03,NA,9,35.00940782,135.7701555
-62,chuugokuryourichimmin  ,中国料理 青冥 祇園店,Gion Shijo,Chinese,Dim sum,￥5000～￥5999,￥1000～￥1999,3.5,3.21,3.52,44,35.00413597,135.7750117
-63,Hanasaki  ,花咲 錦店,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,￥4000～￥4999,3.58,3.54,3.58,30,35.00439962,135.763206
-64,nikushokusakabagaru  ,肉食酒場 garu,Gion Shijo,Bar,Sumibiyaki,￥4000～￥4999, ～￥999,3.04,3.04,NA,11,35.00482165,135.7707395
-65,furenchidainingutoppuobukyouto  ,フレンチダイニング トップ オブ キョウト,Kyoto,French,Restaurants (other),￥10000～￥14999,￥5000～￥5999,3.07,3.07,3.06,33,34.9861625,135.7525049
-66,takaradoukarasuma  ,宝堂 KARASUMA,Shijo,Izakaya (Tavern),Sukiyaki,￥3000～￥3999,NA,3.05,3.05,NA,4,35.00253471,135.756843
-67,Ikedayahananomai  ,池田屋　はなの舞,Kyoto Shiyakusho Mae,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.07,3.08,3.06,59,35.00881037,135.7692595
-68,Kyoutogiontempurayasakaendou  ,京都祇園 天ぷら八坂圓堂,Gion Shijo,Tempura,Kaiseki (Traditional Japanese),￥10000～￥14999,￥5000～￥5999,3.68,3.64,3.68,252,34.99891458,135.7751116
-69,Ryoumashamonoujou  ,龍馬 軍鶏農場 京都駅前店,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3,3.01,3,27,34.98801827,135.7604673
-70,Komefuku  ,米福 四条烏丸,Karasuma,Tempura,Ten-don (Tempura Bowl),￥2000～￥2999, ～￥999,3.55,3.51,3.56,140,35.00460623,135.7613531
-71,Gionkyouryourihanasaki  ,祇園 京料理 花咲,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,￥4000～￥4999,3.5,3.32,3.45,56,35.00198761,135.7761595
-72,Izakayashinoomiya  ,はなまる串カツ製作所 大宮店,Shijo Omiya,Izakaya (Tavern),Kushi-age (Fried Skewer),￥2000～￥2999,NA,3.14,3.14,NA,30,35.00479625,135.7478417
-73,Ittetsugurache  ,Ittetsu Grazie,Karasuma,Yakiniku (BBQ Beef),Bar,￥3000～￥3999, ～￥999,3.52,3.5,3.32,33,35.0047037,135.7625385
-74,Ichishun  ,一瞬,Kyoto,Izakaya (Tavern),Japanese food (other),￥4000～￥4999, ～￥999,3.53,3.52,3.4,72,34.98777994,135.7594723
-75,Nikokubaru  ,ニューコクバル 京都山科店,Keihan Yamashina,Izakaya (Tavern),Kushi-age (Fried Skewer),￥2000～￥2999,NA,3.03,3.03,NA,15,34.99060702,135.8160011
-76,Teppansakuwan  ,鉄板 さくわん,Saiin,Teppanyaki,Izakaya (Tavern),￥3000～￥3999,NA,3.04,3.04,NA,1,35.00292116,135.7308126
-77,RIGOLETTO SMOKE GRILL & BAR  ,RIGOLETTO SMOKE GRILL & BAR,Gion Shijo,Italian,Spain,￥4000～￥4999,￥1000～￥1999,3.52,3.5,3.51,113,35.00238534,135.7761467
-78,Kugurinaberoppakuya  ,くぐり鍋 六白屋,Karasuma,Izakaya (Tavern),Japanese food (other),￥4000～￥4999,NA,3.08,3.04,3.12,19,35.00438452,135.7573826
-79,Kyouryouritategami  ,京料理 立神,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥2000～￥2999,3.51,3.49,3.2,11,35.01765441,135.752669
-80,Pontochourobin  ,先斗町 魯ビン,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,NA,3.48,3.23,3.5,66,35.00763747,135.7710769
-81,BELLOTA concha  ,ベジョータコンチャ 富小路店,Kawaramachi,Spain,Italian,￥3000～￥3999,￥1000～￥1999,3.16,3.16,3.06,23,35.00282871,135.7648308
-82,Bejitejiya  ,ベジテジや 四条木屋町店,Gion Shijo,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999,NA,3.11,3.11,NA,46,35.00353954,135.7702626
-83,Matsuzakagyuuwattsuzakicchin  ,松阪牛 WHAT'S THE KITCHEN,Gion Shijo,Steak,Sushi,￥10000～￥14999,NA,3.06,3.06,NA,4,35.00628348,135.7729284
-84,Sushidokoroima  ,寿し処 今,Katsura,Sushi,Seafood,￥6000～￥7999,NA,3.53,3.53,NA,13,34.97985049,135.7101313
-85,Maribuagaru  ,まりぶあがる,Karasuma,Izakaya (Tavern),Japanese food (other),￥3000～￥3999,NA,3.1,3.1,NA,24,35.00268274,135.7612376
-86,Italian bar Lugol  ,イタリアンバール ルゴール,Karasuma Oike,Italian,Pasta,￥2000～￥2999, ～￥999,3.03,3.02,3.04,28,35.01118767,135.7566701
-87,Takishokudou  ,ターキー食堂,Shijo,Dining bar,Izakaya (Tavern),￥3000～￥3999,NA,3.02,3.02,NA,3,35.00263301,135.7552976
-88,Bar Pleasure  ,バー プレジャー,Kawaramachi,Bar,Wine bar,￥2000～￥2999,NA,3,3,NA,2,35.00618862,135.7646683
-89,Sou  ,宗,Shijo,Izakaya (Tavern),Creative cuisine,￥4000～￥4999,NA,3.55,3.55,NA,44,35.00481777,135.7552661
-90,Kaisenizakayamatsurishungyotokyouyasaitoosakenoomise  ,海鮮居酒屋 祭ーMATSURIー 〜旬魚と京野菜とお酒のお店〜,Kawaramachi,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.03,3.03,NA,7,35.00400928,135.7703008
-91,Momojirou  ,ももじろう 師団街道龍大前店,Fukakusa,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),￥3000～￥3999,NA,3.04,3.04,NA,8,34.96281665,135.7680275
-92,Yakinikusakayaisshin  ,焼肉酒屋いっ心,Rokujizo,Yakiniku (BBQ Beef),Izakaya (Tavern),￥6000～￥7999,NA,3.1,3.1,3.05,8,34.93227203,135.7931888
-93,Kyouhonoka  ,京ほのか 三条木屋町店,Sanjo,Izakaya (Tavern),Creative cuisine,￥3000～￥3999,NA,3.01,3.02,NA,12,35.00908508,135.7702063
-94,Ampan  ,内房,Karasuma Oike,Korean cuisine,Yakiniku (BBQ Beef),￥3000～￥3999,￥1000～￥1999,3.08,3.09,3,20,35.00851073,135.7563705
-95,rino  ,Lino,Karasuma Oike,Italian,Pasta,￥6000～￥7999,￥1000～￥1999,3.2,3.05,3.2,10,35.01314247,135.7573791
-96,REAL NETA DINING ICHIZ  ,イチズ,Tambaguchi,Italian,Izakaya (Tavern),￥4000～￥4999, ～￥999,3.05,3.05,3,14,34.99294509,135.7357969
-97,nikubaruginjirou  ,肉バル銀次郎 先斗町店,Gion Shijo,Bar,Steak,￥3000～￥3999,NA,3.06,3.07,NA,7,35.00426533,135.7709809
-98,Kushikatsutanaka  ,串カツ田中 西院店,Saiin,Kushi-age (Fried Skewer),Izakaya (Tavern),￥2000～￥2999,NA,3.02,3.02,NA,3,35.00378496,135.731124
-99,nihonshusumiyakiyaiki  ,日本酒 炭焼き家 粋,Fushimi Momoyama,Izakaya (Tavern),Kappo (Traditional Japanese),￥3000～￥3999,NA,3.04,3.05,3,9,34.93199404,135.7634804
-100,Taketori  ,竹とり,Hanazono,Fowl,Yakitori (Grilled chicken),￥4000～￥4999,NA,3.06,3.06,NA,11,35.02000809,135.7186504
-101,Pierupureshiuzu  ,ピエール プレシウーズ,Karasuma Oike,French,Western Cuisine,￥5000～￥5999,￥1000～￥1999,3.06,3.04,3.06,14,35.0072607,135.762779
-102,Yamadaruma  ,やまだるま,Karasuma Oike,Izakaya (Tavern),Seafood,￥3000～￥3999, ～￥999,3.03,3.03,3.03,10,35.00734065,135.7604425
-103,unagihitsumabushisumiyagura  ,うなぎ･ひつまぶし炭櫓 京都四条河原町店,Kawaramachi,Unagi (Freshwater eel),Kyoto Cuisine,￥2000～￥2999,￥1000～￥1999,3.21,3.03,3.21,7,35.00358205,135.7698308
-104,pittsuxeriaba-rurenapori  ,ピッツェリア・バール・レ・ナポリ 京都錦,Karasuma,Italian,Pizza,￥2000～￥2999, ～￥999,3.37,3.07,3.52,37,35.00505425,135.7621433
-105,kyoutoufusousakuhirarinteikakurean  ,京豆腐創作 平林亭 隠れ庵,Kyoto,Izakaya (Tavern),Tofu,￥3000～￥3999,￥1000～￥1999,3,3,NA,10,34.98940589,135.7600375
-106,Yakinikusebun  ,焼肉 SEVEN,Tambaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,NA,3.3,3.3,NA,11,34.98936438,135.7366403
-107,Kushiyakimanten  ,串焼き満天 四条烏丸店,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),￥3000～￥3999,NA,3.07,3.08,NA,17,35.00431237,135.7610598
-108,Yakinikuichiba  ,焼肉市場 高野店,Chayama,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,NA,3.04,3.04,NA,3,35.04059256,135.787096
-109,Pizzeria e Bar La Voce  ,Pizzeria e Bar La Voce,Kawaramachi,Italian,Pizza,￥3000～￥3999,￥1000～￥1999,3.18,3.18,3.05,14,35.00244571,135.7659175
-110,Nyavetonamu  ,ニャーヴェトナム 京都店,Kyoto,Viet Nam cuisine,Cafe,￥3000～￥3999,￥1000～￥1999,3.04,3.04,3.02,18,34.98870873,135.7594598
-111,Taishuusakabatenuzumasatenjingawaten  ,大衆酒場 天 太秦天神川店,Uzumasa Tenjingawa,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,￥3000～￥3999,3.02,3.02,NA,1,35.01139164,135.7150866
-112,hoterukeihankyoutogurandeokujoubiaga-den  ,ホテル京阪京都 グランデ 屋上ビアガーデン,Kyoto,Beer garden,Beer,￥3000～￥3999,NA,3.05,3.05,NA,3,34.98359958,135.7609021
-113,Gionramburu  ,祇園らんぶる,Gion Shijo,Kyoto Cuisine,Creative cuisine,￥5000～￥5999,￥3000～￥3999,3.56,3.56,3.06,24,35.00311636,135.7753181
-114,Shisui  ,紫水,Sanjo,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3,3,NA,8,35.0091959,135.7705221
-115,gyouzaba-anzukko  ,GYOZA BAR 杏っ子,Kyoto Shiyakusho Mae,Dumplings,Chinese,￥2000～￥2999,NA,3.08,3.09,NA,25,35.00922116,135.769588
-116,jukuseiyakinikupondo  ,熟成焼肉 听 四条大宮店,Shijo Omiya,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,￥1000～￥1999,3.28,3.25,3.09,26,35.0045499,135.7481739
-117,KORAN  ,香蘭,Sai,Korean cuisine,Yakiniku (BBQ Beef),￥4000～￥4999,NA,3.12,3.12,NA,10,35.00348033,135.7346692
-118,Kyoutonijoutosaka  ,京都二条とさか,Marutamachi,Kappo (Traditional Japanese),Japanese food (other),￥8000～￥9999,￥2000～￥2999,3.53,3.36,3.57,13,35.01359001,135.7620504
-119,YAMAMURA GYUUBEI  ,近江牛Steak&Wine 山村牛兵衛 四条大宮店,Omiya,Izakaya (Tavern),Italian,￥3000～￥3999,￥1000～￥1999,3.06,3.04,3.06,17,35.00506152,135.7490321
-120,Poquito  ,ポキート,Kyoto Shiyakusho Mae,Spain,Dining bar,￥5000～￥5999,NA,3.51,3.51,NA,83,35.01034021,135.769428
-121,Machiyashisenhoshitsukiyo  ,町家四川 星月夜,Omiya,Sichuan Cuisine,Shanghai Cuisine,￥8000～￥9999,￥3000～￥3999,3.53,3.27,3.56,14,35.00146504,135.7535655
-122,Ameirobisutoroaruru  ,アメイロビストロアルル,Nishi Maizuru,Italian,Cafe,￥3000～￥3999,￥1000～￥1999,3.05,3.04,3.06,8,35.4531346,135.3290181
-123,LODGE  ,北海道ステーキハウス LODGE,Kyoto Shiyakusho Mae,Steak,Izakaya (Tavern),￥4000～￥4999,￥1000～￥1999,3.06,3.06,3,4,35.00979553,135.7687533
-124,Yosuke YAMAJI  ,山地陽介,Gion Shijo,French,Modern French,￥20000～￥29999,￥8000～￥9999,4.02,3.68,3.75,44,35.00270808,135.7756698
-125,Feliz-Lana  ,フェリスラナ,Karasuma,Italian,Bar,￥3000～￥3999,￥1000～￥1999,3.2,3.2,3.06,23,35.00233844,135.762685
-126,Wakanoshizuku  ,和花のしずく 三条木屋町店,Sanjo,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),￥3000～￥3999,NA,3.02,3.02,NA,4,35.00909702,135.7702294
-127,fujiyakyoushoku  ,Fuji屋 京色,Kyoto Shiyakusho Mae,Izakaya (Tavern),Japanese food (other),￥5000～￥5999,￥4000～￥4999,3.04,3.04,NA,8,35.01351755,135.7643427
-128,Teramachiyoshikura  ,寺町よしくら,Demachiyanagi,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥5000～￥5999,￥1000～￥1999,3.16,3.13,3.09,33,35.02876264,135.7676679
-129,sakanaryouritosakeshinsengumi  ,魚料理と酒 新鮮具味,Fushimi,Izakaya (Tavern),Seafood,￥6000～￥7999,￥2000～￥2999,3.28,3.28,NA,38,34.94028148,135.7471631
-130,bisutorowaraku  ,Bistro WARAKU 四条柳馬場店,Karasuma,Bistro,Bar,￥4000～￥4999,￥1000～￥1999,3.2,3.14,3.15,37,35.00442297,135.7640681
-131,Uroko  ,鱗,Kawaramachi,Izakaya (Tavern),Japanese food (other),￥3000～￥3999,NA,3.07,3.07,NA,18,35.00445418,135.770264
-132,Ipponyari  ,一本槍,Fujinomori,Fugu (Blowfish),Kappo (Traditional Japanese),￥8000～￥9999,NA,3.08,3.09,NA,5,34.95749214,135.7635309
-133,Higashinotouinsou  ,東洞院SOU,Karasuma Oike,Kappo (Traditional Japanese),Japanese food (other),￥4000～￥4999,￥1000～￥1999,3.15,3.15,3.06,6,35.00749425,135.7610202
-134,hokkorisakabanagomiya  ,ほっこり酒場なごみ家,Shijo Omiya,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3.06,3.06,NA,6,35.00615717,135.7449388
-135,teppandainingugionshou  ,鉄板Dining祇園 翔 縄手店,Gion Shijo,Izakaya (Tavern),Teppanyaki,￥2000～￥2999,NA,3.02,3.02,NA,1,35.004029,135.7729099
-136,Charcoal  ,チャコール,Shijo,Italian,Bar,￥3000～￥3999,NA,3.53,3.53,NA,19,35.00406592,135.7559905
-137,rakuenzakayaannachuraru  ,楽園酒屋 アンナチュラル,Demachiyanagi,Izakaya (Tavern),Dining bar,￥2000～￥2999,NA,3,3,NA,2,35.02952055,135.7791616
-138,Gionemon  ,祇園えもん,Higashiyama,Sushi,Kappo (Traditional Japanese),￥6000～￥7999,￥1000～￥1999,3.48,3.39,3.23,17,35.0070682,135.7779888
-139,Momojirou  ,ももじろう JR山科駅前店,Keihan Yamashina,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.08,3.08,NA,14,34.99188524,135.8175848
-140,Kizakurajirokutei  ,黄桜 治六亭,Sanjo,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.2,3.2,NA,15,35.00830406,135.7706505
-141,torisemmontenyamadori  ,鶏専門店山鶏,Kyoto,Yakitori (Grilled chicken),Sukiyaki,￥3000～￥3999,NA,3.38,3.38,NA,14,34.98937449,135.7588348
-142,satsumachirandorikuroyakibeppinya  ,さつま知覧どり 黒焼き べっぴんや,Karasuma,Izakaya (Tavern),Fowl,￥3000～￥3999,NA,3.48,3.46,3.08,39,35.00244984,135.7636802
-143,zensekikoshitsuizakayasakurazaka  ,全席個室居酒屋 桜坂 河原町店,Sanjo,Izakaya (Tavern),Seafood,￥2000～￥2999,NA,3,3,NA,4,35.00764346,135.7700259
-144,Chiritorinabeiyama  ,ちりとり鍋 伊山,Kitano Hakubaicho,Chiritori nabe (tripe),Korean cuisine,￥4000～￥4999,NA,3.52,3.52,NA,24,35.02669089,135.7336805
-145,Mayonakashokudouchoujuugigarokkaku  ,真夜中食堂 鳥獣戯画 六角,Karasuma Oike,Izakaya (Tavern),Fowl,￥2000～￥2999,NA,3.06,3.06,NA,3,35.00771635,135.7554773
-146,Bankettonishiki  ,ばんけっと Nishiki.,Karasuma,Japanese food (other),Izakaya (Tavern),￥4000～￥4999,NA,3.15,3.15,NA,7,35.00513934,135.7605384
-147,Roppakuyakado  ,Roppakuya KADO,Karasuma,Izakaya (Tavern),Wine bar,￥3000～￥3999,NA,3.06,3.06,NA,7,35.00446896,135.7575412
-148,Parinijuuikku  ,パリ21区,Kawaramachi,Steak,Beer,￥2000～￥2999,￥1000～￥1999,3.15,3.06,3.3,45,35.00517321,135.7665979
-149,ajidokorosamon  ,味どころ 佐門,Sai,Izakaya (Tavern),Okinawan Cuisine,￥3000～￥3999, ～￥999,3.05,3.04,3.03,2,35.00390667,135.7343301
-150,Ajidokoroterasaki  ,味処てらさき,Kyoto,Kaiseki (Traditional Japanese),Seafood,￥8000～￥9999,NA,3.52,3.52,NA,8,34.98844361,135.7505714
-151,STRADA  ,リストランテ ストラーダ,Kyoto Shiyakusho Mae,Italian,NA,￥6000～￥7999,￥2000～￥2999,3,3.02,3,18,35.01117003,135.7642834
-152,Nonkitei  ,呑寄亭,Gion Shijo,Kappo (Traditional Japanese),Creative cuisine,￥8000～￥9999,NA,3.47,3.47,NA,20,35.00561054,135.7757188
-153,kyouryourikaji  ,京料理 かじ,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥8000～￥9999,￥5000～￥5999,3.56,3.54,3.51,67,35.01723393,135.7544747
-154,nikugaumaikafenikkusutokku  ,肉が旨いカフェ NICK STOCK 京都リサーチパーク店,Tambaguchi,Cafe,Steak,￥2000～￥2999,￥1000～￥1999,3.19,3.09,3.14,41,34.99554177,135.736695
-155,momojirouichiba  ,ももじろう市場 京福北野白梅町駅前店,Kitano Hakubaicho,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.05,3.05,NA,3,35.02717192,135.7322658
-156,Waraiya  ,笑い屋,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),￥4000～￥4999,NA,3.09,3.1,NA,27,35.00281149,135.7649356
-157,Ryouma  ,龍馬 三条烏丸,Karasuma Oike,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.03,3.04,NA,1,35.00856997,135.7608254
-158,Nihonryouriukihashi  ,浮橋,Kyoto,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥8000～￥9999,￥3000～￥3999,3.53,3.51,3.54,42,34.98607818,135.7595916
-159,Sushiyoshino  ,寿司吉乃 先斗町,Sanjo,Sushi,Kappo (Traditional Japanese),￥6000～￥7999,￥2000～￥2999,3.06,3.06,NA,3,35.00814574,135.7709474
-160,Tsuneo  ,ツネオ,Gion Shijo,Kappo (Traditional Japanese),Wine bar,￥10000～￥14999,NA,3.52,3.52,NA,8,35.00028061,135.7786952
-161,KYOTO GATTEN  ,酒と肉天ぷら 勝天,Gion Shijo,Tempura,Sushi,￥3000～￥3999,￥1000～￥1999,3.09,3.06,3.18,11,35.0040634,135.7709187
-162,Figerasu  ,フィゲラス,Gion Shijo,Spain,Bar,￥5000～￥5999,NA,3.06,3.06,NA,14,35.00471337,135.772886
-163,LOTUS  ,スモーク＆グリル ロータス,Shijo,Italian,Izakaya (Tavern),￥4000～￥4999,NA,3.42,3.42,NA,30,35.00426398,135.757374
-164,Saredokafe  ,saredoかふぇ,Kyoto,Cafe,Crepes,￥1000～￥1999,￥1000～￥1999,3.11,3,3.12,21,34.98906643,135.7570222
-165,Kushinobou  ,串の坊 京都駅店,Kyoto,Kushi-age (Fried Skewer),NA,￥4000～￥4999,￥1000～￥1999,3.06,3.07,3,22,34.98607954,135.757872
-166,Kaisendokoroichi  ,海鮮処　一,Karasuma,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.08,3.09,NA,5,35.00722545,135.7641216
-167,Kyuushuunecchuuya  ,九州 熱中屋 四条大宮 LIVE,Omiya,Izakaya (Tavern),Dumplings,￥3000～￥3999,NA,3.08,3.09,3.04,12,35.00470434,135.7488441
-168,Nosutarujia  ,ノスタルジア,Kyoto Shiyakusho Mae,Dining bar,Italian,￥3000～￥3999,NA,3.04,3.04,NA,14,35.01004328,135.7687855
-169,sakesakanatanagokoro  ,酒・肴 タナゴコロ,Gojo,Izakaya (Tavern),Japanese food (other),￥4000～￥4999,NA,3.06,3.06,NA,9,34.99779948,135.7625708
-170,mo-shondaina-  ,MOTION DINER KYOTO,Kyoto Shiyakusho Mae,Cafe,Burger,￥2000～￥2999,￥1000～￥1999,3.12,3.05,3.12,19,35.00799043,135.7676282
-171,Sumibikushiyakitsujiya  ,つじや 四条御幸町店,Kawaramachi,Yakitori (Grilled chicken),Izakaya (Tavern),￥3000～￥3999,NA,3.05,3.05,NA,10,35.00295927,135.7662847
-172,Tenshinchashitsu  ,點心茶室 京都店,Kyoto,Shanghai Cuisine,Cantonese Cuisine,￥3000～￥3999,￥1000～￥1999,3.54,3.51,3.52,52,34.985854,135.7574248
-173,Haiborubakyoutokarasumaichikyuuniisan  ,ハイボールバー京都烏丸1923,Karasuma,Bar,Bar,￥2000～￥2999,￥2000～￥2999,3.22,3.22,NA,4,35.00460285,135.7587244
-174,Oumigyuuyakinikumeitokuya  ,近江牛焼肉 銘特屋,Jujo,Yakiniku (BBQ Beef),NA,￥4000～￥4999,NA,3,3,3.04,2,34.96957352,135.7571817
-175,Mukadeya  ,百足屋 本店,Karasuma,Kyoto Cuisine,Japanese food (other),￥6000～￥7999,￥3000～￥3999,3.07,3,3.08,21,35.00565923,135.7564687
-176,Hanagokoro  ,花ごころ,Hanazono,Kyoto Cuisine,Shojin Cuisine (Buddhist Cuisine),￥3000～￥3999,￥1000～￥1999,3.08,3.09,3.06,11,35.02110425,135.721943
-177,Rakuza  ,楽坐 京都本店,Kyoto,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.22,3.22,NA,29,34.98814654,135.7578547
-178,Monakadou  ,もなか堂,Kawaramachi,Izakaya (Tavern),Creative cuisine,￥3000～￥3999,NA,3.07,3.08,NA,10,35.00462229,135.7699111
-179,kyoutoayanokoujimangetsunohana  ,京都綾小路 満月の花,Karasuma,Sweets,Japanese food (other),￥2000～￥2999, ～￥999,3.26,3.09,3.21,26,35.00256177,135.7636721
-180,shunsaibaruiberiko  ,旬彩バル イベリコ,Sanjo,Dining bar,Creative cuisine,￥3000～￥3999,NA,3.05,3.05,NA,4,35.00759578,135.7696395
-181,Ikiikiudon  ,いきいきうどん 京都店,Karasuma Oike,Udon,Japanese food (other), ～￥999, ～￥999,3.18,3.09,3.14,47,35.01121047,135.758368
-182,zasera-kyouto  ,The Cellar KYOTO,Kyoto Shiyakusho Mae,Dining bar,Kappo (Traditional Japanese),￥6000～￥7999,NA,3.05,3.05,NA,2,35.00936892,135.7694105
-183,Daikokuebisu  ,大黒戎,Saiin,Yakiniku (BBQ Beef),Korean cuisine,￥4000～￥4999,NA,3.06,3.06,NA,15,35.00338444,135.7308404
-184,kaitoshirowainnobarukakimaru  ,貝と白ワインのバル KAKIMARU 七条店,Kyoto,Bar,Italian,￥3000～￥3999,NA,3,3,NA,8,34.98938581,135.755149
-185,chisouyouga  ,馳走 陽雅,Gojo,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥10000～￥14999,￥6000～￥7999,3.63,3.61,3.51,8,34.99403705,135.759206
-186,Kushiyamonogatari  ,串家物語 京都ヨドバシ店,Kyoto,Kushi-age (Fried Skewer),Izakaya (Tavern),￥2000～￥2999,￥1000～￥1999,3,3,3.01,14,34.98813074,135.7593007
-187,nihonshubarujinsuke  ,日本酒バル JINSUKE,Karasuma,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.05,3.05,NA,8,35.00261177,135.7637935
-188,Hanatanuki  ,花たぬき 御池店,Nishioji Oike,Izakaya (Tavern),Okonomiyaki,￥3000～￥3999,NA,3.01,3.01,NA,11,35.01119252,135.7321621
-189,izakayaba-shiba  ,居酒屋BAR SIBA,Gion Shijo,Izakaya (Tavern),Japanese food (other),￥3000～￥3999,NA,3.03,3.03,NA,2,35.00484974,135.7726319
-190,Satsumagokamon  ,薩摩ごかもん 京都四条烏丸本店,Karasuma,Izakaya (Tavern),Sukiyaki,￥3000～￥3999, ～￥999,3.07,3.09,3,27,35.00407238,135.7601146
-191,Kyoutoyamanashiyakitorikanazawa  ,京都山科 焼鳥 かなざわ,Keihan Yamashina,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3.06,3.06,NA,36,34.99133142,135.818192
-192,Himiko  ,卑弥呼 舞鶴,Higashi Maizuru,Izakaya (Tavern),Seafood,￥4000～￥4999,￥1000～￥1999,3.12,3.08,3.21,29,35.47565945,135.3949543
-193,koshitsuichiammasamunebettei  ,個室 一庵正宗 別邸 京都木屋町店 ,Gion Shijo,Izakaya (Tavern),Dining bar,￥2000～￥2999,￥2000～￥2999,3.06,3.06,NA,2,35.00480526,135.770749
-194,CHULETA  ,チュレタ,Gion Shijo,Spain,Bar,￥5000～￥5999,￥1000～￥1999,3.58,3.58,3.06,24,35.00413204,135.7727738
-195,GRILL&PUB The NICK STOCK  ,GRILL&PUB The NICK STOCK 三条河原町店,Sanjo,Steak,Bar,￥2000～￥2999,￥1000～￥1999,3,3.06,3,19,35.00873289,135.7699163
-196,Choushuuryourikyoumon  ,町衆料理 京もん,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥5000～￥5999,￥2000～￥2999,3.07,3.08,NA,34,35.00929562,135.7705921
-197,Brochette  ,ブロシェット,Karasuma Oike,Western (Others),French,￥3000～￥3999,￥1000～￥1999,3.55,3.54,3.51,44,35.01039006,135.7611512
-198,Ilifune  ,ilifune,Jingu Marutamachi,Dining bar,Italian,￥3000～￥3999,NA,3.06,3.06,NA,1,35.01678867,135.7686541
-199,Satsuki  ,さつき,Kyoto Shiyakusho Mae,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,NA,3.51,3.51,NA,5,35.01189478,135.770775
-200,Kaitoshirowainnobarukakimaru  ,貝と白ワインのバル KAKIMARU 西院店,Saiin,Bar,Izakaya (Tavern),￥3000～￥3999,NA,3.04,3.04,NA,3,35.00238373,135.7314704
-201,Sandaimetorimero  ,三代目 鳥メロ 四条烏丸店,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999,NA,3,3,NA,2,35.0039504,135.7574829
-202,Furenchibado  ,フレンチバード,Kyoto Shiyakusho Mae,French,Bistro,￥4000～￥4999,￥1000～￥1999,3.06,3.06,NA,11,35.01369227,135.7653087
-203,BISTRO BAR A VIN  C  ,ビストロ セー,Shijo,Bistro,Seafood,￥2000～￥2999,￥3000～￥3999,3.51,3.51,3.1,49,35.00139624,135.7581785
-204,Figerasu  ,フィゲラス 烏丸店,Karasuma,Spain,Bar,￥3000～￥3999,NA,3.04,3,3.06,11,35.00620938,135.7604378
-205,Sorekaraayanokouji  ,それから 綾小路,Shijo,Izakaya (Tavern),Japanese food (other),￥4000～￥4999,NA,3,3,NA,10,35.00244591,135.7613851
-206,nikugaumaikafenikkusutokku  ,肉が旨いカフェ NICK STOCK イオンモールKYOTO店,Toji,Cafe,Steak,￥1000～￥1999,￥1000～￥1999,3.19,3.11,3.09,17,34.98310398,135.7550146
-207,Teppankushiyakisakura  ,鉄板串焼き 咲蔵,Chushojima,Izakaya (Tavern),Teppanyaki,￥3000～￥3999, ～￥999,3.05,3.04,3.05,7,34.93041692,135.7598977
-208,TORIBUN  ,炭焼家 酉文,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,￥1000～￥1999,3.02,3.02,3.02,10,35.00400394,135.7695802
-209,Supuringubareburuwarikyouto  ,スプリングバレーブルワリー 京都,Kawaramachi,Dining bar,Cafe,￥3000～￥3999,￥1000～￥1999,3.53,3.52,3.43,36,35.00541454,135.7648569
-210,Bistro SUMIRE Chinese   ,Bistro SUMIRE Chinese ,Gion Shijo,Chinese,Dim sum,￥8000～￥9999,NA,3.35,3.35,NA,13,35.00186918,135.7702564
-211,Bisutoroemuiaru  ,ビストロMER,Gion Shijo,Bistro,Italian,￥4000～￥4999,NA,3.48,3.48,NA,20,35.00586157,135.7726249
-212,Daitouryou  ,大當両,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥4000～￥4999,3.08,3.05,3.13,16,35.00468501,135.7711664
-213,Nagomijun  ,和 旬゛,Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥3000～￥3999,3.15,3.15,3.05,16,35.00489414,135.7548028
-214,Hiroya  ,ひろや,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥15000～￥19999,￥15000～￥19999,3.59,3.59,3.57,51,35.12242459,135.7634156
-215,Kenedhikurabu  ,ケネディクラブ,Sanjo,Bar,Italian,￥3000～￥3999,NA,3.04,3.04,NA,2,35.01012275,135.7707029
-216,zensekikoshitsuizakayataketorinoneiro  ,全席個室居酒屋 竹取の音色 京都駅前店,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3,3,NA,10,34.98736196,135.7607689
-217,Miho  ,味峯 四条壬生店,Shijo Omiya,Izakaya (Tavern),Okinawan Cuisine,￥3000～￥3999,NA,3.12,3.12,NA,20,35.00341411,135.7435729
-218,Chabana  ,ちゃばな  七条新町店,Kyoto,Okonomiyaki,Izakaya (Tavern),￥2000～￥2999,NA,3.01,3.01,NA,8,34.98935391,135.7574413
-219,Akayashiro  ,あかやしろ,Tambaguchi,Horumon (BBQ Offel),Yakiniku (BBQ Beef),￥4000～￥4999,NA,3.52,3.52,3.03,37,34.99369085,135.7361948
-220,Sousakukoshitsuizakayasugiurakyoutoekimaeshichijouten  ,創作個室居酒屋すぎうら 京都駅前七条店,Shichijo,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.18,3.18,NA,2,34.98945148,135.7620021
-221,Sakanayariichi  ,酒肴菜や 利一,Keihan Yamashina,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.05,3.05,NA,10,34.99107112,135.8153492
-222,yasaidainingukusushi  ,野菜ダイニング 薬師,Sanjo,Vegetable dishes,Izakaya (other),￥3000～￥3999,NA,3.05,3.06,NA,5,35.00844624,135.769312
-223,nikuyanodaidokoro  ,肉屋の台所 京都木屋町ミート,Sanjo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,￥1000～￥1999,3,3,3.03,6,35.00828295,135.7706041
-224,Miyagawachousaka  ,宮川町 さか,Gion Shijo,Italian,French,￥20000～￥29999,￥10000～￥14999,3.09,3.09,NA,11,34.99912393,135.7709428
-225,Kashiwa  ,かしわ 祇園豆六小路,Gion Shijo,Yakitori (Grilled chicken),Fowl,￥3000～￥3999,NA,3.06,3.06,NA,11,35.00526306,135.7747064
-226,Iorisantouka  ,庵 山頭火,Emmachi,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.05,3.05,NA,5,35.01739681,135.7296451
-227,Kyuushuunecchuuya  ,九州 熱中屋 桂 LIVE,Katsura,Izakaya (Tavern),Dumplings,￥3000～￥3999,NA,3.03,3.03,NA,3,34.97964124,135.7042673
-228,kyoutokushidokoroazumaya  ,京都串処東屋,Sanjo,Yakitori (Grilled chicken),Izakaya (Tavern),￥1000～￥1999,NA,3,3,NA,1,35.00720695,135.7706325
-229,Chizutakkarubitonichinandorisachi  ,チーズタッカルビと日南どり 幸,Saiin,Izakaya (Tavern),Bar,￥3000～￥3999,NA,3.04,3.04,NA,3,35.00301033,135.7314795
-230,Shunsaifujii  ,旬菜 ふじ井,Kitaoji,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),￥8000～￥9999,￥5000～￥5999,3.35,3.35,NA,6,35.04331715,135.7612854
-231,Hitotose  ,ひととせ,Kyoto,Japanese food (other),Izakaya (Tavern),￥3000～￥3999,NA,3,3,NA,3,34.98940618,135.7607322
-232,Bairan  ,梅蘭 イオンモール京都桂川店,Katsuragawa,Chinese,Dim sum,￥1000～￥1999, ～￥999,3.12,3.1,3.07,29,34.96386603,135.7069295
-233,Setsugekka  ,雪月花,Kyoto Shiyakusho Mae,Bar,Lounge,￥2000～￥2999,NA,3.13,3.13,3.06,35,35.00883723,135.7648326
-234,yakinikutobi-ruichibakouji  ,焼肉とビール 市場小路 四条烏丸店,Karasuma,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999,￥1000～￥1999,3.06,3.05,3.06,4,35.00410265,135.760134
-235,Sandaimetorimero  ,三代目 鳥メロ 四条大宮店,Shijo Omiya,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999,NA,3.04,3.04,3.04,5,35.00390081,135.7484328
-236,zensekikoshitsuizakayatsukinokakehashi  ,全席個室居酒屋 月のかけはし 京都駅前店,Kyoto,Izakaya (Tavern),Regional Cuisine (Other),￥3000～￥3999,NA,3,3,NA,6,34.98741639,135.7607511
-237,tounyuutonshabutoratarou  ,豆乳とんしゃぶ 寅太郎,Shijo,Kaiseki (Traditional Japanese),Shabu Shabu (Japanese Steamboat),￥5000～￥5999,￥3000～￥3999,3,3,3.06,31,35.00148544,135.7604427
-238,Dainingunagomi  ,Dining Nagomi 山科店,Keihan Yamashina,Izakaya (Tavern),Japanese food (other),￥2000～￥2999,NA,3,3,NA,8,34.9896418,135.8134167
-239,Mossannobetayaki  ,モッさんのべた焼,Sai,Okonomiyaki,Horumon (BBQ Offel),￥2000～￥2999, ～￥999,3.51,3.51,3.06,19,35.00305796,135.7395511
-240,gionnotonjiruyasanadachiya  ,ぎおんの豚汁屋さん あだち家,Gion Shijo,Regional Cuisine (Other),Nihonshu (Japanese sake),￥3000～￥3999,NA,3.15,3.15,NA,11,35.00465785,135.7745367
-241,Gottie'sBEEF  ,ゴッチーズビーフ 四条木屋町,Gion Shijo,Steak,Yakiniku (BBQ Beef),￥4000～￥4999,￥1000～￥1999,3.09,3.09,3.07,50,35.00421394,135.7706595
-242,pasutakorekushonandoba-dougetsuneo  ,Pasta Collection &  Bar 道月neo,Shijo,Izakaya (Tavern),Pasta,￥4000～￥4999,￥1000～￥1999,3.43,3.09,3.52,9,35.0023748,135.7609818
-243,Shougetsu  ,将月 河原町店,Kawaramachi,Okonomiyaki,Teppanyaki,￥2000～￥2999, ～￥999,3.08,3.09,3.07,22,35.00676697,135.7689501
-244,Kampaiboupuruda  ,韓杯房 PURUDA. 三条木屋町店,Sanjo,Korean cuisine,Yakiniku (BBQ Beef),￥3000～￥3999,NA,3,3,NA,4,35.01028385,135.7707329
-245,teppandainingugionshou  ,鉄板Dining祇園 翔 四条烏丸店,Karasuma,Izakaya (Tavern),Italian,￥2000～￥2999,NA,3.03,3.03,3,2,35.00475477,135.7581783
-246,Sajiki  ,桟敷,Karasuma,Izakaya (Tavern),Japanese food (other),￥4000～￥4999,NA,3,3,NA,21,35.00625164,135.7627323
-247,gansochiriteppanyakimotsunabeakachiriya  ,元祖 ちり鉄板焼×もつ鍋 赤ちり屋 京都駅八条口店,Kyoto,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),￥3000～￥3999,NA,3.02,3.03,3,12,34.98304879,135.7600159
-248,Nikumon  ,肉もん,Omiya,Yakiniku (BBQ Beef),Izakaya (Tavern),￥3000～￥3999,NA,3,3,NA,11,35.00432743,135.7485169
-249,pontochouyakinikuyaruki  ,先斗町焼肉　やる気,Sanjo,Yakiniku (BBQ Beef),Bar,￥3000～￥3999,NA,3.06,3.06,NA,4,35.00758636,135.7709527
-250,BAR-CERVECERIA xativa  ,シャティバ,Kyoto Shiyakusho Mae,Spain,Bar,￥3000～￥3999,NA,3.45,3.45,NA,12,35.01307482,135.7701747
-251,Ginnan  ,ぎんなん,Kyoto,Izakaya (Tavern),Tofu,￥4000～￥4999,NA,3.05,3.05,NA,11,34.98938754,135.7588273
-252,Kyuushuunecchuuya  ,九州 熱中屋 伏見桃山 LIVE,Fushimi Momoyama,Izakaya (Tavern),Dumplings,￥3000～￥3999,NA,3,3,NA,6,34.93326503,135.7645928
-253,konken  ,コンケン,Kawaramachi,Thailand cooking,Izakaya (Tavern),￥1000～￥1999, ～￥999,3.12,3.09,3.08,7,35.00479548,135.7672726
-254,Yakinikuhorumonanju  ,焼肉･ホルモン あんじゅ,Karasuma,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999,NA,3,3,NA,5,35.00506675,135.761928
-255,Yamabanaheihachidiya  ,山ばな平八茶屋,Shugakuin,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,￥4000～￥4999,3.56,3.54,3.48,29,35.05406522,135.7910692
-256,Idutsuya  ,いづつ家 三条店,Karasuma Oike,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3.28,3.28,3,9,35.00947992,135.7635407
-257,Kyouyoushokumatsumoto  ,京洋食　まつもと,Karasuma,Western Cuisine,French,￥4000～￥4999,￥1000～￥1999,3.33,3.12,3.43,20,35.00622096,135.7555927
-258,Ashuckurk  ,アシュクルク,Demachiyanagi,Bistro,Bar,￥3000～￥3999,NA,3,3,NA,7,35.0282667,135.7741001
-259,ITALIAN BAR MODERNTIMES  ,イタリアンバール モダンタイムス,Marutamachi,Italian,Pizza,￥2000～￥2999, ～￥999,3.29,3.16,3.27,15,35.01342966,135.7571686
-260,Aiyoxtsu  ,あいよっ！,Karasuma Oike,Kushi-age (Fried Skewer),Izakaya (Tavern),￥1000～￥1999, ～￥999,3.05,3.05,3.04,5,35.00839081,135.7604566
-261,Chanchi  ,チャンチ 京都店 ,Kyoto,Korean cuisine,Izakaya (Tavern),￥2000～￥2999, ～￥999,3.46,3.05,3.46,34,34.98820184,135.7590032
-262,SHUKURA  ,酒蔵,Sanjo,Bar,Nihonshu (Japanese sake),￥3000～￥3999,NA,3.06,3.06,NA,5,35.00831323,135.7709863
-263,mikusoroji-ba-sumu-su  ,mixologybar smooth,Gion Shijo,Bar,Dining bar,￥2000～￥2999,NA,3.05,3.05,NA,3,35.00487859,135.7706387
-264,Kinugawa  ,きぬがわ,Gojo,Kappo (Traditional Japanese),Shabu Shabu (Japanese Steamboat),￥6000～￥7999,￥2000～￥2999,3.42,3.42,NA,8,34.99655509,135.758194
-265,Momojirou  ,ももじろう 今出川百万遍店,Demachiyanagi,Izakaya (Tavern),Seafood,￥2000～￥2999,NA,3.01,3.01,NA,6,35.02863145,135.7780225
-266,daikouen  ,大香園,Tambaguchi,Yakiniku (BBQ Beef),Korean cuisine,￥4000～￥4999,NA,3.21,3.21,NA,16,34.99871515,135.7425885
-267,Gounotora  ,五黄の寅,Shijo,Izakaya (Tavern),Nihonshu (Japanese sake),￥3000～￥3999,NA,3.16,3.16,NA,9,35.00255082,135.7569447
-268,Bejotamuamua  ,ベジョータ ムアムア 烏丸三条店,Karasuma Oike,Bar,Western (Others),￥3000～￥3999,NA,3.1,3.1,NA,16,35.00851747,135.760478
-269,Ichibakouji  ,市場小路 寺町本店,Kawaramachi,Izakaya (Tavern),Steak,￥3000～￥3999,￥1000～￥1999,3.51,3.5,3.5,69,35.00525792,135.7666593
-270,shioriyaichie  ,栞屋一會,Kyoto Shiyakusho Mae,Izakaya (Tavern),Nihonshu (Japanese sake),￥4000～￥4999,NA,3.07,3.07,3.07,19,35.01124069,135.7706653
-271,Kitayama  ,きた山 本店,Gion Shijo,Hot Pot (other),Kyoto Cuisine,￥5000～￥5999,￥2000～￥2999,3.02,3.02,NA,5,35.00297557,135.7707829
-272,Tempurashinjukutsunahachi  ,天ぷら新宿つな八 京都店,Kawaramachi,Tempura,Kaiseki (Traditional Japanese),￥4000～￥4999,￥1000～￥1999,3.02,3.02,3.02,17,35.00320622,135.7681326
-273,yakinikuajidouraku  ,焼肉味道楽,Higashi Maizuru,Yakiniku (BBQ Beef),Seafood,￥3000～￥3999,NA,3.06,3.06,NA,2,35.46972481,135.3952918
-274,IL TOBANCHI  ,イル トバンキ,Karasuma Oike,Bar,Italian,￥3000～￥3999,NA,3.18,3.16,3.08,15,35.00819267,135.7544804
-275,Shikinoajisugiura  ,四季の味すぎうら 蛸薬師店,Karasuma,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.15,3.14,3.07,17,35.00633325,135.7604409
-276,Kyoutoyakitoriseisakujo  ,京都焼鳥製作所,Kawaramachi,Yakitori (Grilled chicken),Fowl,￥3000～￥3999,NA,3.29,3.29,NA,17,35.00255483,135.7661487
-277,arashiyamakushibun  ,嵐山 串文,Shijo,Kushi-age (Fried Skewer),Izakaya (Tavern),￥3000～￥3999,NA,3.21,3.21,3.02,14,35.0035746,135.7570132
-278,Toriasa  ,鳥あさ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999, ～￥999,3.09,3.08,3.13,23,35.00407349,135.7601152
-279,zensekikoshitsuizakayawazakurahitohira  ,全席個室居酒屋 和桜ひとひら 京都駅前店,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.02,3.02,NA,11,34.98995056,135.760263
-280,saredowa  ,310 saredowa,Kyoto,Izakaya (Tavern),Creative cuisine,￥3000～￥3999,NA,3.38,3.38,NA,11,34.98856423,135.7550916
-281,gyokouchokusoukaisensakabaanji  ,漁港直送 海鮮酒場 あんじ 麩屋町綾小路店,Kawaramachi,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.53,3.53,3,83,35.00257736,135.7656528
-282,Rejon  ,レジョン,Kawaramachi,French,Bistro,￥4000～￥4999,￥1000～￥1999,3.4,3.33,3.15,5,35.00434104,135.7646961
-283,Maruichi  ,まるいち,Sanjo,Yakiniku (BBQ Beef),Korean cuisine,￥4000～￥4999,NA,3.02,3.02,NA,13,35.00766412,135.7702466
-284,Osakenobijutsukan  ,お酒の美術館 河原町三条店,Kyoto Shiyakusho Mae,Bar,Dining bar,￥1000～￥1999,￥1000～￥1999,3.06,3.06,3.04,6,35.00851345,135.7692111
-285,wainandooyasaibarubejibaru  ,ワイン＆お野菜バル ベジバル,Shijo,Italian,Wine bar,￥4000～￥4999,￥2000～￥2999,3.51,3.51,3.24,33,35.00276905,135.7567664
-286,kaitoshirowainnobarukakimaru  ,貝と白ワインのバル KAKIMARU 綾小路店,Kawaramachi,Bar,Izakaya (Tavern),￥3000～￥3999,NA,3.31,3.31,NA,10,35.00251013,135.7647382
-287,Yudoufutakemura  ,湯どうふ 竹むら,Arashiyama,Tofu,Yuba,￥3000～￥3999,￥3000～￥3999,3.5,3.18,3.52,47,35.01748616,135.6768201
-288,ajiromanishigamatei  ,味浪漫いしがま亭,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,￥4000～￥4999,￥1000～￥1999,3.12,3.07,3.21,27,35.00212499,135.7703708
-289,Giombansankyoushoku  ,祇園 晩餐 京色,Gion Shijo,Izakaya (Tavern),Tempura,￥5000～￥5999,NA,3,3,NA,5,35.00474394,135.7737945
-290,Kyouhorumonhana  ,京ホルモン花,Kujo,Izakaya (Tavern),Horumon (BBQ Offel),￥2000～￥2999,NA,3.06,3.06,NA,10,34.9816928,135.7583544
-291,Bar PLAYGROUND  ,バル　プレイグラウンド,Imadegawa,Bar,Wine bar,￥3000～￥3999,￥1000～￥1999,3.06,3.06,3.05,2,35.02956428,135.7547553
-292,Kyameron  ,キャメロン,Kawaramachi,Steak,French,￥6000～￥7999,￥2000～￥2999,3.07,3,3.08,50,35.00071701,135.7663473
-293,Sumibikazuya  ,炭火 かず家,Kawaramachi,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.51,3.51,3.06,21,35.0050144,135.7702609
-294,Kandumebaruamichi  ,缶詰BAL Amici,Karasuma,Bar,Izakaya (Tavern),￥3000～￥3999, ～￥999,3.05,3.06,NA,2,35.00635538,135.7549885
-295,Ikkakujuu  ,いっかくじゅう 烏丸店,Shijo,Izakaya (Tavern),Teppanyaki,￥3000～￥3999,NA,3.29,3.29,3,17,35.00248202,135.7615023
-296,Jounetsushokusaikyoushoku  ,情熱食彩 京色,Kawaramachi,Seafood,Kyoto Cuisine,￥4000～￥4999,NA,3.08,3.08,3.08,31,35.00334798,135.7669793
-297,Yakinikumarutomi  ,焼肉まる富 四条河原町店,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),￥4000～￥4999,￥1000～￥1999,3.06,3.06,NA,3,35.0035826,135.769831
-298,toriiebisu  ,魚里ゐ夷,Kyoto,Seafood,Izakaya (Tavern),￥4000～￥4999,NA,3.51,3.51,3.07,20,34.98289075,135.7600028
-299,Kyoutokeburikawa  ,京都・烟河,  Kameoka,Ryokan,Auberge,￥8000～￥9999,￥2000～￥2999,3.42,3.49,3.45,27,35.02188926,135.4998709
-300,Gionyamamoto  ,祇園 山本,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥10000～￥14999,￥10000～￥14999,3.06,3.06,3.05,2,35.00533835,135.7759699
-301,Kappouyoshizen  ,割烹 吉膳,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),￥10000～￥14999,￥10000～￥14999,3.58,3.56,3.5,16,35.00145522,135.7792937
-302,Nikuryouritobatoyo  ,肉料理 とばとよ,Karasuma,Beef dishes,Wine bar,￥4000～￥4999, ～￥999,3.04,3.04,NA,3,35.00643287,135.7551302
-303,jikidoukagura  ,食堂 かぐら,Nijojo Mae,Kappo (Traditional Japanese),Izakaya (Tavern),￥4000～￥4999,NA,3.04,3.04,NA,2,35.01219614,135.754713
-304,itaria-nasagura  ,italiana SAGRA,Gion Shijo,Italian,Wine bar,￥8000～￥9999,￥3000～￥3999,3.59,3.6,3.52,76,35.00453502,135.7711453
-305,Puranchaken  ,プランチャー健,Gion Shijo,Steak,Creative cuisine,￥8000～￥9999,NA,3.53,3.53,NA,10,35.00429774,135.7764759
-306,Bansankyoushoku  ,BANSAN 京色,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),￥3000～￥3999,NA,3.31,3.31,NA,23,35.00408133,135.7638407
-307,Azuki  ,あずき,Keihan Yamashina,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3,3,NA,23,34.99017068,135.8160014
-308,Ichibakouji  ,市場小路 ジェイアール京都伊勢丹店,Kyoto,Dining bar,Creative cuisine,￥4000～￥4999,￥1000～￥1999,3.5,3.45,3.2,68,34.98585234,135.757424
-309,Sumikatominokouji  ,棲家・富小路,Kawaramachi,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.52,3.52,3.05,60,35.00430966,135.7649689
-310,zensekikoshitsuizakayasakurakomachi  ,全席個室居酒屋 桜小町 四条烏丸店,Kawaramachi,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3,3,NA,5,35.00385444,135.7653569
-311,Imomatsu  ,いも松,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,NA,3.07,3.07,NA,9,34.98934687,135.7563728
-312,Rakuchin  ,楽珍,Gion Shijo,Kushi-age (Fried Skewer),Japanese food (other),￥6000～￥7999,NA,3.31,3.31,NA,5,35.00456702,135.7745759
-313,Mogu piatti  ,モグピアッティ,Karasuma Oike,Italian,Bar,￥3000～￥3999,￥1000～￥1999,3.04,3.04,NA,4,35.00850498,135.7612626
-314,sute-kihausupondo  ,ステーキハウス 听 四条河原町店,Kawaramachi,Steak,Western Food (Other),￥5000～￥5999,￥1000～￥1999,3.31,3.27,3.1,40,35.00395673,135.7699799
-315,Taichirouya  ,たいちろうや,Nishikyogoku,Izakaya (Tavern),Seafood,￥5000～￥5999,NA,3.05,3.05,NA,3,34.99117387,135.7186397
-316,Yakinikuhorumongyuuteruryourianiki  ,焼肉ホルモン・牛テール料理　あにき,Shijo Omiya,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999, ～￥999,3.14,3.14,3.12,14,35.00338911,135.7436246
-317,shioriya  ,栞屋 烏丸仏光寺店,Shijo,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.01,3,3.02,25,35.00121602,135.7601425
-318,Bar MICHIya  ,Bar MICHIya,Sanjo,Bar,Bar,￥3000～￥3999,NA,3.26,3.26,NA,46,35.0092109,135.7705649
-319,Kushidainigusumiyakiromanya  ,浪漫家 四条烏丸店,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3.03,3.03,NA,14,35.00394263,135.7578403
-320,Daniel's Luce   ,Daniel's Luce ,Kyoto,Italian,NA,￥3000～￥3999,NA,3.04,3.04,NA,2,34.98778049,135.759121
-321,Trattoria La Voce  ,トラットリア ラ・ヴォーチェ,Karasuma,Italian,Pasta,￥4000～￥4999,￥1000～￥1999,3.5,3.13,3.53,76,35.00460172,135.7575642
-322,Saketosakanatootokomaeshokudou  ,酒と魚とオトコマエ食堂,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999,￥3000～￥3999,3,3,3.03,5,34.98769275,135.760535
-323,Karyou  ,迦陵,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,￥5000～￥5999,3.68,3.72,3.71,56,35.00178805,135.7745762
-324,Kyoutotawahoteruokujoubiagaden  ,京都タワーホテル 屋上ビアガーデン,Kyoto,Beer garden,BBQ,￥3000～￥3999,￥4000～￥4999,3.04,3.04,3.01,15,34.98742999,135.7599737
-325,kyouchabana  ,京ちゃばな 南新町店,Kyoto,Okonomiyaki,Izakaya (Tavern),￥2000～￥2999,NA,3.12,3.12,NA,23,34.98908171,135.7569578
-326,giwonizakayamomojirou  ,祗園 居酒屋 桃次郎 総本店,Gion Shijo,Izakaya (Tavern),Seafood,￥5000～￥5999,NA,3.04,3.04,NA,15,35.00586023,135.7749774
-327,zeppinryokuchadashishabunoomiseiemon  ,絶品 緑茶だししゃぶのお店 煎右衛門,Kyoto,Izakaya (Tavern),Japanese food (other),￥3000～￥3999,NA,3.06,3.06,NA,5,34.98940757,135.7608544
-328,Kyo gastronomy KOZO  ,Kyo gastronomy KOZO,Marutamachi,French,Kyoto Cuisine,￥6000～￥7999,￥3000～￥3999,3.06,3.06,3.06,12,35.01638282,135.7650545
-329,Teramachihambagugokurakutombo  ,寺町ハンバーグ 極楽蜻蛉,Kyoto Shiyakusho Mae,Hamburger Steak,Western Cuisine,￥3000～￥3999,￥1000～￥1999,3.04,3.03,3.04,6,35.01416698,135.7674096
-330,Karasumarugenkiichiba  ,烏丸元気市場,Karasuma Oike,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.04,3.05,NA,12,35.01037447,135.7591983
-331,Ikkon  ,いっこん,Nijojo Mae,Kappo (Traditional Japanese),NA,￥4000～￥4999,NA,3.06,3.06,NA,4,35.01127011,135.7539906
-332,Taketorineo  ,竹とりNEO,Kuramaguchi,Izakaya (Tavern),Yakitori (Grilled chicken),￥4000～￥4999,NA,3.15,3.15,NA,11,35.03784682,135.759747
-333,kyouyasaitosousakuryourinakaya  ,京野菜と創作料理 中家,Saiin,Izakaya (Tavern),Dandan noodles,￥3000～￥3999,NA,3.04,3.04,NA,12,35.00235789,135.7311296
-334,Grelot  ,グレロ,Gion Shijo,French,Western Cuisine,￥6000～￥7999,￥3000～￥3999,3.45,3.23,3.24,16,35.00183731,135.7741666
-335,kyoutoteppantachibana  ,京都 鉄板 たちばな,Shijo,Teppanyaki,Okonomiyaki,￥3000～￥3999, ～￥999,3.03,3.03,3.02,11,35.00145124,135.7584504
-336,Itameshioriva  ,イタメシOliva,Gion Shijo,Italian,Bar,￥3000～￥3999,NA,3.27,3.27,NA,5,35.00575974,135.7710062
-337,CRAFT BEER & PIZZA 100K HYAKKEI  ,クラフトビール&ピザ 100K,Kyoto,Italian,Pizza,￥1000～￥1999, ～￥999,3,3,3,8,34.98935202,135.7608805
-338,Shunsaidaininguitokoya  ,旬菜ダイニング eーとこ屋,Sanjo,Izakaya (Tavern),Vegetable dishes,￥3000～￥3999,NA,3.06,3.06,NA,4,35.00743997,135.7697725
-339,Izakayaanji  ,居酒屋 あんじ 烏丸六角店,Karasuma Oike,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.45,3.45,NA,67,35.00721178,135.7608094
-340,Bankokugaden  ,バンコクガーデン,Marutamachi,Thailand cooking,Thai Curry,￥2000～￥2999, ～￥999,3.08,3.02,3.09,34,35.01571258,135.7636299
-341,Yakinikubaruyaruki  ,焼肉バル やる気 四条河原町店,Kawaramachi,Yakiniku (BBQ Beef),Bar,￥3000～￥3999,NA,3.06,3.06,NA,4,35.00543734,135.7693671
-342,Osuteriaebaruporenta  ,オステリア エ バール ポレンタ,Kawaramachi,Italian,Wine bar,￥5000～￥5999,NA,3.53,3.52,3.08,22,35.00068592,135.7670064
-343,Tajimaya  ,但馬屋 京都ヨドバシ店,Kyoto,Shabu Shabu (Japanese Steamboat),Sukiyaki,￥2000～￥2999, ～￥999,3,3.01,3,26,34.98808435,135.7590418
-344,Torisei  ,鳥せい 京都タワーサンド店,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999, ～￥999,3.16,3.15,3.07,21,34.98756108,135.7593493
-345,Old School wine and spirits  ,Old School wine and spirits,Kyoto Shiyakusho Mae,Dining bar,Bar,￥3000～￥3999,NA,3.06,3.06,NA,6,35.0120894,135.7660726
-346,Tsubakurosupponshokudou  ,ツバクロ　すっぽん食堂   京都店,Sanjo,Suppon (Soft-shelled Turtle),Hot Pot (other),￥4000～￥4999,NA,3.09,3.09,NA,23,35.0102819,135.7707001
-347,Rudensu  ,ルーデンス,Marutamachi,Italian,Vegetable dishes,￥10000～￥14999,￥5000～￥5999,3.46,3.46,3.06,4,35.01396579,135.7617601
-348,zensekikoshitsuizakayataketorigoten  ,全席個室居酒屋 竹取御殿 山科駅直結店,Keihan Yamashina,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3,3,NA,6,34.99150943,135.8166991
-349,Arata  ,あらた 四条堀川店,Omiya,Okonomiyaki,Teppanyaki,￥2000～￥2999, ～￥999,3.3,3.3,NA,3,35.00378263,135.7525751
-350,Hachisei  ,八清,Tambaguchi,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥2000～￥2999,3.02,3.03,3.02,4,34.99517337,135.7466878
-351,Sentojemusukurabu  ,SENT JAMES CLUB 本店,Gion Shijo,Bar,NA,￥2000～￥2999,NA,3.09,3.1,3.02,47,35.00282131,135.7706827
-352,Kyoutonishikitempurasakabataneshichi  ,京都 錦 天ぷら酒場 たね七,Karasuma,Tempura,Izakaya (Tavern),￥2000～￥2999, ～￥999,3.06,3.06,3.06,12,35.0047299,135.7632265
-353,Roti Chicken&Jackie Tacos  ,ロテイー チキンアンドジャッキー タコス,Shijo,Mexico cuisine,Bar,￥2000～￥2999,￥1000～￥1999,3.53,3.5,3.52,67,35.00042871,135.7602
-354,Gurugurudon  ,グルグルどん,Nijo,Okonomiyaki,Teppanyaki,￥2000～￥2999, ～￥999,3.05,3.05,NA,1,35.01231671,135.7405
-355,Rohan  ,露飯,Karasuma,Izakaya (Tavern),Seafood,￥2000～￥2999,NA,3.05,3.05,NA,11,35.00523698,135.7604515
-356,Jukuseiyakinikupondo  ,熟成焼肉 听 京都駅前店,Kyoto,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,￥1000～￥1999,3.13,3.12,3.06,14,34.98910729,135.7585868
-357,kyoumachiyaitarianronkusu  ,京町家イタリアンろんくす,Kawaramachi,Italian,Sumibiyaki,￥5000～￥5999,￥2000～￥2999,3,3,3.05,15,35.00032122,135.7661754
-358,Shunkouhinaka  ,旬肴　ひなか,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,￥5000～￥5999,NA,3.05,3.05,NA,9,35.00485637,135.7708478
-359,Fujiwara  ,ふじ原,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,￥10000～￥14999,NA,3.55,3.54,3.12,20,35.00457427,135.7758685
-360,Tarou  ,太郎,Imadegawa,Kappo (Traditional Japanese),Seafood,￥3000～￥3999, ～￥999,3.02,3.03,NA,6,35.02424678,135.7541186
-361,Osakekafepuchipuchi  ,おさけcafe petit * petit,Kawaramachi,Nihonshu (Japanese sake),Cafe,￥2000～￥2999,NA,3.05,3.05,NA,4,35.00658194,135.766187
-362,MAWARI  ,近江牛食べ放題 焼肉 囘 河原町店,Kawaramachi,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999,NA,3,3,NA,9,35.00658616,135.769507
-363,Oumiyaseiemon  ,近江屋清右衛門,Marutamachi,European-style Curry,Curry rice,￥1000～￥1999,￥1000～￥1999,3.54,3.3,3.53,97,35.01755945,135.7546078
-364,Sanji  ,さんじ,Marutamachi,Izakaya (Tavern),Japanese food (other),￥3000～￥3999, ～￥999,3.05,3.05,NA,13,35.01381191,135.761301
-365,Kyouryourimaiko  ,京料理 舞妓,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥3000～￥3999,3.01,3.01,NA,9,35.00294921,135.7747888
-366,waingurashiori  ,Wine蔵しおり,Kyoto,Wine bar,Izakaya (Tavern),￥4000～￥4999,NA,3,3,NA,2,34.98917921,135.7578841
-367,HOMURA  ,あかやしろ 焔,Sai,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999,NA,3.28,3.28,NA,28,35.00345478,135.7348459
-368,Wine Bar Musée  ,ワインバー ミュゼ,Karasuma,Wine bar,Italian,￥6000～￥7999,NA,3.21,3.21,NA,22,35.00429009,135.7574126
-369,Gokoumachiono  ,御幸町ONO,Kawaramachi,Izakaya (Tavern),Oden,￥4000～￥4999,NA,3.22,3.22,3.04,6,35.00418081,135.7662735
-370,Hamachou  ,浜町,Sanjo,Kaiseki (Traditional Japanese),Izakaya (Tavern),￥5000～￥5999,￥4000～￥4999,3.47,3.47,NA,51,35.00927589,135.7701291
-371,osakenobijutsukankyoutosanjoukarasumaretoropabu  ,お酒の美術館 京都三条烏丸レトロパブ,Karasuma Oike,Bar,Pub,￥1000～￥1999, ～￥999,3.07,3.07,3.08,14,35.00883713,135.7588903
-372,Sumibiyakinikuou  ,炭火焼肉 王,Nishioji Sanjo,Korean cuisine,Yakiniku (BBQ Beef),￥5000～￥5999,NA,3.06,3.07,NA,8,35.00983159,135.7340373
-373,Kichiri  ,KICHIRI 河原町,Kawaramachi,Izakaya (Tavern),Dining bar,￥3000～￥3999,NA,3.02,3.02,NA,31,35.00580208,135.7693996
-374,kyouyakiyomizuhonke  ,京家 きよみず 本家,Karasuma,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.41,3.41,NA,20,35.00235124,135.7639235
-375,Itariankuatoro  ,ITALIAN QUATRO 京都駅前店,Kyoto,Italian,NA,￥3000～￥3999,￥1000～￥1999,3.04,3,3.06,45,34.98743021,135.7565487
-376,fu-zuba-shioriya  ,Foods bar 栞屋,Fushimi Momoyama,Izakaya (Tavern),Seafood,￥3000～￥3999,￥1000～￥1999,3.08,3.09,3.02,27,34.93221704,135.7620672
-377,SinSin  ,飲茶BAR シンシン,Shijo,Bar,Chinese,￥2000～￥2999,NA,3.14,3.14,NA,9,35.00427092,135.757407
-378,Kyoukarasuma  ,KYOU 饗 Karasuma,Marutamachi,Kappo (Traditional Japanese),Shabu Shabu (Japanese Steamboat),￥5000～￥5999,￥2000～￥2999,3.04,3.01,3.05,3,35.01704487,135.7592407
-379,konana  ,こなな 四条店,Karasuma,Pasta,Cafe,￥1000～￥1999,￥1000～￥1999,3,3.05,3,21,35.00481871,135.7612222
-380,Eijuan  ,栄寿庵,Kyoto,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥5000～￥5999,￥2000～￥2999,3,3.04,3,6,34.98689441,135.7549919
-381,Youfuushuzenumakarou  ,洋風酒膳うまかろう,Higashi Muko,Izakaya (Tavern),Dining bar,￥2000～￥2999,NA,3,3,NA,1,34.95235865,135.7071078
-382,kyoutogyuukaisekiinayoshi  ,京都牛懐石 稲吉,Gion Shijo,Kaiseki (Traditional Japanese),Beef dishes,￥10000～￥14999,￥3000～￥3999,3.52,3.5,3.38,36,35.00618596,135.7712327
-383,Sumibikushiyakitsujiya  ,炭火串焼 つじや 本店,Marutamachi,Yakitori (Grilled chicken),Izakaya (Tavern),￥3000～￥3999, ～￥999,3.19,3.14,3.1,29,35.0147079,135.7593369
-384,Koji  ,Cozy,Nijojo Mae,Western Cuisine,Buffet style,￥4000～￥4999,￥2000～￥2999,3.21,3.06,3.39,60,35.01268438,135.752712
-385,Iharada  ,いはら田,Tambaguchi,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,NA,3.91,3.91,NA,52,34.99053049,135.7322121
-386,gionkurashita  ,祇園 くらした,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,￥3000～￥3999,3.39,3.41,3.02,20,35.00242422,135.7756503
-387,Furenchimanjunia  ,フレンチマンJr,Shijo,Bistro,Seafood,￥3000～￥3999,NA,3.39,3.34,3.12,9,35.00218866,135.7581801
-388,Kaisen  ,海鮮,Kawaramachi,Izakaya (Tavern),Seafood,￥2000～￥2999,￥2000～￥2999,3.04,3.04,NA,3,35.00642979,135.7696398
-389,Karibunoutage  ,カリブの宴,Okubo,Yakitori (Grilled chicken),Kushi-age (Fried Skewer),￥4000～￥4999,NA,3.03,3.04,NA,5,34.87262814,135.7768822
-390,Teppou  ,てっぽう,Fushimi,Izakaya (Tavern),Hot Pot (other),￥4000～￥4999,NA,3.06,3.06,NA,9,34.94646575,135.759599
-391,Kyouryouriyumekaisekitaniguchi  ,京料理夢懐石 谷ぐち,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥4000～￥4999,3.51,3.51,3.5,6,35.01692026,135.7651078
-392,Kinnotsubasaerudoru  ,金の翼 エルドール,Karasuma,Izakaya (Tavern),Korean cuisine,￥3000～￥3999,￥1000～￥1999,3,3.01,3,23,35.00481651,135.7624763
-393,Umekoujikorabo  ,梅小路コラボ,Tambaguchi,Italian,Pasta,￥3000～￥3999,￥1000～￥1999,3.06,3,3.06,11,34.98952697,135.7432511
-394,Yoshina  ,よし菜,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥5000～￥5999,NA,3.51,3.51,NA,33,35.00674979,135.7711555
-395,Zakicchinsaruvatorekuomo  ,ザ キッチン サルヴァトーレ クオモ 京都,Kyoto,Italian,Cafe,￥3000～￥3999,￥1000～￥1999,3.49,3.37,3.48,196,34.98585234,135.757424
-396,Kyounosakanakatsugi  ,京の魚 擔,Gion Shijo,Kappo (Traditional Japanese),Seafood,￥5000～￥5999,￥3000～￥3999,3.06,3.06,NA,3,35.00469111,135.7706634
-397,Kawamuraryourihei  ,川村料理平 御幸町店,Kawaramachi,Izakaya (Tavern),Japanese food (other),￥3000～￥3999,￥1000～￥1999,3.07,3,3.08,24,35.00525403,135.7662821
-398,Kyoutokimurayahonten  ,京都木村屋本店,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,￥1000～￥1999,3,3,3.03,48,34.98605931,135.7605718
-399,Kyouyakiyomizu  ,京家 きよみず 木屋町,Kawaramachi,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.3,3.3,NA,7,35.00456972,135.7699674
-400,Tsushima  ,対馬,Shijo Omiya,Izakaya (Tavern),Seafood,￥1000～￥1999,￥3000～￥3999,3.5,3.47,3.12,18,35.00508204,135.7469901
-401,Sherikurabu  ,しぇりークラブ 京都･石塀小路,Gion Shijo,Bar,Spain,￥5000～￥5999,NA,3.39,3.39,NA,21,35.00091471,135.7787854
-402,kaisekifuransuryourigurumantachibana  ,懐石フランス料理 グルマン橘,Kyoto,French,Western Cuisine,￥8000～￥9999,￥4000～￥4999,3.18,3,3.39,12,34.98616194,135.7525047
-403,THE ROCKIN' HEARTS  ,ザ・ロッキンハーツ,Uji,Dining bar,Curry rice,￥1000～￥1999, ～￥999,3.07,3.05,3.08,11,34.88969075,135.8010081
-404,wainshokudouumiusagi  ,ワイン食堂UmiUsagi,Karasuma,Italian,Wine bar,￥4000～￥4999,￥1000～￥1999,3.13,3.13,NA,21,35.0027437,135.7639177
-405,Soufuku  ,素福,Sanjo,Steak,Teppanyaki,￥8000～￥9999,NA,3.03,3.03,NA,5,35.01012486,135.7707032
-406,Baruagiyao  ,バル agiyao,Gojo,Bar,Seafood,￥5000～￥5999,NA,3.57,3.57,3.05,15,34.99662708,135.7611651
-407,Danieruzusore  ,ダニエルズソーレ,Karasuma,Italian,Pizza,￥3000～￥3999,￥1000～￥1999,3.21,3.05,3.37,51,35.00545311,135.7627107
-408,Shuuhou  ,秀峰,Kujo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3.06,3.06,NA,6,34.97578732,135.7586391
-409,Amakudoparadhikambaikan  ,アマーク ド パラディ 寒梅館 ,Imadegawa,Cafe,Italian,￥3000～￥3999, ～￥999,3.39,3.1,3.32,59,35.0313325,135.7591606
-410,Shikisaishiwori  ,四季彩しをり,Gion Shijo,Kyoto Cuisine,Seafood,￥5000～￥5999,￥2000～￥2999,3.2,3.2,NA,6,35.00272743,135.7706252
-411,Kyouwazentainotai  ,京和膳 鯛廼鯛,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥5000～￥5999,￥2000～￥2999,3.42,3.23,3.39,3,35.00621144,135.7579386
-412,Nagamegawapontochouhana  ,眺河　先斗町～華～,Gion Shijo,Kaiseki (Traditional Japanese),Tofu,￥5000～￥5999,￥3000～￥3999,3.56,3.55,3.35,36,35.00460557,135.771145
-413,mekishikandaininguabokado  ,Mexican Dining AVOCADO  京都店,Sanjo,Mexico cuisine,Cafe,￥3000～￥3999,￥1000～￥1999,3.14,3.08,3.22,58,35.00875594,135.770253
-414,nikubaruginjirou  ,肉バル銀次郎 京都駅前西店,Kyoto,Bar,Steak,￥3000～￥3999,NA,3.49,3.49,NA,17,34.98913366,135.757793
-415,Kyoutofushimigura  ,京都伏見蔵 烏丸別邸,Karasuma,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.05,3.05,NA,5,35.0027397,135.7627259
-416,yakinikuyaruki  ,焼肉やる気 西大路五条店,Saiin,Yakiniku (BBQ Beef),Izakaya (Tavern),￥2000～￥2999,NA,3,3,NA,30,34.99775145,135.7319145
-417,yakinikuyaruki  ,焼肉やる気 河原町店,Sanjo,Yakiniku (BBQ Beef),Izakaya (Tavern),￥2000～￥2999,NA,3.04,3.04,NA,19,35.0079463,135.7697172
-418,Aburiya  ,焙屋,Nishikyogoku,Yakiniku (BBQ Beef),Izakaya (Tavern),￥4000～￥4999,NA,3.15,3.15,NA,13,35.00035775,135.7106983
-419,nikudokoroikkou  ,肉処 一幸,Marutamachi,Yakiniku (BBQ Beef),Korean cuisine,￥4000～￥4999, ～￥999,3.04,3.04,3.03,12,35.01749665,135.7531123
-420,yakinikuyaruki  ,焼肉やる気 新堀川本店,Fushimi,Yakiniku (BBQ Beef),Izakaya (Tavern),￥2000～￥2999,NA,3.02,3.02,NA,21,34.94446056,135.7521497
-421,LOBUTA  ,ろぶた,Mototanaka,Izakaya (Tavern),Korean cuisine,￥2000～￥2999,NA,3.05,3.06,NA,2,35.03361987,135.7812251
-422,OICHO  ,おいちょ,Kiyomizu Gojo,Fowl,Hot Pot (other),￥3000～￥3999,NA,3.09,3.09,3.07,30,34.99947188,135.7669881
-423,teppanyakiaoi  ,鉄板焼　葵,Kyoto,Teppanyaki,Japanese food (other),￥10000～￥14999,￥4000～￥4999,3.09,3.07,3.15,11,34.9861625,135.7525049
-424,yakinikuyaruki  ,焼肉やる気 山科店,Nagitsuji,Yakiniku (BBQ Beef),Korean cuisine,￥2000～￥2999,NA,3.01,3.01,NA,24,34.97160262,135.8130071
-425,Kyoutosakabaakamaru  ,京都酒場赤まる,Omiya,Izakaya (Tavern),NA,￥3000～￥3999,NA,3.45,3.45,NA,15,35.00229191,135.7542582
-426,Sara Sara  ,栞屋 さらさら,Shijo,Izakaya (Tavern),Dumplings,￥2000～￥2999,NA,3.06,3.06,NA,11,35.0012702,135.7612663
-427,Southern Court  ,サザンコート,Kyoto,Dining bar,Western (Others),￥3000～￥3999,￥2000～￥2999,3.58,3.56,3.54,82,34.98607818,135.7595916
-428,Gionshimmonsou  ,祇をん新門荘,Sanjo Keihan,Ryokan,Kaiseki (Traditional Japanese),￥4000～￥4999,￥3000～￥3999,3.03,3.03,NA,4,35.00645072,135.775183
-429,Tenkanoyakinikudaishougun  ,天下の焼肉 大将軍 四条大宮店,Omiya,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999, ～￥999,3.2,3.04,3.36,27,35.00325534,135.7498877
-430,il pozzo  ,イル ポッツオ,Karasuma Oike,Italian,Pasta,￥3000～￥3999,￥1000～￥1999,3.1,3.09,3.08,47,35.00792704,135.7552194
-431,kyouryouriuryuu  ,京料理 卯柳,Sanjo,Kaiseki (Traditional Japanese),Fugu (Blowfish),￥8000～￥9999,￥3000～￥3999,3.23,3.15,3.16,15,35.00686005,135.771118
-432,Rakusenrou  ,楽仙樓,Karasuma,Chinese,Izakaya (Tavern),￥2000～￥2999, ～￥999,3.5,3.36,3.38,66,35.00339025,135.761014
-433,Kishouzakura  ,貴匠桜,Kiyomizu Gojo,French,Creative cuisine,￥6000～￥7999,￥3000～￥3999,3.31,3.31,3.06,18,34.99761692,135.7740637
-434,ryoushigoya  ,舞鶴港 漁師小屋,Nishi Maizuru,Izakaya (Tavern),Seafood,￥3000～￥3999,￥1000～￥1999,3.39,3.15,3.51,9,35.44836924,135.3272909
-435,nikubarudakara  ,ニクバルダカラ 京都四条烏丸店,Karasuma,Izakaya (Tavern),Steak,￥3000～￥3999, ～￥999,3.04,3.04,3.03,6,35.00353784,135.7607423
-436,BARVIDA  ,バルビダ イオンモール京都桂川店,Katsuragawa,Dining bar,Teppanyaki,￥2000～￥2999, ～￥999,3.04,3.04,3.04,10,34.96517699,135.7064953
-437,kafeandodainingubambi  ,Cafe&dining Bambi,Kyoto Shiyakusho Mae,Italian,Cafe,￥3000～￥3999, ～￥999,3.19,3.19,3.05,21,35.00785457,135.7654706
-438,Erudoru  ,エルドール,Matsugasaki,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999,￥1000～￥1999,3.09,3.07,3.13,13,35.0513845,135.7738588
-439,Ippinhashinaga  ,逸品　はし長,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥2000～￥2999,3.51,3.35,3.51,15,35.00624023,135.7618188
-440,Nabetoshunsaitokyouryourikaryuu  ,鍋と旬菜と京料理 花柳,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥5000～￥5999,￥2000～￥2999,3.48,3.35,3.33,29,35.00739916,135.7711494
-441,kafeandodainingubambikarasuma  ,cafe & dining Bambi -KARASUMA-,Karasuma,Italian,Cafe,￥3000～￥3999,￥1000～￥1999,3.06,3.06,3.06,9,35.0060427,135.7586538
-442,Thiemuanfonvietto  ,Tiem an HUONG VIET,Karasuma Oike,Viet Nam cuisine,Asian & ethnic cuisine (and others),￥4000～￥4999,￥1000～￥1999,3.41,3.1,3.51,50,35.01228782,135.7606804
-443,Kurepurikyoutoshanderu  ,クレープリー 京都シャンデレール,Karasuma,Crepes,Cafe,￥1000～￥1999,￥1000～￥1999,3.53,3.44,3.51,52,35.00442689,135.7608754
-444,Risutoranteazekura  ,Ristorante Azekura,Kitayama,Italian,Restaurants (other),￥10000～￥14999,￥4000～￥4999,3.07,3.08,3.07,20,35.05931897,135.7601765
-445,Saryouhassui  ,茶寮 八翠,Arashiyama,Cafe,Sweets,￥2000～￥2999,NA,3.51,3.06,3.51,40,35.01335571,135.6737122
-446,Sala Suite Caffe Rucola   ,サラ スイート カフェ ルーコラ,Shijo,Italian,Cafe,￥3000～￥3999,￥1000～￥1999,3.38,3.39,3.27,99,35.00302995,135.757789
-447,Apollo+  ,アポロプラス,Karasuma Oike,Izakaya (Tavern),Seafood,￥5000～￥5999,NA,3.52,3.52,NA,39,35.0085589,135.7634008
-448,Houen  ,豊園,Shijo,Teppanyaki,NA,￥10000～￥14999,￥5000～￥5999,3.07,3.08,3,15,35.00046119,135.7606764
-449,Furenchiman  ,仏男,Kyoto,Bistro,Seafood,￥4000～￥4999,NA,3.51,3.51,NA,13,34.98901789,135.7609719
-450,Arigatou  ,ありが十。,Keihan Yamashina,Izakaya (Tavern),Yakiniku (BBQ Beef),￥3000～￥3999,NA,3.02,3.02,NA,2,34.99077783,135.8158342
-451,Kyousainikushima  ,京菜　にくしま,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999, ～￥999,3.03,3.03,NA,14,35.00127838,135.7684999
-452,kurabuhausuminami  ,食楽部屋みなみ 京都駅八条口本店,Kyoto,Izakaya (Tavern),Korean cuisine,￥3000～￥3999, ～￥999,3.05,3.05,NA,8,34.98378199,135.7566119
-453,Pittsusarubatorekuomoandoguriru  ,PIZZA SALVATORE CUOMO & GRILL 京都,Sanjo,Pizza,Italian,￥3000～￥3999,￥1000～￥1999,3.07,3.08,3.07,191,35.00910507,135.7702213
-454,Fresco  ,フレスコ,Kyoto,Izakaya (Tavern),Spain,￥3000～￥3999,NA,3.03,3.03,NA,14,34.98709367,135.7618336
-455,Rengetsudiya  ,蓮月茶や,Higashiyama,Tofu,Yuba,￥3000～￥3999,￥3000～￥3999,3.11,3.1,3.07,23,35.00701217,135.7822704
-456,gyuukushibunzou  ,牛串ぶんぞう 先斗町店,Sanjo,Izakaya (Tavern),Sumibiyaki,￥4000～￥4999,￥1000～￥1999,3.04,3.04,NA,4,35.00807298,135.771021
-457,PREGO TOKICHI  ,プレーゴ藤吉,Kyoto Shiyakusho Mae,Italian,Sumibiyaki,￥6000～￥7999,￥3000～￥3999,3.2,3.2,NA,12,35.01199866,135.7708145
-458,sumibiyakiyasaiyaoki  ,炭火焼野菜 八百起 烏丸店,Kyoto Shiyakusho Mae,Tempura,Izakaya (Tavern),￥3000～￥3999,NA,3.05,3.05,3.02,5,35.00791844,135.7650671
-459,Osakanazukkorobashi  ,御肴ずっころばし,Kyoto,Izakaya (Tavern),Japanese food (other),￥4000～￥4999,NA,3,3,NA,11,34.98295683,135.7605503
-460,Torimasa  ,鳥正 宇治大久保本店,Kutsukawa,Izakaya (Tavern),Fowl,￥2000～￥2999,NA,3,3,NA,11,34.86572109,135.7773284
-461,Aguuru  ,あーぐうる,Karasuma Oike,Okinawan Cuisine,Izakaya (Tavern),￥3000～￥3999, ～￥999,3.5,3.44,3.43,62,35.00720953,135.759082
-462,Yakinikunonki  ,焼肉のんき,Higashino,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥1000～￥1999, ～￥999,3.07,3.02,3.07,22,34.98473154,135.8176852
-463,Adan  ,アダン 京都駅店,Kyoto,Izakaya (Tavern),Okinawan Cuisine,￥3000～￥3999,NA,3.31,3.31,NA,53,34.98774744,135.7588299
-464,Oushokuyakappa  ,欧食屋 Kappa,Shijo,Italian,Bar,￥4000～￥4999, ～￥999,3.06,3.05,3.06,10,35.00119688,135.7616404
-465,Minari  ,美菜莉,Kyoto,Korean cuisine,table d'hôte,￥2000～￥2999,￥1000～￥1999,3.05,3.04,3.05,18,34.98579236,135.7581953
-466,Daichinokura  ,大地の蔵,Higashi Maizuru,Izakaya (Tavern),NA,￥3000～￥3999,NA,3.05,3.05,NA,8,35.47559405,135.3953776
-467,sumibisute-kisakaikyoutosanjou  ,炭火ステーキ坂井 京都三条,Karasuma Oike,Steak,Kaiseki (Traditional Japanese),￥10000～￥14999,￥1000～￥1999,3.5,3.09,3.53,14,35.00840383,135.7583487
-468,Ryuuhourakuenchura  ,琉泡楽園 美ら 舞鶴店,Nishi Maizuru,Okinawan Cuisine,Izakaya (Tavern),￥3000～￥3999,NA,3,3,NA,10,35.44491796,135.3279413
-469,Byuandodainingukotoshieru  ,ビュー＆ダイニング コトシエール,Kyoto,Modern French,Italian,￥8000～￥9999,￥3000～￥3999,3.42,3.42,3.06,16,34.98671534,135.7595207
-470,Karin  ,花梨,Nijojo Mae,Chinese,Dandan noodles,￥6000～￥7999,￥3000～￥3999,3.51,3.28,3.51,32,35.01245274,135.7527673
-471,Fujiya  ,藤や,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥8000～￥9999,￥5000～￥5999,3.09,3.1,3.07,7,35.00923644,135.7700163
-472,Kyoutokimurayahonten  ,京都木村屋本店 祇園花見小路,Gion Shijo,Izakaya (Tavern),Sukiyaki,￥3000～￥3999,￥1000～￥1999,3.04,3.04,NA,8,35.0029136,135.7751934
-473,Joukoya  ,上古屋,Karasuma,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.22,3.22,NA,5,35.00602653,135.7552377
-474,Nikukappoubarugyugyu  ,肉割烹バル 牛牛 GYUGYU 祇園本店,Gion Shijo,Bar,Izakaya (Tavern),￥4000～￥4999,￥2000～￥2999,3.06,3.06,3.06,22,35.0044232,135.7773107
-475,furenchigiombarumaruhashi  ,フレンチ祇園バル 丸橋,Gion Shijo,Bar,French,￥3000～￥3999, ～￥999,3.54,3.54,3.14,54,35.00453282,135.7723155
-476,nikubaruginjirou  ,肉バル銀次郎 烏丸御池本店,Karasuma Oike,Bar,Italian,￥3000～￥3999, ～￥999,3.52,3.5,3.48,39,35.01118597,135.7549694
-477,Sumibikushiyakitsujiya  ,炭火串焼つじや 京都駅前店,Kyoto,Izakaya (Tavern),Kushiyaki (Grilled skewer),￥3000～￥3999,NA,3.05,3.05,NA,11,34.98728598,135.7546971
-478,Gyararishioriya  ,ぎゃらりぃ栞屋,Kyoto,Izakaya (Tavern),Nihonshu (Japanese sake),￥4000～￥4999,NA,3.27,3.27,NA,19,34.98938059,135.7586398
-479,Kyounishikiobanzaibyuffehinataya  ,京・錦 おばん菜ビュッフェ ひなたや,Kawaramachi,Buffet style,Kyoto Cuisine,￥1000～￥1999,￥1000～￥1999,3.03,3.03,3,15,35.00507096,135.7646556
-480,kamanzanijoumarufuku  ,釜座二条 丸福,Marutamachi,Izakaya (Tavern),Tempura,￥3000～￥3999,NA,3.45,3.45,NA,9,35.0137171,135.7556754
-481,coLLabo  ,コラボ,Karasuma Oike,Cafe,Hamburger Steak,￥1000～￥1999, ～￥999,3.27,3.11,3.18,67,35.00875081,135.7626903
-482,tonkotsunabetogyouzaenraku  ,とんこつ鍋と餃子 縁楽,Shijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,NA,3.04,3.04,NA,3,35.00220949,135.7584793
-483,Ryuuan  ,りゅう庵,Gion Shijo,Yakiniku (BBQ Beef),Japanese food (other),￥6000～￥7999,￥1000～￥1999,3.22,3.06,3.41,15,35.00470336,135.7724647
-484,Ace cafe  ,エース カフェ,Sanjo,Cafe,Dining bar,￥3000～￥3999,NA,3.09,3.1,3,67,35.00995166,135.7706984
-485,Resutoranrejina  ,レストラン レジーナ,Kyoto,Western Food (Other),Buffet style, ～￥999,￥1000～￥1999,3.03,3,3.04,11,34.98808653,135.7565526
-486,Akasaki  ,あかさき,Shichijo,Izakaya (Tavern),Kyoto Cuisine,￥4000～￥4999,NA,3.05,3.04,3.04,4,34.98940652,135.7630119
-487,Ozabu  ,おざぶ,Sanjo,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.06,3.07,NA,7,35.00885956,135.7711115
-488,Sutekiandodainaburuba  ,ステーキ ダイナー ブルバル,Saiin,Bar,Steak,￥2000～￥2999,NA,3.04,3.04,NA,2,35.00278561,135.7302585
-489,Yakinikuyoshimi  ,焼肉 嘉,Jingu Marutamachi,Yakiniku (BBQ Beef),Steak,￥8000～￥9999,￥1000～￥1999,3.58,3.59,3.39,18,35.01738272,135.7696121
-490,sute-kihausupondo  ,ステーキハウス 听 本店,Marutamachi,Steak,Hamburger Steak,￥4000～￥4999,￥1000～￥1999,3.2,3.2,3.07,41,35.01487177,135.7592564
-491,Gyouzamatsukichi  ,餃子 松吉,Kitano Hakubaicho,Dumplings,Izakaya (Tavern),￥2000～￥2999,NA,3.07,3.08,NA,2,35.02514151,135.7439886
-492,Pontochounabariya  ,先斗町　隠家,Gion Shijo,Italian,Wine bar,￥4000～￥4999,NA,3.3,3.3,NA,9,35.00437289,135.7710062
-493,Kamehameha  ,かめはめは,Kawaramachi,Okonomiyaki,Teppanyaki,￥2000～￥2999,￥1000～￥1999,3.05,3.06,NA,2,35.00565733,135.7667151
-494,Bunta  ,ぶん太,Nagaoka Tenjin,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),￥3000～￥3999,NA,3.02,3.02,NA,2,34.9260685,135.6962846
-495,Bejitejiya  ,ベジテジや 四条烏丸店,Shijo,Korean cuisine,Yakiniku (BBQ Beef),￥3000～￥3999,NA,3.5,3.5,NA,55,35.00256415,135.7570313
-496,Juujuu  ,寿寿,Kyoto,Yakiniku (BBQ Beef),Japanese food (other),￥3000～￥3999,NA,3.03,3.03,NA,12,34.98361453,135.7579907
-497,Kuuan  ,空庵,Kawaramachi,Izakaya (Tavern),Creative cuisine,￥3000～￥3999, ～￥999,3.04,3.04,NA,3,35.00297788,135.7662786
-498,L'ajitto  ,L’ajitto,Marutamachi,Teppanyaki,Okonomiyaki,￥8000～￥9999,￥2000～￥2999,3.23,3.23,NA,7,35.01359837,135.7637789
-499,Aburaya  ,あぶらや,Uji,Izakaya (Tavern),Kushi-age (Fried Skewer),￥3000～￥3999,NA,3.05,3.05,NA,5,34.8876733,135.799915
-500,yakitorisutandosakabakadofuku  ,焼き鳥スタンド酒場 角福,Shijo,Izakaya (Tavern),Japanese food (other),￥2000～￥2999,NA,3.28,3.28,NA,5,35.00217644,135.7581921
-501,Kyoutosakagurakan  ,京都酒蔵館,Shijo,Izakaya (Tavern),Bar,￥3000～￥3999,￥2000～￥2999,3.25,3.15,3.21,8,35.00139375,135.7583832
-502,Sutekihanasato  ,ステーキ花郷 祇園店,Gion Shijo,Steak,Teppanyaki,￥20000～￥29999,￥6000～￥7999,3.17,3.06,3.33,5,35.00574969,135.7756346
-503,Tawaterasu  ,タワーテラス,Kyoto,Buffet style,Kaiseki (Traditional Japanese),￥4000～￥4999,￥2000～￥2999,3.35,3.09,3.5,29,34.98758746,135.7593276
-504,Gionshimbashinakatani  ,祇園新橋 中谷,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥8000～￥9999,￥3000～￥3999,3.56,3.55,3.31,8,35.00596984,135.7744288
-505,Orudohonkonresutorankyouto  ,老香港酒家京都,Shijo,Chinese,Cantonese Cuisine,￥10000～￥14999,￥1000～￥1999,3.88,4.04,3.61,148,35.00315024,135.7591228
-506,Okonomiyakitsuruhashifuugetsu  ,お好み焼き 鶴橋風月 京都ヨドバシ店,Kyoto,Izakaya (Tavern),Okonomiyaki,￥1000～￥1999, ～￥999,3.09,3.07,3.09,21,34.98820823,135.7591118
-507,Yakinikuyaruki  ,焼肉やる気 四条河原町店,Gion Shijo,Yakiniku (BBQ Beef),Steak,￥2000～￥2999,￥1000～￥1999,3.07,3.08,3.06,29,35.00367313,135.7708413
-508,trattoria sette  ,トラットリア セッテ ハイアット リージェンシー 京都,Shichijo,Italian,Pizza,￥5000～￥5999,￥2000～￥2999,3.57,3.55,3.52,112,34.98852566,135.7732859
-509,Kurosuke  ,くろすけ,Kitano Hakubaicho,Tofu,Yuba,￥6000～￥7999,￥3000～￥3999,3.09,3.08,3.08,26,35.03069004,135.7372935
-510,Imozou  ,芋蔵 京都木屋町店,Gion Shijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,NA,3.05,3.06,NA,6,35.00460639,135.7703865
-511,Denen  ,DEN-EN,Sanjo,Dining bar,Bar,￥2000～￥2999,NA,3.04,3,3.05,15,35.00851179,135.7695281
-512,Kenzoesuteitowainarigionten  ,ケンゾーエステイトワイナリー 祇園店,Gion Shijo,Italian,Wine bar,￥8000～￥9999,￥3000～￥3999,3.61,3.62,3.1,18,35.00418944,135.7742622
-513,Osteria Bastille  ,オステリア・バスティーユ,Karasuma,Italian,French,￥4000～￥4999,￥1000～￥1999,3.42,3.2,3.49,86,35.00622577,135.7607872
-514,IN THE GREEN  ,イン・ザ・グリーン,Kitayama,Italian,Pizza,￥3000～￥3999,￥1000～￥1999,3.52,3.41,3.54,101,35.05082662,135.7642857
-515,Ajoiichanchi  ,agio.iichan.chi,Fushimi Momoyama,Dining bar,Cafe,￥2000～￥2999, ～￥999,3.08,3.03,3.11,40,34.93310001,135.7623924
-516,Kitayamafuurin  ,きたやま風凛,Kitayama,Kaiseki (Traditional Japanese),Seafood,￥6000～￥7999,￥2000～￥2999,3.05,3.05,NA,1,35.05316385,135.7631368
-517,burassuri-kontowa-ru  ,ブラッスリー・コントワール,Nishioji,Izakaya (Tavern),Bistro,￥3000～￥3999, ～￥999,3.53,3.53,3.38,16,34.9806969,135.7324646
-518,Honmamonwagyu-sakanaya-hirari  ,ほんまもん和牛 肴家 ひらり,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999,NA,3.17,3.17,3,13,35.00586291,135.7698284
-519,Manchou  ,萬長,Myoshinji,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥4000～￥4999,￥2000～￥2999,3.07,3.05,3.07,12,35.0259283,135.7198404
-520,Risutoranteoraegion  ,リストランテ オラエ祇園,Gion Shijo,Italian,Pasta,￥10000～￥14999,￥4000～￥4999,3.59,3.59,3.06,13,35.00573438,135.7732834
-521,Taishuunikubarujuu  ,大衆肉バル 7+3,Sai,Bar,Steak,￥3000～￥3999,NA,3.05,3.05,NA,3,35.00554953,135.7334462
-522,Oyajinokura  ,おやじの蔵,Kyoto Shiyakusho Mae,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.04,3.04,NA,6,35.00936031,135.7694622
-523,Occobe.  ,オッコベー,Higashiyama,Italian,Pasta,￥3000～￥3999, ～￥999,3,3,3,7,35.00930659,135.7787706
-524,itariamba-rukimuraya  ,Italian BAR KIMURAYA 京都駅前店,Kyoto,Italian,Bar,￥2000～￥2999,NA,3.08,3.08,NA,28,34.98743444,135.760092
-525,Cafe Restaurant Le Temps  ,ル・タン,Kyoto,Buffet style,Cafe,￥5000～￥5999,￥2000～￥2999,3.46,3.26,3.5,129,34.98607763,135.7595913
-526,sushidainingudaihachi  ,Sushi Dining 大八,Karasuma,Sushi,Creative cuisine,￥5000～￥5999,NA,3.06,3.06,NA,5,35.00439509,135.7582895
-527,Umayakinikusemmontensakuratomomiji  ,馬焼肉専門店 桜とmomiji 本店,Sanjo,Yakiniku (BBQ Beef),Meat dishes,￥4000～￥4999,NA,3.53,3.53,NA,26,35.00740191,135.769742
-528,kyoutofushimigurapontochouminamian  ,京都伏見蔵 先斗町 南庵,Gion Shijo,Izakaya (Tavern),Japanese food (other),￥4000～￥4999,￥1000～￥1999,3,3,3.05,4,35.00491776,135.7710628
-529,Gempinfugushijoukarasumanoseki  ,玄品ふぐ 四条烏丸の関,Karasuma,Izakaya (Tavern),Fugu (Blowfish),￥4000～￥4999,￥3000～￥3999,3.05,3.05,NA,9,35.00293273,135.7626203
-530,Shou  ,嘗〜miso〜,Marutamachi,Oden,Izakaya (Tavern),￥4000～￥4999,NA,3.35,3.35,NA,11,35.0172662,135.7574923
-531,Nikujuuhachi  ,肉十八 六地蔵店,Rokujizo,Yakiniku (BBQ Beef),NA,￥2000～￥2999,NA,3,3,NA,6,34.93212774,135.7988201
-532,Gori's Kitchen  ,ゴリーズ キッチン,Jujo,Italian,Pizza,￥3000～￥3999, ～￥999,3.05,3.05,NA,10,34.971404,135.7484579
-533,Tenkanoyakinikudaishougun  ,天下の焼肉 大将軍 京都駅前店,Kyoto,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999, ～￥999,3.05,3.05,3.04,19,34.98746775,135.758863
-534,Kameya  ,かめや 西店,Saiin,Crab,Fugu (Blowfish),￥4000～￥4999,￥2000～￥2999,3.02,3,3.03,10,35.0037833,135.731259
-535,giombashunrou  ,祇園 馬春楼,Gion Shijo,Meat dishes,Regional Cuisine (Other),￥8000～￥9999,NA,3.06,3.07,NA,13,35.00620885,135.7727805
-536,Chishokufu  ,知食府,Emmachi,Chinese,Sichuan Cuisine,￥2000～￥2999, ～￥999,3.06,3.03,3.06,9,35.01722353,135.7316408
-537,eetokodori  ,ええとこどり 京都西大路駅前店,Nishioji,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999,NA,3.05,3.06,NA,1,34.98011196,135.7323402
-538,Kasuian  ,花水庵,Higashiyama,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥3000～￥3999,3.06,3.06,3.04,7,35.00459369,135.7803028
-539,Mimasuyamonami  ,ミマスヤ モナミ,Kawaramachi,Creative cuisine,Kyoto Cuisine,￥4000～￥4999,￥1000～￥1999,3.49,3.42,3.48,18,35.00068041,135.7694315
-540,Juunikiyakan  ,十二季家 歓 京都店,Kyoto,Izakaya (Tavern),Kyoto Cuisine,￥2000～￥2999, ～￥999,3.06,3.06,3,31,34.98351653,135.7604797
-541,kunseitojibi-ruwachi  ,燻製と地ビール 和知,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3.51,3.51,NA,110,35.00468097,135.7624127
-542,Torihime  ,とりひめ 河原町店,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999,NA,3,3,NA,35,35.00506271,135.7694313
-543,Cafe Lavender  ,カフェ ラベンダー,Nijo,Buffet style,Izakaya (other),￥1000～￥1999,￥1000～￥1999,3.04,3.04,3.02,2,35.01501784,135.7422042
-544,Kyoutobatake  ,きょうと畑,Kyoto,Shabu Shabu (Japanese Steamboat),Izakaya (Tavern),￥3000～￥3999,￥2000～￥2999,3.03,3.03,NA,11,34.98743221,135.7600909
-545,Fesshimon  ,フェッシモン・・・,Keihan Yamashina,Italian,Bar,￥3000～￥3999,￥1000～￥1999,3.05,3.05,NA,1,34.99005808,135.8095675
-546,nikuyaoushin  ,肉家 桜真,Karasuma Oike,Yakiniku (BBQ Beef),Kyoto Cuisine,￥8000～￥9999,NA,3.58,3.58,NA,23,35.01160487,135.75793
-547,Sumibirobataikoru  ,炭火炉端イコール,Shijo,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.04,3.04,NA,1,35.00217922,135.7581901
-548,Hisa  ,長崎ちゃんぽん・皿うどん専門店 尚 ,Emmachi,Champon Noodle,Ramen,￥1000～￥1999, ～￥999,3.38,3.06,3.38,24,35.01840855,135.7241341
-549,Horumondaigorou  ,ほるもん大五郎,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3.44,3.44,NA,4,35.00424178,135.7742787
-550,Hikohachi  ,彦八,Gion Shijo,Sushi,Seafood,￥5000～￥5999,￥1000～￥1999,3.04,3.04,3.04,7,35.00041863,135.7773361
-551,Matsusakagyuuwattsu  ,松阪牛 What’s,Karasuma Oike,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥8000～￥9999,NA,3.26,3.09,3.38,43,35.00839004,135.7580056
-552,FORTUNE GARDEN KYOTO  ,フォーチュンガーデンキョウト,Kyoto Shiyakusho Mae,Bistro,Western Cuisine,￥4000～￥4999,￥1000～￥1999,3.59,3.58,3.56,107,35.01251746,135.7687518
-553,Enrian  ,えんり庵 大手筋店,Fushimi Momoyama,Creative cuisine,Japanese food (other),￥4000～￥4999,￥1000～￥1999,3,3,NA,8,34.93281313,135.7641537
-554,kyuushuusakabaajito  ,九州酒場 あじと,Nishi Maizuru,Izakaya (Tavern),Fowl,￥4000～￥4999,NA,3.03,3.04,NA,3,35.44508405,135.3278849
-555,Heso  ,へそ 京都駅前店,Kyoto,Standing style soba,Izakaya (Tavern),￥1000～￥1999, ～￥999,3.35,3.33,3.08,54,34.98908148,135.7601903
-556,Kyounozenkuruma  ,京の禅 車 四条烏丸店,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),￥4000～￥4999,￥1000～￥1999,3.52,3.35,3.54,42,35.00191599,135.7626406
-557,oushuuizakayabiruzu  ,欧州居酒屋 Bill’s,Fushimi Momoyama,Izakaya (Tavern),Pizza,￥3000～￥3999,NA,3.03,3.03,3,5,34.93317056,135.7625785
-558,Aburishibuya  ,あぶり渋屋 山科駅前店,Keihan Yamashina,Izakaya (Tavern),Robatayaki,￥5000～￥5999,NA,3.05,3.05,NA,4,34.98952992,135.8162126
-559,Norakuro  ,まちかどマルシェ Norakuro,Nishioji,Italian,Bistro,￥3000～￥3999,￥1000～￥1999,3.06,3.06,3.06,10,34.98688463,135.7362324
-560,Fuubitosuuro  ,ふうびとすうろ,Kawaramachi,Bar,Steak,￥3000～￥3999,NA,3.29,3.29,NA,13,35.00249902,135.7649823
-561,Kaisendokorowatanabeya  ,海鮮処 わたなべや,Karasuma Oike,Seafood,Izakaya (Tavern),￥4000～￥4999,NA,3.06,3.06,NA,13,35.01219237,135.7613383
-562,Gioniwamoto  ,祇園　岩元,Gion Shijo,Kyoto Cuisine,Kappo (Traditional Japanese),￥10000～￥14999,￥4000～￥4999,3.63,3.54,3.68,18,35.00262919,135.775209
-563,Gyuutankeisuke  ,牛タン圭助 京都駅前店,Kyoto,Izakaya (Tavern),Gyutan (Beef tongue),￥3000～￥3999,NA,3.05,3.05,NA,13,34.98740888,135.760077
-564,Oribuoirusemmontenaorio  ,オリーブオイル料理専門店 A・Olio,Sanjo,Bistro,Steak,￥3000～￥3999,￥2000～￥2999,3.06,3.06,NA,3,35.00759358,135.7711549
-565,Seichuuan  ,聖宙庵,Mototanaka,French,Western Food (Other),￥5000～￥5999,￥3000～￥3999,3.04,3,3.05,16,35.02345668,135.7912381
-566,Kyoukurozakura  ,京・黒桜,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3.06,3.06,NA,4,35.00499747,135.7706859
-567,Nettaishokudou  ,熱帯食堂 四条河原町店,Gion Shijo,Thailand cooking,NA,￥2000～￥2999, ～￥999,3.15,3.06,3.28,21,35.00362004,135.7707653
-568,Toriseetakoyakushiten  ,鳥せゑ 蛸薬師店,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),￥3000～￥3999, ～￥999,3.04,3,3.06,13,35.00605608,135.7614513
-569,Fujiishi  ,藤石 本店,Gion Shijo,Kappo (Traditional Japanese),Japanese food (other),￥4000～￥4999,NA,3.5,3.5,NA,9,35.0042929,135.7755639
-570,yakinikuyaruki  ,焼肉やる気 高野店,Ichijoji,Yakiniku (BBQ Beef),Izakaya (Tavern),￥2000～￥2999,NA,3.03,3.04,NA,9,35.0424934,135.783447
-571,Unkai  ,雲海,Nijojo Mae,Kaiseki (Traditional Japanese),Sushi,￥8000～￥9999,￥3000～￥3999,3.18,3.04,3.35,28,35.01261329,135.7529756
-572,Izakayamaruya  ,居酒屋 まるや,Kawaramachi,Izakaya (Tavern),Japanese food (other),￥2000～￥2999,NA,3.03,3.04,NA,12,35.00621759,135.7693082
-573,kyoutoarashiyamagoseiyuunoyadoranzan  ,京都・嵐山 ご清遊の宿 らんざん,Arashiyama,Other,NA,￥6000～￥7999,￥3000～￥3999,3.21,3.21,3.06,17,35.01396677,135.6744513
-574,Shimogamosaryou  ,下鴨茶寮 本店,Demachiyanagi,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥15000～￥19999,￥8000～￥9999,3.61,3.16,3.65,72,35.03411941,135.7739718
-575,Kifunekiraku  ,貴船喜らく,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥10000～￥14999,￥3000～￥3999,3.52,3.51,3.08,23,35.12146544,135.7633336
-576,Nikuyasuzu  ,肉や すず,Shichijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,￥1000～￥1999,3.06,3.05,3.05,5,34.98916273,135.7682096
-577,KITAYAMA MONOLITH  ,北山モノリス,Shugakuin,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥6000～￥7999,￥3000～￥3999,3.06,3.06,3.05,22,35.05320238,135.7905456
-578,Watanabe  ,ローストビーフの店 ワタナベ ,Nijojo Mae,Beef dishes,French,￥5000～￥5999,￥5000～￥5999,3.54,3.54,3.04,15,35.01066823,135.7534968
-579,clover  ,イタリア食堂ワインバル クローバー,Sanjo,Dining bar,Italian,￥3000～￥3999,NA,3.06,3.06,NA,4,35.0075169,135.7696564
-580,hamba-guandosute-kipondo  ,ハンバーグ＆ステーキ 听 梅小路店,Tambaguchi,Hamburger Steak,Steak,￥1000～￥1999,￥1000～￥1999,3.06,3.06,3.05,28,34.98933811,135.7432611
-581,Gempinfugukyoutoekimaenoseki  ,玄品ふぐ 京都駅前の関,Kyoto,Fugu (Blowfish),Hot Pot (other),￥4000～￥4999,￥3000～￥3999,3.07,3.03,3.07,6,34.98820186,135.7604006
-582,guramuromanthikkumairu-mu  ,g ロマンティックマイルーム,Kyoto Shiyakusho Mae,Dining bar,Italian,￥2000～￥2999,NA,3.03,3.03,NA,6,35.00746404,135.7645099
-583,Giombengara  ,祗園べんがら,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥8000～￥9999,￥4000～￥4999,3.05,3.05,NA,2,35.00473754,135.7736448
-584,gochisouizakayaippaiippai  ,御馳走居酒屋 いっぱいいっぱい 深草店,Fujinomori,Izakaya (Tavern),Seafood,￥2000～￥2999,NA,3,3,NA,4,34.95910122,135.7681032
-585,uotanafumibun  ,魚棚ふみ文,Sanjo,Kappo (Traditional Japanese),Kyoto Cuisine,￥5000～￥5999,NA,3.35,3.35,NA,9,35.00831073,135.7709024
-586,Kyouhorumonkura  ,京ホルモン 蔵 四条寺町店,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999, ～￥999,3.04,3.04,3.03,16,35.00351756,135.7669238
-587,itariambarutoreotto  ,イタリアンバルTreotto,Omiya,Italian,Pizza,￥3000～￥3999,NA,3.09,3.09,NA,25,35.00433104,135.7485105
-588,Buraitonkicchin  ,ブライトンキッチン,Keihan Yamashina,Buffet style,Western Cuisine,￥2000～￥2999,￥2000～￥2999,3.16,3.14,3.07,23,34.9914325,135.8166733
-589,Aritsune  ,有恒,Kyoto Shiyakusho Mae,Kappo (Traditional Japanese),Kyoto Cuisine,￥8000～￥9999,NA,3.69,3.69,NA,26,35.01367869,135.7666972
-590,Akayashirosakae  ,あかやしろ榮,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),￥4000～￥4999,NA,3.21,3.21,NA,14,35.00279419,135.7648227
-591,Kihara  ,きはら,Marutamachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999, ～￥999,3.15,3.15,3.05,15,35.01450041,135.7586776
-592,Kamon  ,花門-kamon-,Kawaramachi,Italian,Bar,￥3000～￥3999,￥1000～￥1999,3.31,3.31,3.06,20,35.00084895,135.7666703
-593,Mew’z cafe  ,ミューズ カフェ,Kyoto Shiyakusho Mae,Dining bar,Thailand cooking,￥2000～￥2999, ～￥999,3.06,3.02,3.06,19,35.01408032,135.7670311
-594,kyougokushinobinosato  ,京極忍びの里,Kawaramachi,Creative cuisine,Sushi,￥3000～￥3999,NA,3,3,3.04,43,35.00467189,135.7677392
-595,Takaraya  ,宝や 八条口店,Kujo,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999,NA,3.07,3.07,NA,4,34.98182533,135.7609389
-596,datten  ,ダッテン,Gion Shijo,Italian,Bar,￥4000～￥4999,NA,3.03,3.03,NA,7,35.00291467,135.7731061
-597,Tatsumi  ,多津美,Saiin,Kappo (Traditional Japanese),Sushi,￥5000～￥5999,NA,3.05,3.05,NA,3,35.00291295,135.7316535
-598,chuugokuryourikoukaryuuhou  ,中国料理 皇家龍鳳,Kyoto,Chinese,Dim sum,￥6000～￥7999,￥3000～￥3999,3.31,3.26,3.17,16,34.98601807,135.7525397
-599,Kaburaya  ,蕪屋,Gion Shijo,Kyoto Cuisine,Creative cuisine,￥4000～￥4999,NA,3.51,3.51,NA,23,35.00337873,135.7742852
-600,Kaiseitei  ,開晴亭 北山店,Kitayama,French,Italian,￥4000～￥4999,￥2000～￥2999,3.39,3.08,3.37,36,35.05116692,135.7677396
-601,Kushikatsutakoyakiseichan  ,串かつ たこ焼き せいちゃん 京都駅前店,Kyoto,Izakaya (Tavern),Takoyaki,￥2000～￥2999,NA,3.05,3.04,3.02,3,34.98821714,135.7604475
-602,Gyuuzen  ,牛禅 四条烏丸店,Shijo,Shabu Shabu (Japanese Steamboat),Sukiyaki,￥4000～￥4999,NA,3.05,3.05,NA,10,35.00262669,135.7598544
-603,Kyouzakanafukuya  ,京肴 ふくや,Nijojo Mae,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.04,3.04,NA,1,35.00872144,135.7508804
-604,Toto  ,魚源,Nishi Maizuru,Seafood,Sushi,￥4000～￥4999,￥1000～￥1999,3.22,3.12,3.21,13,35.4431612,135.3281691
-605,Ganko  ,がんこ 高瀬川二条苑,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Shabu Shabu (Japanese Steamboat),￥5000～￥5999,￥3000～￥3999,3.52,3.51,3.32,79,35.01276997,135.770845
-606,PASTA MORE  ,パスタモーレ 京都駅店,Kyoto,Italian,French,￥2000～￥2999,￥1000～￥1999,3,3.06,3,77,34.98461694,135.7590772
-607,Kyoumachibaru  ,京町バル,Momoyamagoryomae,Dining bar,Izakaya (Tavern),￥4000～￥4999,NA,3.04,3.04,NA,3,34.93324227,135.7651752
-608,wagyuuyakinikutoku  ,和牛焼肉 徳,Sanjo,Yakiniku (BBQ Beef),Korean cuisine,￥6000～￥7999,￥1000～￥1999,3.53,3.53,3.2,29,35.00634208,135.7726582
-609,Dembei  ,伝兵衛,Kurama,Soba,Kamameshi (Clay pot rice),￥1000～￥1999,NA,3.24,3.1,3.16,21,35.12084077,135.7624993
-610,Tsukinokurabito  ,月の蔵人,Fushimi Momoyama,Kappo (Traditional Japanese),Dining bar,￥3000～￥3999,￥1000～￥1999,3.5,3.35,3.46,110,34.93059388,135.7618067
-611,Kinnotori  ,金の鶏 京都駅本店,Kujo,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3,3,NA,4,34.98166341,135.761245
-612,Zekuu  ,是空,Imadegawa,Ramen,Boneless deep-fried chicken, ～￥999, ～￥999,3.34,3.14,3.3,39,35.02957813,135.7526446
-613,Rojimon  ,露地もん,Karasuma Oike,Izakaya (Tavern),Kyoto Cuisine,￥5000～￥5999,NA,3.57,3.57,3,39,35.01036748,135.756446
-614,Aiemuo  ,ＩＭＯ,Shichijo,Pizza,Dining bar,￥2000～￥2999,NA,3.06,3.06,NA,2,34.98910153,135.7629995
-615,Al Vere  ,アルヴェーレ,Momoyamagoryomae,Italian,Pasta,￥3000～￥3999, ～￥999,3,3,3.01,6,34.93322954,135.7649759
-616,Nijoukiduki  ,二條 葵月,Kyoto Shiyakusho Mae,Sushi,Creative cuisine,￥6000～￥7999,￥1000～￥1999,3.57,3.54,3.55,27,35.01359116,135.7644724
-617,Hirarinteitemboukaku  ,平林亭  展望閣,Kyoto,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3,3,NA,1,34.98941978,135.7600067
-618,Kyoutogiommiyagawachououmie  ,京都祇園 宮川町 近江栄,Kiyomizu Gojo,Wine bar,Bar,￥4000～￥4999,NA,3.26,3.26,3.05,14,34.99936168,135.7707778
-619,kibunebeniya  ,貴船べにや,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥6000～￥7999,￥6000～￥7999,3.54,3.34,3.51,30,35.11679562,135.7610732
-620,Koikoi  ,コイコイ,Gion Shijo,Yakitori (Grilled chicken),Kushi-age (Fried Skewer),￥2000～￥2999,NA,3,3,NA,14,35.00592912,135.7707273
-621,Suiba  ,すいば 蛸薬師室町店,Karasuma,Stand Bar,Dining bar,￥1000～￥1999,NA,3.53,3.53,3.12,29,35.00620376,135.7570067
-622,Bussarakan  ,佛沙羅館,Kiyomizu Gojo,Thailand cooking,Creative cuisine,￥4000～￥4999,￥1000～￥1999,3.14,3.07,3.24,56,34.99975744,135.7690979
-623,Saikouchou  ,彩香鳥,Ogura,Yakitori (Grilled chicken),Izakaya (Tavern),￥3000～￥3999,NA,3.05,3.06,NA,1,34.89659533,135.7795038
-624,Noukoutoripaitanramemmisora  ,濃厚鶏白湯ラーメン 美空,Kawaramachi,Ramen,Tsukemen, ～￥999, ～￥999,3.09,3.06,3.09,20,35.00128414,135.7685655
-625,Yakinikutoraji  ,焼肉トラジ 京都店,Kyoto,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,￥1000～￥1999,3.13,3.05,3.25,39,34.98825211,135.7590274
-626,Ganko  ,がんこ 京都駅ビル店,Kyoto,Kaiseki (Traditional Japanese),Japanese food (other),￥3000～￥3999,￥1000～￥1999,3.18,3.1,3.18,50,34.98599736,135.7596382
-627,Sajjoupakuchi  ,三条パクチー,Kyoto Shiyakusho Mae,Thailand cooking,Izakaya (Tavern),￥2000～￥2999, ～￥999,3.52,3.5,3.49,99,35.00900974,135.7665344
-628,Gionhatanaka  ,祇園畑中,Gion Shijo,Ryokan,Kyoto Cuisine,￥10000～￥14999,￥5000～￥5999,3.65,3.65,3.54,22,35.00232734,135.7788537
-629,YURURI  ,ユルリ,Jingu Marutamachi,Izakaya (Tavern),NA,￥4000～￥4999,￥2000～￥2999,3.17,3.17,3.06,10,35.01579989,135.7687675
-630,Yakinikushoukakuoukiyamachitei  ,焼肉匠覚王木屋町亭,Sanjo,Yakiniku (BBQ Beef),Gyutan (Beef tongue),￥3000～￥3999,NA,3.06,3.06,NA,15,35.00703307,135.7699095
-631,Houshouan  ,烹祥庵,Gion Shijo,Kyoto Cuisine,Tofu,￥4000～￥4999,NA,3.03,3.03,NA,6,35.00506052,135.7711853
-632,Kankokuanjupontochourinanha  ,韓国酒肴　先斗町　李南河,Gion Shijo,Korean cuisine,Asian & ethnic cuisine (and others),￥4000～￥4999,NA,3.56,3.56,NA,52,35.00550853,135.7708956
-633,oumigyuujukuseisute-kiichigo-kyu-roku  ,近江牛熟成ステーキ1596,Sanjo,Steak,Yakiniku (BBQ Beef),￥3000～￥3999,NA,3.06,3.06,3.04,4,35.00637346,135.7726446
-634,Yukinoshita  ,雪ノ下 京都本店,Nijojo Mae,Pancake,Shaved ice (snow cone),￥1000～￥1999,￥1000～￥1999,3.58,3.13,3.58,131,35.0084718,135.7537013
-635,Yakinikuhorumonfukukawa  ,焼肉・ホルモン福川,Omiya,Yakiniku (BBQ Beef),NA,￥3000～￥3999,NA,3.04,3.04,NA,1,35.00392249,135.7494144
-636,Purachinabifu  ,プラチナビーフ,Gion Shijo,Teppanyaki,Steak,￥5000～￥5999,NA,3.53,3.52,3.27,20,35.00334296,135.7727855
-637,Gionroiro  ,祇園 呂色,Gion Shijo,French,NA,￥20000～￥29999,￥10000～￥14999,3.83,3.8,3.58,31,35.00399987,135.7748095
-638,Gyuurakutei  ,牛楽亭,Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3.16,3.16,NA,32,35.00385429,135.7568863
-639,Ristorante t.v.b  ,リストランテ ティ ヴォリオ ベーネ,Gion Shijo,Italian,Wine bar,￥15000～￥19999,￥5000～￥5999,3.67,3.64,3.62,121,35.00245865,135.7754928
-640,YEBISU  ,担担麺 胡,Keihan Yamashina,Dandan noodles,Ramen, ～￥999,NA,3.07,3.06,3.07,17,34.9898807,135.8158076
-641,Takayasuzekuu  ,高安 是空,Karasuma,Ramen,NA, ～￥999, ～￥999,3.09,3.06,3.09,26,35.00625156,135.7581547
-642,Koshitsuyakinikugokkoya  ,個室焼肉 ごっこや,Kyoto Shiyakusho Mae,Yakiniku (BBQ Beef),Izakaya (Tavern),￥3000～￥3999,NA,3.02,3.02,NA,7,35.0147311,135.7678482
-643,Ebisu  ,恵比朱,Kyoto,Ramen,Chinese, ～￥999, ～￥999,3.51,3.48,3.17,125,34.98792654,135.760671
-644,izakayakyounoshunsaiirodori  ,居酒屋 京の旬菜いろどり,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.05,3.05,NA,23,34.98759273,135.7588652
-645,matono  ,まとの,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),￥10000～￥14999,￥4000～￥4999,3.72,3.63,3.72,69,35.00156548,135.779139
-646,Shiunsen  ,紫雲仙,Kyoto Shiyakusho Mae,Soba,Kappo (Traditional Japanese),￥3000～￥3999,￥1000～￥1999,3.53,3.28,3.52,40,35.010161,135.7663155
-647,BEER PUB Takumiya  ,タクミヤ,Karasuma Oike,Dining bar,Italian,￥3000～￥3999,NA,3.54,3.54,3.05,20,35.01214069,135.7606928
-648,Kidoriya  ,季鶏屋,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999, ～￥999,3,3.06,3,12,34.98805824,135.7592629
-649,Kumamotosougouinshokutemmao  ,隈本総合飲食店 MAO,Karasuma,Bar,Cafe,￥3000～￥3999, ～￥999,3.25,3.06,3.46,35,35.00534754,135.7609561
-650,shijoupakuchi-  ,四条パクチー,Shijo,Thailand cooking,Izakaya (Tavern),￥2000～￥2999, ～￥999,3.34,3.21,3.3,52,35.00382317,135.7560074
-651,SOUDEN  ,手鞠鮨と日本茶 宗田,Karasuma Oike,Sushi,NA,￥5000～￥5999,￥2000～￥2999,3.08,3.03,3.14,6,35.00889708,135.7567108
-652,Kyoutotsuyushabuchiriri  ,京都つゆしゃぶCHIRIRI 本店,Marutamachi,Shabu Shabu (Japanese Steamboat),Sukiyaki,￥6000～￥7999,￥2000～￥2999,3.51,3.36,3.51,25,35.01807984,135.7578633
-653,waintoonikudaisen  ,わいんとお肉 だいせん,Gojo,Italian,Yakiniku (BBQ Beef),￥4000～￥4999,NA,3.04,3.04,NA,2,34.99096656,135.7603827
-654,Gokyou  ,牛京 西陣本店,Kuramaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,NA,3.09,3.04,3.16,9,35.03818624,135.751491
-655,Daburin  ,ダブリン,Kyoto Shiyakusho Mae,Pub,Beer,￥2000～￥2999,NA,3.06,3.06,3,23,35.011304,135.7699165
-656,Enyahanare  ,円屋 ハナレ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999, ～￥999,3.05,3.05,NA,3,35.00445479,135.7573409
-657,koubegyuuyakinikutaishitei  ,神戸牛 焼肉 大志亭 木屋町店,Kawaramachi,Yakiniku (BBQ Beef),Chiritori nabe (tripe),￥4000～￥4999,NA,3.06,3.06,NA,9,35.00472138,135.7702284
-658,nihonryourisakuragawa  ,日本料理 櫻川,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Kappo (Traditional Japanese),￥20000～￥29999,￥8000～￥9999,3.89,3.71,3.97,61,35.01217642,135.7706839
-659,Sushikawano  ,鮨 かわの,Kitaoji,Sushi,Seafood,￥20000～￥29999,￥8000～￥9999,3.59,3.58,3.59,16,35.04421064,135.766851
-660,Mameyagenzou  ,豆屋源蔵,Kyoto Shiyakusho Mae,Kyoto Cuisine,Tofu,￥6000～￥7999,￥3000～￥3999,3.38,3.37,3.08,21,35.0122103,135.770672
-661,chuukasobatakayasu  ,中華そば 高安,Ichijoji,Ramen,Boneless deep-fried chicken, ～￥999, ～￥999,3.59,3.58,3.59,713,35.04505205,135.7851804
-662,Kyouhorumontaisha  ,京・ホルモン大社,Kawaramachi,Horumon (BBQ Offel),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,NA,3.04,3.04,NA,6,35.00513439,135.7704131
-663,cafe Cento Cento  ,カフェ チェントチェント 京都駅店,Kyoto,Cafe,Pasta,￥2000～￥2999,￥1000～￥1999,3,3.08,3,84,34.98598903,135.7596357
-664,yakinikubunya  ,焼肉 文屋,Tambaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3.52,3.52,NA,41,34.98892812,135.7413219
-665,Teuchisobaminagawa  ,手打ち蕎麦みながわ 京・御池,Karasuma Oike,Soba,Izakaya (Tavern),￥1000～￥1999,￥1000～￥1999,3.17,3.03,3.17,9,35.01109878,135.7563157
-666,Kerara  ,ケララ,Kyoto Shiyakusho Mae,India cuisine,Indian curry,￥2000～￥2999,￥1000～￥1999,3.22,3.08,3.38,56,35.00986275,135.7687803
-667,Maribu  ,marib,Shijo,Dining bar,Bar, ～￥999, ～￥999,3.07,3.03,3.07,32,35.00267005,135.7611815
-668,takoyakimihashiya  ,たこ焼き みはし屋,Mototanaka,Takoyaki,NA, ～￥999, ～￥999,3.3,3.16,3.23,9,35.0353744,135.7812828
-669,Taverunamezzanotte  ,Taverna　Mezzanotte,Kawaramachi,Italian,Bar,￥4000～￥4999,NA,3.5,3.5,NA,4,35.00134029,135.7696282
-670,Shunsaitempuraarima  ,旬菜 天ぷら 有馬,Shijo,Fried Foods (other),Kappo (Traditional Japanese),￥4000～￥4999,￥1000～￥1999,3.25,3.08,3.41,22,35.00021492,135.7580565
-671,Kitanoguriru  ,北野グリル イオンモールKYOTO店,Kyoto,Hamburger Steak,Croquette,￥1000～￥1999,￥1000～￥1999,3.09,3.04,3.09,17,34.98328673,135.7548904
-672,Torishinoguraten  ,とり心 小倉店,Ogura,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,￥3000～￥3999,3.03,3.04,NA,1,34.89721584,135.7812464
-673,hakataaburimotsunabewarajiya  ,博多炙りもつ鍋わらじや 京都駅前店,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,NA,3.06,3.06,NA,3,34.98794745,135.7606192
-674,Ryuumon  ,龍門 本店,Sanjo Keihan,Sichuan Cuisine,Chinese,￥1000～￥1999,NA,3.27,3.27,3.07,62,35.00958708,135.7767902
-675,Kaiuntei  ,海雲亭 洛西店,Katsura,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999, ～￥999,3.19,3.09,3.31,11,34.97724664,135.6890559
-676,Kemuri  ,燻,Shijo,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.5,3.5,NA,36,35.00244027,135.7568181
-677,Ajirokkon  ,味ろっこん 烏丸店,Karasuma,Kappo (Traditional Japanese),Izakaya (Tavern),￥4000～￥4999,NA,3.45,3.39,3.15,37,35.0045162,135.7588636
-678,Rinya  ,凜屋 百万遍店,Demachiyanagi,Pasta,Cafe,￥1000～￥1999, ～￥999,3,3,NA,4,35.02916948,135.7795943
-679,Wasabi  ,わさび,Gion Shijo,Sushi,Izakaya (Tavern),￥5000～￥5999,NA,3.18,3.18,NA,40,35.00453674,135.7738559
-680,Kappousaraku  ,割烹 佐樂,Marutamachi,Kappo (Traditional Japanese),Kyoto Cuisine,￥8000～￥9999,NA,3.41,3.41,NA,10,35.01497172,135.7639359
-681,kaisembarukamebarueito  ,海鮮バル Kame Bar 8,Nijo,Bar,Wine bar,￥3000～￥3999,NA,3.29,3.29,NA,8,35.01090691,135.7432324
-682,Roko  ,露瑚,Kyoto Shiyakusho Mae,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),￥5000～￥5999,￥1000～￥1999,3.26,3.18,3.18,21,35.0121633,135.771074
-683,kafeandopanke-kiguramu  ,カフェ&パンケーキ gram 京都錦店,Karasuma,Cafe,Pancake,￥1000～￥1999,￥1000～￥1999,3.03,3.02,3.03,13,35.00515758,135.7622016
-684,Kyouryouritakeshimaichigo  ,京料理 竹島 ICHIGO,Kyoto Shiyakusho Mae,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥6000～￥7999,￥2000～￥2999,3.07,3.05,3.08,10,35.01181479,135.7707317
-685,Kiyomizujunsei  ,清水 順正 おかべ家,Kiyomizu Gojo,Tofu,Yuba,￥2000～￥2999,￥2000～￥2999,3.31,3.17,3.31,82,34.99569364,135.7811577
-686,Kokekokko  ,こけこっこ,Kyoto,Izakaya (Tavern),Steak,￥4000～￥4999,￥1000～￥1999,3.05,3,3.08,70,34.98585289,135.7574243
-687,Gionuemori  ,祇園うえもり,Gion Shijo,Kyoto Cuisine,Kappo (Traditional Japanese),￥6000～￥7999,￥3000～￥3999,3.49,3.49,NA,14,35.00283606,135.7754748
-688,Daniel's  ,ダニエルズ,Karasuma,Italian,Pasta,￥3000～￥3999,￥1000～￥1999,3.26,3.07,3.5,108,35.00492761,135.7624355
-689,Kyounojidoriyaaki  ,京のじどり屋 晃,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999, ～￥999,3.06,3.05,3.05,8,35.00531836,135.7665282
-690,Rozurumu  ,ローズルーム,Nijojo Mae,French,Western Cuisine,￥8000～￥9999,￥2000～￥2999,3.17,3.12,3.1,23,35.01266994,135.7528576
-691,ottimo  ,オッティモ,Marutamachi,Italian,Pasta,￥4000～￥4999,￥1000～￥1999,3.48,3.08,3.53,22,35.01341747,135.7587346
-692,Kunseimaketto  ,燻製マーケット,Higashino,Cafe,Western Food (Other),￥2000～￥2999, ～￥999,3.33,3.06,3.33,12,34.97873777,135.8182782
-693,Miyakohanten  ,都飯店,Kuzuha,Chinese,Ramen,￥1000～￥1999, ～￥999,3.2,3.11,3.28,62,34.85302187,135.6963949
-694,Shichirinya  ,しちりん屋 北山店,Kitaoji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,NA,3,3,NA,8,35.05017398,135.7525325
-695,Kushiagetoshiko  ,串揚げ toshico,Kitayama,Kushi-age (Fried Skewer),Creative cuisine,￥6000～￥7999,NA,3.44,3.44,NA,9,35.04436798,135.7706735
-696,Ishiyakinamapasutakuranosuke  ,石焼生パスタ 蔵之助,Katsura,Pasta,Italian,￥1000～￥1999,￥1000～￥1999,3.08,3.06,3.09,35,34.97428136,135.6940548
-697,Buruvaru  ,ブールヴァール,Kyoto,Buffet style,Teppanyaki,￥4000～￥4999,￥2000～￥2999,3.08,3.09,3.06,39,34.98738212,135.7578513
-698,ORENO PAN okumura  ,オレノ パン オクムラ 祇園店,Gion Shijo,Bread,Cafe,￥1000～￥1999, ～￥999,3.56,3.32,3.56,68,35.00410482,135.772776
-699,Osuteriakochinerra  ,オステリア・コチネッラ,Shijo,Italian,Wine bar,￥6000～￥7999,￥1000～￥1999,3.53,3.52,3.16,19,35.00118746,135.7630967
-700,Sumibiyakinikugyuugyuutei  ,牛々亭,Sai,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999,￥1000～￥1999,3.03,3.03,3,21,34.99640467,135.7330986
-701,Bapontochoukisshou  ,BAR 先斗町 吉祥,Sanjo,Bar,Pub,￥2000～￥2999,NA,3.04,3.04,NA,8,35.00739027,135.7711757
-702,karubidontosundoufusemmontenkandon  ,カルビ丼とスン豆腐専門店 韓丼 新堀川本店,Fushimi,Korean cuisine,Ramen, ～￥999, ～￥999,3.33,3.29,3.2,78,34.94602234,135.7520999
-703,Momoya  ,桃屋,Karasuma,Izakaya (Tavern),Kushi-age (Fried Skewer),￥3000～￥3999,NA,3.09,3.09,3.02,25,35.00492763,135.7624366
-704,motsunabekamehachi  ,もつ鍋 亀八 本店,Sanjo,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),￥4000～￥4999,NA,3.51,3.51,NA,55,35.00729278,135.7708397
-705,nikubarushouzudainingu  ,肉バル SHOW'S dining,Karasuma,Bar,Yakiniku (BBQ Beef),￥3000～￥3999, ～￥999,3,3,NA,4,35.00516341,135.7619761
-706,yakinikushokudoukandon  ,焼肉食堂 韓丼 京都八幡店,Matsuiyamate,Yakiniku (BBQ Beef),Korean cuisine,￥1000～￥1999, ～￥999,3.07,3.06,3.07,10,34.85638731,135.7102891
-707,Kyoutohanagushi  ,京都 はな串,Kyoto,Kushi-age (Fried Skewer),Yakitori (Grilled chicken),￥2000～￥2999,NA,3.07,3.07,NA,7,34.98693464,135.7531129
-708,Harise  ,はり清,Kiyomizu Gojo,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥10000～￥14999,￥5000～￥5999,3.6,3.59,3.58,31,34.99470857,135.7708961
-709,Hayashi  ,はやし 四条店,Shijo,Horumon (BBQ Offel),Yakiniku (BBQ Beef),￥4000～￥4999,NA,3.51,3.51,NA,38,35.00242301,135.7578446
-710,Iori  ,草庵,Kyoto Shiyakusho Mae,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.26,3.26,NA,13,35.01322233,135.7658518
-711,Kankokusakuratei  ,韓国さくら亭,Nishioji,Yakiniku (BBQ Beef),Creative cuisine,￥3000～￥3999,NA,3.27,3.27,3.24,14,34.98471552,135.7261778
-712,Norumandhi  ,ノルマンディー 河原町店 ,Kyoto Shiyakusho Mae,French,Mediterranean,￥6000～￥7999,￥2000～￥2999,3.55,3.54,3.29,38,35.01041714,135.7694769
-713,Rokurokuato  ,６６art,Saiin,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.46,3.46,NA,21,35.00252704,135.7310765
-714,Sagano  ,嵯峨野,Arashiyama,Tofu,Yuba,￥3000～￥3999,NA,3.58,3.5,3.57,129,35.01450089,135.6746449
-715,Kaosusupaisudaina  ,カオス スパイス ダイナー,Kyoto Shiyakusho Mae,Curry (other),Dining bar,￥1000～￥1999,￥1000～￥1999,3.35,3.06,3.35,36,35.00784988,135.7672044
-716,Erushimmachi  ,エール新町,Shijo,French,Italian,￥5000～￥5999,￥2000～￥2999,3.44,3.4,3.09,15,35.00157814,135.7568108
-717,Ginzaraion  ,銀座ライオン 京都アバンティ店,Kyoto,Beer,beer restaurant,￥3000～￥3999, ～￥999,3.08,3.07,3.09,30,34.98359207,135.7603369
-718,kyouyakinikukikyou  ,京焼肉 ききょう,Karasuma Oike,Yakiniku (BBQ Beef),Izakaya (Tavern),￥5000～￥5999, ～￥999,3.24,3.2,3.11,33,35.00883352,135.7588898
-719,Robatasushihotaru  ,炉端・鮨　蛍,Karasuma Oike,Robatayaki,Seafood,￥4000～￥4999, ～￥999,3.38,3.29,3.22,40,35.00867155,135.7589738
-720,nikubaruginjirou  ,肉バル銀次郎 京都駅前東店,Kyoto,Bar,Italian,￥3000～￥3999, ～￥999,3.44,3.31,3.29,32,34.98914427,135.7609941
-721,Tanuki  ,たぬき 六角店,Sanjo,Izakaya (Tavern),Creative cuisine,￥2000～￥2999,NA,3,3,NA,10,35.00758745,135.7698095
-722,Arashiyamamitate  ,嵐山MITATE,Arashiyama,French,Kyoto Cuisine,￥10000～￥14999,￥5000～￥5999,3.66,3.61,3.6,30,35.01517005,135.6788056
-723,Gansochikaranikumiyoshi  ,元祖力肉 みよ志,Nijo,Yakiniku (BBQ Beef),Izakaya (Tavern),￥3000～￥3999,NA,3.07,3.08,NA,24,35.00779714,135.7439592
-724,Rakuzouutage  ,楽蔵うたげ 京都駅前店,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3.02,3.03,NA,8,34.987908,135.7600284
-725,Kyoutomamehachi  ,京都豆八,Gion Shijo,Kyoto Cuisine,Tofu,￥4000～￥4999,￥1000～￥1999,3.08,3.06,3.11,22,35.00510357,135.7710467
-726,Garejisankyukafe  ,ガレージ サンキューカフェ,Uzumasa Tenjingawa,Cafe,Izakaya (other),￥2000～￥2999,￥2000～￥2999,3.03,3.03,3,7,35.01387168,135.7162233
-727,Membou  ,めん坊 木屋町店,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Udon Suki,￥4000～￥4999,NA,3.11,3.08,3.17,15,35.01157316,135.7709836
-728,Masohohanare  ,まそほ離れ,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.18,3.18,NA,10,34.98774882,135.7583633
-729,Yumeya  ,夢屋,Kyoto Shiyakusho Mae,Okonomiyaki,Chow Mein Noodle,￥1000～￥1999,NA,3.55,3.55,NA,73,35.0136063,135.7725451
-730,Giontakahashi  ,祗をん たかはし,Gion Shijo,Kappo (Traditional Japanese),Fugu (Blowfish),￥10000～￥14999,NA,3.57,3.57,NA,9,35.00222977,135.7744222
-731,Ranka  ,Lanka,Kawaramachi,Bistro,French,￥6000～￥7999,￥2000～￥2999,3.58,3.58,3.58,48,35.00416862,135.7678292
-732,Hakatamotsunabefukuya  ,博多もつ鍋　福屋 京都店,Kawaramachi,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),￥3000～￥3999,NA,3.03,3.03,NA,15,35.00458819,135.769812
-733,Ramenhikosaku  ,らーめん　彦さく,Imadegawa,Ramen,Dumplings, ～￥999, ～￥999,3.51,3.4,3.45,62,35.02968054,135.7480114
-734,Shunsaisousakubifferoan  ,露菴 京都八幡店,Yawatashi,Buffet style,Shabu Shabu (Japanese Steamboat),￥2000～￥2999,￥1000～￥1999,3,3.05,3,21,34.86133174,135.717112
-735,Tempurabaruharuichi  ,天ぷらバル ハルイチ,Karasuma Oike,Tempura,Bar,￥2000～￥2999,NA,3.3,3.3,3.02,6,35.01003983,135.7618067
-736,Tankumakitamise  ,たん熊北店 本店,Kawaramachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥20000～￥29999,￥6000～￥7999,3.59,3.52,3.62,74,35.00523604,135.7700315
-737,Miho  ,味峯 西大路駅前店,Nishioji,Izakaya (Tavern),Okinawan Cuisine,￥3000～￥3999,NA,3.23,3.23,NA,7,34.98058523,135.7317055
-738,Tempurakawatatsu  ,天ぷら 川辰,Katsuragawa,Tempura,Kaiseki (Traditional Japanese),￥5000～￥5999,￥3000～￥3999,3.56,3.32,3.61,40,34.96496281,135.7203219
-739,Gyaatei  ,ぎゃあてい,Arashiyama,Buffet style,Sushi,￥2000～￥2999,NA,3.51,3.06,3.51,72,35.01541167,135.677434
-740,Ryuumon  ,龍門 百万遍店,Mototanaka,Sichuan Cuisine,Dim sum,￥2000～￥2999, ～￥999,3.08,3.08,3.08,26,35.02841576,135.7845548
-741,Yakinikudaisen  ,焼肉 大仙 西院店,Saiin,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥5000～￥5999,NA,3,3,NA,8,35.00216904,135.7324295
-742,Erupojo  ,EL POLLO,Kyoto,Spain,Pizza,￥4000～￥4999,NA,3.2,3.2,NA,42,34.98940194,135.760019
-743,Man  ,滿,Kyoto Shiyakusho Mae,Sushi,Kappo (Traditional Japanese),￥15000～￥19999,￥8000～￥9999,3.06,3.06,NA,3,35.00808455,135.7656256
-744,Baoku  ,Bar 奥,Karasuma,Bar,Wine bar,￥3000～￥3999,NA,3.08,3.08,NA,28,35.0028606,135.7622478
-745,Arashiyamakohakudou  ,嵐山 琥珀堂,Arashiyama,French,Cafe,￥2000～￥2999,￥1000～￥1999,3.07,3.01,3.08,27,35.01794554,135.6763724
-746,Shinshin  ,心心,Karasuma Oike,Izakaya (Tavern),Seafood,￥4000～￥4999,NA,3.49,3.49,NA,20,35.00777483,135.7639249
-747,Icchou  ,一兆,Gion Shijo,Kyoto Cuisine,Nihonshu (Japanese sake),￥5000～￥5999,NA,3.02,3.02,NA,1,35.00486137,135.77095
-748,Shusaishokubouichi  ,酒菜食房いち,Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥5000～￥5999,￥1000～￥1999,3.22,3.14,3.18,50,35.0043759,135.7566118
-749,supeimbarurapaera  ,スペインバル ラパエラ,Matsugasaki,Spain,Bar,￥3000～￥3999,￥1000～￥1999,3.28,3.18,3.23,10,35.05147928,135.7775901
-750,Gimmiyananairo  ,吟味屋　菜々色,Omiya,Izakaya (Tavern),Kappo (Traditional Japanese),￥4000～￥4999,￥4000～￥4999,3.06,3.06,NA,7,35.00251214,135.7528311
-751,Marugameseimen  ,丸亀製麺 河原町三条店,Kyoto Shiyakusho Mae,Udon,NA, ～￥999, ～￥999,3.07,3.07,3.08,45,35.00815821,135.7688876
-752,Ramenfuji  ,ラーメン 藤 五条店,Kiyomizu Gojo,Ramen,NA, ～￥999, ～￥999,3.16,3.08,3.14,34,34.99558459,135.7708738
-753,Kyoutogionkawamuraryourihei  ,京都祇園 川村 料理平 祇園北側店,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥5000～￥5999,￥2000～￥2999,3,3,3.06,3,35.00522753,135.7758868
-754,Sentoro  ,CENTRO,Kyoto,Italian,Restaurants (other),￥4000～￥4999,NA,3.1,3.1,NA,24,34.98933448,135.7585224
-755,Giommikaku  ,祇園みかく,Gion Shijo,Steak,Sukiyaki,￥15000～￥19999,￥15000～￥19999,3.1,3.1,3.01,21,35.00513854,135.7726531
-756,Enyanishiki  ,円屋 錦,Karasuma,Izakaya (Tavern),Oden,￥3000～￥3999, ～￥999,3.12,3.06,3.22,37,35.00551862,135.7628228
-757,Kampaiboupuruda  ,韓杯房 プルダ 京都駅南店,Kyoto,Korean cuisine,Yakiniku (BBQ Beef),￥3000～￥3999,NA,3.42,3.42,NA,27,34.98271494,135.7599459
-758,Menshoutakamatsu  ,麺匠 たか松 四条店,Karasuma,Ramen,Tsukemen, ～￥999, ～￥999,3.07,3.06,3.07,34,35.00342136,135.7611665
-759,Kyounooheso  ,京のおへそ,Kawaramachi,Izakaya (Tavern),NA,￥3000～￥3999,NA,3.51,3.51,3.02,13,35.0054804,135.7664421
-760,Zen  ,ぜん,Demachiyanagi,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3.05,3.05,NA,5,35.02872941,135.7727757
-761,Aburiya  ,あぶりや,Higashi Maizuru,Izakaya (Tavern),Oden,￥3000～￥3999,NA,3.05,3.05,NA,1,35.47413574,135.3962936
-762,kodawaritamagosemmontentamagoya  ,こだわり卵専門店 たまごや,Arashiyama Torokko Station,Cafe,Japanese food (other), ～￥999,NA,3.15,3.05,3.15,22,35.01972639,135.6721298
-763,Tenjiyuen  ,てんじゅえん,Saiin,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,NA,3.46,3.46,NA,12,35.00415428,135.7311325
-764,Rinku  ,リンク,Kyoto Shiyakusho Mae,Fowl,Izakaya (Tavern),￥2000～￥2999,NA,3.27,3.27,NA,23,35.00927088,135.7696083
-765,Nishikiichiha  ,錦一葉,Kawaramachi,Café / coffee shop (and others),Sweets,￥1000～￥1999,￥1000～￥1999,3.46,3.08,3.43,44,35.00499766,135.7660221
-766,Kushiageadachi  ,串あげ あだち,Kitaoji,Kushi-age (Fried Skewer),Izakaya (Tavern),￥4000～￥4999,NA,3.07,3.08,3.07,6,35.04240269,135.7553126
-767,Haiborubakyoutoichikyunisan  ,ハイボールバー　京都1923,Gion Shijo,Izakaya (other),Bar,￥2000～￥2999,￥1000～￥1999,3.32,3.32,3.07,38,35.003669,135.7707693
-768,Washokumai  ,和食 舞,Kyoto,Tempura,Sushi,￥3000～￥3999,￥1000～￥1999,3,3,3,9,34.98386873,135.7613329
-769,Kyoutonanajouyakinikusakabayamadaruma  ,京都七条焼肉酒場 やまだるま,Shichijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999,NA,3.06,3.06,NA,11,34.989406,135.7662934
-770,nikubaruandohorumonnabetaigu  ,肉バル＆ホルモン鍋TAIGU,Kyoto Shiyakusho Mae,Bar,Motsu Nabe (Offel Hot Pot),￥3000～￥3999,￥1000～￥1999,3.04,3.03,3.03,2,35.01167897,135.7706442
-771,Itoukyuuemon  ,伊藤久右衛門 本店,Uji,Sweets,Japan tea shoppe, ～￥999,NA,3.58,3.09,3.58,380,34.89654917,135.8087566
-772,Kantonoryouritakeka  ,広東御料理　竹香,Gion Shijo,Chinese,Cantonese Cuisine,￥3000～￥3999,NA,3.3,3.3,NA,27,35.00587383,135.7748988
-773,Chikurin  ,竹林 本店,Uji,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥8000～￥9999,￥3000～￥3999,3.04,3.04,3.01,5,34.88542987,135.7962015
-774,Satsumayakinikukurozakurakurozakura  ,薩摩焼肉　黒桜,Uji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥4000～￥4999,￥1000～￥1999,3.42,3.42,3.06,13,34.88292271,135.8007201
-775,Takasegawa  ,TAKASEGAWA,Gion Shijo,Sumibiyaki,Yakitori (Grilled chicken),￥5000～￥5999,NA,3.6,3.6,NA,43,35.00247384,135.7702983
-776,Hairaitoshiyokudou  ,ハイライト食堂 御池店,Yamanouchi,table d'hôte,Western Cuisine, ～￥999, ～￥999,3.08,3.05,3.08,41,35.01079892,135.7230503
-777,Kikusui  ,菊水,Gion Shijo,Western Cuisine,French,￥3000～￥3999,￥1000～￥1999,3.18,3.07,3.33,82,35.00398066,135.7722747
-778,Kimukatsu  ,キムカツ 京都烏丸店,Shijo,Tonkatsu (Pork cutlet),Sandwich,￥1000～￥1999,￥1000～￥1999,3.08,3.07,3.08,86,35.00315246,135.7591239
-779,Kafemanowaru  ,カフェマノワール,Saiin,Italian,NA,￥2000～￥2999, ～￥999,3.08,3.09,3.06,21,35.00251114,135.7326437
-780,Purejiru  ,バイキングレストラン ル・プレジール,Kyoto,Buffet style,NA,￥4000～￥4999,￥2000～￥2999,3.15,3.07,3.3,68,34.98379087,135.7559614
-781,Sumibiyakitorikajian  ,炭火やきとり　かじ庵,Nagaokakyo,Yakitori (Grilled chicken),Shochu (Japanese spirits),￥2000～￥2999, ～￥999,3.03,3,3.04,8,34.92260454,135.6998042
-782,Kazamidori  ,風見鶏 烏丸六角店,Karasuma Oike,Izakaya (Tavern),Yakitori (Grilled chicken),￥2000～￥2999, ～￥999,3,3,NA,6,35.0074587,135.7607894
-783,SPOON  ,スプーン,Karasuma,Dining bar,Japanese food (other),￥3000～￥3999,NA,3.18,3.18,NA,39,35.00287949,135.7624625
-784,Isobe  ,いそべ 本店,Higashiyama,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥6000～￥7999,￥3000～￥3999,3.06,3.06,3,12,35.00297631,135.7821802
-785,Sukairaunjikuu  ,スカイラウンジ「空」KUU,Kyoto,Bar,Lounge,￥2000～￥2999, ～￥999,3.09,3.09,3.03,56,34.98758746,135.7593276
-786,Kaiuntei  ,海雲亭 槙島店,Ogura,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999,￥1000～￥1999,3.05,3.03,3.06,19,34.90581747,135.7839321
-787,Honkedaiichiasahi  ,本家 第一旭 たかばし本店,Kyoto,Ramen,Dumplings, ～￥999, ～￥999,3.6,3.59,3.6,1319,34.98669511,135.7625083
-788,Kichisen  ,京懐石 吉泉,Demachiyanagi,Kaiseki (Traditional Japanese),NA,￥20000～￥29999,￥10000～￥14999,4.19,4.16,4.11,79,35.03579724,135.7713522
-789,Hisago  ,ひさご,Gion Shijo,Oyako-don (Chicken Bowl),Soba, ～￥999, ～￥999,3.54,3.34,3.53,180,35.00060252,135.7787938
-790,shikimanzenhanahana  ,四季萬膳はなはな,Nijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,NA,3.09,3.1,NA,14,35.01092024,135.7430915
-791,Gurumatei  ,ぐるま亭,Shin Tanabe,Okonomiyaki,Teppanyaki,￥2000～￥2999,NA,3.05,3.05,NA,4,34.81994479,135.7722929
-792,Kappouiimori  ,割烹 いいもり,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),￥8000～￥9999,￥4000～￥4999,3.52,3.52,NA,15,35.00512032,135.7761021
-793,barchetta  ,バルケッタ,Gojo,Italian,Wine bar,￥3000～￥3999,NA,3.43,3.43,NA,29,34.99878458,135.7589631
-794,Ajinomeimon  ,味の名門 総本家,Tambaguchi,Ramen,Dumplings, ～￥999, ～￥999,3.19,3.13,3.09,55,34.99078844,135.7393728
-795,Nagagutsutei  ,ながぐつ亭 本店,Jingu Marutamachi,Pasta,Pizza,￥3000～￥3999,￥2000～￥2999,3,3.08,3,21,35.01527396,135.776008
-796,Ishise  ,石勢,Fushimi Momoyama,Kyoto Cuisine,Kappo (Traditional Japanese),￥4000～￥4999,NA,3.08,3.09,NA,13,34.93159269,135.7636549
-797,Apikaruinkyouto  ,アピカルイン京都,Shugakuin,Ryokan,Kaiseki (Traditional Japanese),￥3000～￥3999,￥2000～￥2999,3.06,3.06,NA,3,35.05222857,135.7891905
-798,Hanakushi  ,はな串,Kyoto,Kushi-age (Fried Skewer),Izakaya (Tavern),￥2000～￥2999,NA,3.53,3.53,NA,67,34.98937084,135.7569619
-799,Gionyuyama  ,祇園ゆやま,Sanjo Keihan,Kaiseki (Traditional Japanese),Kappo (Traditional Japanese),￥8000～￥9999,￥5000～￥5999,3.51,3.51,3.52,23,35.00565611,135.7766815
-800,Gioneguchi  ,祇おん 江口,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,￥8000～￥9999,NA,3.17,3.17,NA,9,35.00483172,135.7747445
-801,Sumibitowainkyoutoekimaeten  ,炭火とワイン 京都駅前店,Kyoto,Bar,Italian,￥4000～￥4999,NA,3.49,3.49,NA,22,34.9894509,135.760963
-802,Susumevaikingubaikingu  ,すすめ！ヴァイキング 京都八幡店,Yawatashi,Buffet style,Yakiniku (BBQ Beef),￥2000～￥2999,￥1000～￥1999,3.03,3,3.04,21,34.86400143,135.7225664
-803,Jounanen  ,城南園,Takeda,Chinese,Bento (Lunch box),￥2000～￥2999, ～￥999,3.15,3.05,3.15,25,34.94741041,135.7455587
-804,shunsairyoushin  ,旬彩漁 しん,Fushimi Momoyama,Seafood,Izakaya (Tavern),￥4000～￥4999,￥2000～￥2999,3.33,3.33,NA,6,34.93163824,135.7635579
-805,Shourenkanyoshinoya  ,昭恋館 よ志のや,  Kyotango,Ryokan,Crab,￥30000～,￥10000～￥14999,3.55,3.56,3.51,24,35.73530309,135.0942837
-806,pino  ,Trattoria Pino,Matsugasaki,Italian,Cafe,￥3000～￥3999,￥1000～￥1999,3.07,3.08,3.07,48,35.05176671,135.7754317
-807,Kyoumachishizuku  ,京町しずく 京都駅前店,Kyoto,Izakaya (Tavern),Seafood,￥3000～￥3999,NA,3.05,3.05,NA,5,34.98790855,135.7600259
-808,nihonshutoobanzainokyousakabamitoki  ,日本酒とおばんざいの京酒場 みとき,Shijo,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.12,3.12,NA,16,35.00261583,135.7580509
-809,Koudaijihashiba  ,高台寺羽柴,Gion Shijo,Kyoto Cuisine,Tempura,￥2000～￥2999,￥2000～￥2999,3.23,3.07,3.23,31,35.0006617,135.7797678
-810,Ryuunohige  ,龍のひげ,Kyoto Shiyakusho Mae,Kyoto Cuisine,French,￥5000～￥5999,￥3000～￥3999,3.7,3.74,3.54,70,35.01028104,135.7693502
-811,nikutowaimbaruwaraku  ,肉とワイン バルワラク,Kyoto,Bar,Spain,￥3000～￥3999, ～￥999,3.52,3.51,3.3,26,34.98943005,135.7599811
-812,Kyoutogontaro  ,京都 権太呂 本店,Kawaramachi,Udon Suki,Soba,￥5000～￥5999,￥1000～￥1999,3.59,3.51,3.59,151,35.00438966,135.7654122
-813,Kuragarimasa  ,くらがり まさ,Gion Shijo,Dining bar,Motsu Nabe (Offel Hot Pot),￥5000～￥5999,￥1000～￥1999,3.44,3.44,NA,8,35.004652,135.7738587
-814,Kirarazaka  ,きらら坂,Matsuiyamate,Izakaya (Tavern),Creative cuisine,￥3000～￥3999,￥1000～￥1999,3.08,3,3.12,8,34.83096399,135.7303498
-815,Ryuumon  ,龍門 岡崎店,Higashiyama,Chinese,Sichuan Cuisine,￥2000～￥2999, ～￥999,3.09,3.05,3.15,36,35.01407702,135.7848193
-816,Minamiyakankokushokudou  ,南屋韓国食堂,Shijo,Korean cuisine,Korean hot pot,￥3000～￥3999, ～￥999,3.09,3.09,NA,13,35.00138097,135.7582707
-817,Kyouya  ,京屋,Gion Shijo,Kaiseki (Traditional Japanese),Angler,￥10000～￥14999,￥5000～￥5999,3.04,3.04,NA,4,35.00597935,135.7730282
-818,Giwommorikou  ,ぎをん森幸,Higashiyama,Cantonese Cuisine,Dim sum,￥4000～￥4999,￥1000～￥1999,3.5,3.37,3.4,37,35.00764261,135.778999
-819,Sakaguratamanohikari  ,酒蔵玉乃光,Karasuma,Izakaya (Tavern),Mizutaki,￥2000～￥2999, ～￥999,3.05,3.05,3.03,6,35.00270231,135.763846
-820,Itsuraku  ,いつらく,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,￥4000～￥4999,NA,3.5,3.5,NA,19,35.00467889,135.770762
-821,Teppen  ,テッペン。,Momoyamagoryomae,Okonomiyaki,Chow Mein Noodle,￥1000～￥1999, ～￥999,3.06,3.09,3,11,34.9351298,135.7630361
-822,Nijou  ,二条,Nijojo Mae,Teppanyaki,Steak,￥8000～￥9999,￥3000～￥3999,3.06,3.05,3.06,16,35.01245274,135.7527673
-823,Giwontokiwa  ,ぎをん 常盤,Sanjo Keihan,Soba,Udon,￥1000～￥1999,￥1000～￥1999,3.6,3.6,3.52,106,35.00571971,135.7761635
-824,Arufakafe  ,Arfa cafe,Sanjo,Dining bar,Bar,￥2000～￥2999,NA,3.04,3.04,NA,3,35.00956475,135.7702827
-825,Kaiuntei  ,海雲亭 小倉本店,Ogura,Korean cuisine,Yakiniku (BBQ Beef),￥3000～￥3999,￥1000～￥1999,3.06,3.06,3.05,22,34.89487306,135.7822058
-826,Bisutoroya  ,びすとろ家 京都駅前店,Kyoto,Izakaya (Tavern),Bistro,￥4000～￥4999,￥3000～￥3999,3,3,NA,3,34.98791466,135.7600284
-827,THE AGLIO GARDEN  ,ザ アーリオガーデン,Gion Shijo,Dining bar,Creative cuisine,￥3000～￥3999,NA,3.03,3.03,NA,5,35.00471672,135.7773416
-828,Ichiyoshi  ,いちよし,Kyotanabe,Yakiniku (BBQ Beef),Izakaya (Tavern),￥4000～￥4999,NA,3.5,3.5,3.08,19,34.81952062,135.7697117
-829,Yukari  ,縁,Shijo,Chinese,Izakaya (Tavern),￥3000～￥3999, ～￥999,3.32,3.28,3.19,8,35.00171464,135.7563721
-830,RH Cafe  ,RH Cafe 京都店,Kawaramachi,Cafe,NA,￥1000～￥1999,￥1000～￥1999,3.39,3.09,3.33,31,35.00679142,135.7693587
-831,Suiba  ,すいば 六角富小路店,Kyoto Shiyakusho Mae,Stand Bar,Dining bar,￥1000～￥1999,NA,3.55,3.53,3.32,50,35.00745793,135.7648179
-832,menkiya  ,麺毅家 河原町店,Kawaramachi,Ramen,Chinese,￥1000～￥1999, ～￥999,3.08,3.05,3.08,11,35.00624673,135.7679955
-833,Kinkao  ,キンカーオ,Shichijo,Thailand cooking,Thai Curry,￥2000～￥2999,￥1000～￥1999,3.55,3.52,3.57,74,34.98941378,135.7665653
-834,Ujisoukokoro  ,宇治創 こころ,Uji,Dining bar,Creative cuisine,￥3000～￥3999,￥1000～￥1999,3.07,3,3.08,25,34.89028752,135.8029024
-835,Domadoma  ,土間土間 木屋町三条店,Sanjo,Izakaya (Tavern),Yakitori (Grilled chicken),￥3000～￥3999,NA,3.02,3.02,NA,29,35.00786235,135.7706734
-836,Chikyuuizakayashibuya  ,地球居酒屋 渋屋 椥辻本店,Nagitsuji,Izakaya (Tavern),Japanese food (other),￥2000～￥2999, ～￥999,3,3,3,10,34.9710888,135.8142069
-837,Ginzaraion  ,銀座ライオン 京都四条烏丸店,Shijo,Dining bar,Beer,￥4000～￥4999, ～￥999,3.03,3.03,3.03,21,35.00346187,135.7588778
-838,ORTO  ,オルト,Karasuma Oike,Innovative cuisine,Fusion cuisine,￥8000～￥9999,￥4000～￥4999,4.06,3.97,3.85,53,35.0079908,135.757053
-839,tsujiriheehonten  ,辻利兵衛本店,Uji,Parfait,Japan tea shoppe,￥1000～￥1999,￥1000～￥1999,3.54,3.07,3.54,116,34.88947307,135.7976731
-840,Haroukithisaryou  ,はろうきてぃ茶寮 ,Gion Shijo,Cafe,Kyoto Cuisine,￥1000～￥1999,NA,3.53,3.05,3.53,31,34.99888412,135.7804654
-841,Minamiyawagyuudou  ,南屋和牛堂,Kitaoji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),￥3000～￥3999,NA,3.04,3.04,NA,5,35.05711174,135.7469775
-842,Toretatedaininguyagyuu  ,とれたてダイニング 柳生,Narayama,Kaiseki (Traditional Japanese),Izakaya (Tavern),￥3000～￥3999,￥1000～￥1999,3.27,3.08,3.45,17,34.7158178,135.8319938
-843,Itoudainingu  ,伊藤ダイニング 京都,Gion Shijo,Teppanyaki,Steak,￥8000～￥9999,￥3000～￥3999,3.33,3.13,3.48,18,35.00544054,135.7742942
-844,Saradanomisesancho  ,サラダの店サンチョ 伏見店,Fushimi Momoyama,Hamburger Steak,Western (Others),￥1000～￥1999,￥1000～￥1999,3.08,3.07,3.1,72,34.93157547,135.7636046
-845,eruku  ,elk 京都河原町店,Kawaramachi,Pancake,Cafe,￥1000～￥1999, ～￥999,3.53,3.09,3.52,62,35.00593926,135.7681336
-846,Teinojikafe  ,丁の字 CAFE,Kyoto Shiyakusho Mae,Cafe,Coffee shoppe,￥1000～￥1999, ～￥999,3.55,3.04,3.55,25,35.01307409,135.7700722
-847,Sumibiyakitorikou  ,炭火やきとり 恒,Kawaramachi,Yakitori (Grilled chicken),Izakaya (Tavern),￥2000～￥2999,NA,3.02,3.02,NA,4,35.00181808,135.7656402
-848,Maboroshinochuukasobakatouyashijounibojirou  ,幻の中華そば加藤屋 四条にぼ次朗,Shijo,Ramen,Chinese, ～￥999, ～￥999,3.51,3.26,3.37,131,35.00345546,135.7575107
-849,Kyouryouriujigawaryokan  ,京料理 宇治川旅館,Uji,Ryokan,NA,￥1000～￥1999,NA,3.04,3.04,3.03,18,34.89206738,135.8059309
-850,Obanzaitatsunosuke  ,おばんざい TATSUNOSUKE,Kawaramachi,Japanese food (other),Izakaya (Tavern),￥3000～￥3999,NA,3.3,3.3,NA,6,35.00472199,135.7701774
-851,kyounosozaiyatoku  ,京の素材家 とく,Kujo,Izakaya (Tavern),Dining bar,￥3000～￥3999,NA,3.07,3.08,3.02,7,34.98195862,135.7595787
-852,Kankokusakuratei  ,韓国 さくら亭 烏丸店,Shijo,Yakiniku (BBQ Beef),Korean cuisine,￥3000～￥3999,NA,3.16,3.16,NA,9,35.00140458,135.758391
-853,Shisen  ,四川,Kyoto,Sichuan Cuisine,Cantonese Cuisine,￥6000～￥7999,￥2000～￥2999,3.08,3.06,3.09,34,34.98378975,135.7559609
-854,Barubera  ,バルベーラ,Saiin,Italian,Pasta,￥3000～￥3999,NA,3.09,3.06,3.15,21,35.00085192,135.7298323
-855,Yubasen  ,ゆば泉 宝ヶ池店,Kokusaikaikan,Tofu,Yuba,￥3000～￥3999,￥2000～￥2999,3.51,3.25,3.35,30,35.06427645,135.7891183
-856,Ibushigin  ,燻し銀,Sanjo,Izakaya (Tavern),Dining bar,￥4000～￥4999,NA,3.06,3.06,NA,20,35.01028888,135.7709712
-857,Irujeko  ,イル・ジェーコ,Shijo,Italian,Pasta,￥4000～￥4999,NA,3.52,3.52,NA,8,35.00263021,135.7553381
-858,Anju  ,庵珠,Arashiyama,Tofu,Yuba,￥3000～￥3999,￥3000～￥3999,3,3,3,40,35.01749422,135.6771359
-859,Genkiya  ,源輝家,Nagaokakyo,Izakaya (Tavern),Seafood,￥3000～￥3999, ～￥999,3.23,3.15,3.31,24,34.92289417,135.6994875
-860,Gohanya  ,ごはんや,Karasuma Oike,Izakaya (Tavern),Dining bar,￥2000～￥2999, ～￥999,3.05,3.04,3.05,11,35.01006572,135.7586821
-861,Kyouwasabi  ,京わさび,Fukakusa,Pork Shabu Shabu,Kyoto Cuisine,￥2000～￥2999,￥1000～￥1999,3.08,3.08,3.03,5,34.96137319,135.7678648
-862,kyoutoebisuya  ,京都戎屋 北大路駅前店,Kitaoji,Izakaya (Tavern),Oden,￥2000～￥2999,NA,3,3,NA,1,35.04339591,135.7574705
-863,Rakudaya  ,駱駝家,Saiin,Genghis Khan (BBQ Rum),Motsu Nabe (Offel Hot Pot),￥3000～￥3999,NA,3.06,3.06,NA,7,35.00239592,135.7298044
-864,Shouentei  ,鐘園亭,Kiyomizu Gojo,Chinese,Ramen,￥1000～￥1999, ～￥999,3.14,3.07,3.13,19,34.99728757,135.7770488
-865,Nishikihenkotsu  ,錦へんこつ,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),￥3000～￥3999,NA,3.51,3.51,NA,29,35.00522818,135.7651736
-866,Gyuukimura  ,牛・キムラ 山科店,Nagitsuji,Yakiniku (BBQ Beef),Sukiyaki,￥5000～￥5999,NA,3.06,3.06,3.06,8,34.97482277,135.8155898
-867,Kafecherisshu  ,cafe Cherish,Marutamachi,Cafe,Sweets (and others),￥1000～￥1999,￥1000～￥1999,3.45,3.11,3.42,34,35.01346866,135.7638594
-868,Masoho  ,まそほ 京都店,Kyoto,Seafood,Robatayaki,￥4000～￥4999,NA,3.35,3.35,NA,77,34.98839985,135.7577438
-869,Kamogawatakashi  ,鴨川たかし,Jingu Marutamachi,Yakiniku (BBQ Beef),Kaiseki (Traditional Japanese),￥5000～￥5999,￥2000～￥2999,3.59,3.58,3.61,58,35.01587833,135.7695256
-870,IZAMA  ,居様,Karasuma,Kyoto Cuisine,Creative cuisine,￥4000～￥4999,￥1000～￥1999,3.53,3.04,3.58,40,35.00659178,135.7568489
-871,Kaisekihyouki  ,懐石 瓢樹,Karasuma Oike,Kappo (Traditional Japanese),Kyoto Cuisine,￥10000～￥14999,￥4000～￥4999,3.47,3.3,3.38,39,35.00740636,135.7557022
-872,miyazakikenhyuugashitsukadanoujou  ,宮崎県日向市 塚田農場 京都三条大橋店,Sanjo,Izakaya (Tavern),Fowl,￥3000～￥3999,NA,3.03,3.03,NA,22,35.00884428,135.7711548
-873,Kyounojiyasaiitariampacchokone  ,パッチョコーネ,Kyoto,Italian,Pasta,￥2000～￥2999, ～￥999,3.03,3.04,3,7,34.9893769,135.7540455
-874,Kabochanotane  ,かぼちゃのたね,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,￥3000～￥3999,￥2000～￥2999,3.51,3.41,3.42,25,35.00396321,135.7749286
-875,Giwonyakinikushige  ,祇をん焼肉 茂 ,Gion Shijo,Yakiniku (BBQ Beef),Shabu Shabu (Japanese Steamboat),￥10000～￥14999,NA,3.06,3.06,NA,3,35.00417792,135.7760702
-876,Taruhachi  ,樽八,Mototanaka,Izakaya (Tavern),Ramen,￥3000～￥3999, ～￥999,3,3,NA,9,35.03118289,135.7801603
-877,THE BUFFET STYLE SARA  ,ザ・ブッフェスタイル サラ,Shijo,Buffet style,Creative cuisine,￥2000～￥2999,￥1000～￥1999,3.12,3.07,3.19,93,35.00315246,135.7591239
-878,Karafuneyakohiten  ,からふね屋珈琲店 三条本店,Kyoto Shiyakusho Mae,Traditional Café,Cafe, ～￥999, ～￥999,3.52,3.19,3.51,99,35.00841568,135.7688173
-879,Arashiyamataniguchi  ,嵐山 谷口,Arashiyama,Kaiseki (Traditional Japanese),Kyoto Cuisine,￥8000～￥9999,￥5000～￥5999,3.06,3.06,3.06,8,35.00719704,135.680433
-880,danieruzuaruba  ,Daniel’s ALBA,Karasuma Oike,Italian,Dining bar,￥3000～￥3999,￥1000～￥1999,3.08,3.05,3.1,26,35.01053312,135.7622811
-881,Giongyuuzen  ,祗園 牛禅,Gion Shijo,Shabu Shabu (Japanese Steamboat),Sukiyaki,￥3000～￥3999,NA,3.06,3.06,NA,18,35.0046429,135.7772165
-882,guridorufo-suitsuraku  ,GRIDDLE FORCE 逸楽,Karasuma,Teppanyaki,Steak,￥5000～￥5999,￥1000～￥1999,3.06,3.05,3.06,8,35.00630187,135.7603598
-883,Tatsumiya  ,辰巳屋,Uji,Kyoto Cuisine,Hot Pot (other),￥8000～￥9999,￥3000～￥3999,3.07,3.02,3.08,20,34.88847617,135.8091452
-884,Okonomiyakitonchinkan  ,とんちんかん,Kyoto Shiyakusho Mae,Okonomiyaki,Monjya yaki,￥2000～￥2999,￥1000～￥1999,3.05,3.05,3,28,35.00769269,135.7683904
-885,Kifuneugenta  ,貴船 右源太,Kurama,Kyoto Cuisine,Kaiseki (Traditional Japanese),￥10000～￥14999,￥6000～￥7999,3.54,3.51,3.47,55,35.12429458,135.7637824
-886,teuchiudonishokuyabongu  ,手打ちうどん 居食屋 凡愚,Nishi Maizuru,Izakaya (Tavern),Udon,￥1000～￥1999,￥1000～￥1999,3.07,3.07,3.06,14,35.44611395,135.3287328
-887,umaimonyaki sun  ,うまいもん焼 参,Gion Shijo,Yakitori (Grilled chicken),Motsu Nabe (Offel Hot Pot),￥3000～￥3999, ～￥999,3.03,3.04,NA,28,35.00561157,135.7707614
-888,Toritoyudoufuizakayaaogiya  ,鶏と湯豆腐 居酒屋 あおぎ屋,Saiin,Izakaya (Tavern),Kyoto Cuisine,￥3000～￥3999,NA,3.15,3.15,NA,7,35.00419853,135.731157
-889,Menshoutakamatsu  ,麺匠 たか松 本店,Karasuma,Tsukemen,Ramen, ～￥999, ～￥999,3.58,3.41,3.58,203,35.00626105,135.7608492
-890,Wayang Bali  ,ワヤン バリ,Kyoto Shiyakusho Mae,Indonesia cuisine,NA,￥3000～￥3999,NA,3.04,3.04,NA,15,35.01003495,135.768793
-891,Waraku  ,和楽,Fukuchiyama,Izakaya (Tavern),Kaiseki (Traditional Japanese),￥2000～￥2999, ～￥999,3,3.06,3,12,35.29891658,135.118341
-892,YEBISU BAR  ,エビスバー 京都ヨドバシ店,Kyoto,Beer bar,Bar,￥3000～￥3999, ～￥999,3.08,3.07,3.08,70,34.988132,135.7592152
-893,Ibushiginkazuya  ,燻吟 かず家,Kawaramachi,Bar,Nihonshu (Japanese sake),￥3000～￥3999,NA,3.36,3.36,3.05,11,35.00644896,135.7696529
-894,Tenichi  ,天一 京都伊勢丹店,Kyoto,Tempura,Ten-don (Tempura Bowl),￥6000～￥7999,￥2000～￥2999,3.51,3.32,3.53,52,34.9858865,135.757672
-895,Rakuzenkakinuma  ,楽膳柿沼,Jingu Marutamachi,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),￥8000～￥9999,￥2000～￥2999,3.1,3.09,3.08,9,35.01759019,135.7773604
+ID,Name,Station,FirstCategory,SecondCategory,TotalRating
+1,Orudeidainingurajou  ,Kyoto,Buffet style,Cafe,3.39
+2,Steak Frites Gaspard zinzin  ,Karasuma,Bistro,Steak,3.18
+3,KAZUMA  ,Sanjo,Izakaya (Tavern),Japanese food (other),3.28
+4,okonomiyakiteppanyakimiki  ,Tambaguchi,Okonomiyaki,Izakaya (Tavern),3.14
+5,Shaofeiyan  ,Kyoto Shiyakusho Mae,Chinese hot pot / fire pot,Chinese,3.16
+6,okuta-va  ,Kyoto,Bar,Italian,3.08
+7,Resort dining&bar HaLe  ,Sanjo,Italian,Bar,3.04
+8,Sumika  ,Kawaramachi,Izakaya (Tavern),Creative cuisine,3.34
+9,Gayagaya  ,Sanjo,Izakaya (Tavern),Bar,3.03
+10,Ishibekoujimamecha  ,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,3.56
+11,nagoyako-chintokoshitsuizakayatorisai  ,Sanjo,Izakaya (Tavern),Japanese food (other),3.04
+12,Gionabesu  ,Gion Shijo,French,Italian,3.58
+13,nishikimachinoakarishoutengai  ,Karasuma,Izakaya (Tavern),Bar,3
+14,gionni-yongo  ,Sanjo Keihan,Italian,French,3.85
+15,Mumon  ,Karasuma Oike,Shabu Shabu (Japanese Steamboat),Fugu (Blowfish),3.05
+16,itariandainingutoreotto  ,Saiin,Italian,Dining bar,3.04
+17,Sukiyakisunibiizakayahokuto  ,Kyoto,Sukiyaki,Yakitori (Grilled chicken),3.09
+18,Sakaean  ,Karasuma,Izakaya (Tavern),Nihonshu (Japanese sake),3.09
+19,biakicchinnikubarujikabiyajikabiya  ,Kawaramachi,Bar,Izakaya (Tavern),3.06
+20,ANAGOYA NORESORE  ,Nijojo Mae,Izakaya (Tavern),Seafood,3.5
+21,bejo-tamucho  ,Shijo,Spain,Izakaya (Tavern),3.16
+22,TENTATION  ,Sanjo,Bistro,Italian,3.06
+23,Izakayariraku  ,Karasuma,Yakitori (Grilled chicken),Fowl,3.03
+24,kyoutohyouto  ,Karasuma,Pork Shabu Shabu,Shabu Shabu (Japanese Steamboat),3.64
+25,Robatayagaburi  ,Karasuma,Izakaya (Tavern),Seafood,3.09
+26,Kushiyachouemon  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.03
+27,Torattoriaviare  ,Kiyomizu Gojo,Italian,Western Cuisine,3.44
+28,Komefuku  ,Sanjo,Tempura,Seafood,3.06
+29,Togiya  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Chinese,3.08
+30,kushiyakimanten  ,Sanjo,Yakitori (Grilled chicken),Kyoto Cuisine,3.35
+31,Kurogewagyuutenshou  ,Marutamachi,Yakiniku (BBQ Beef),Sukiyaki,3.5
+32,Chizutakkarubikoshitsubaruvino  ,Sanjo,Izakaya (Tavern),Dining bar,3.17
+33,teppandainingukyoushikian  ,Gion Shijo,Teppanyaki,Steak,3.06
+34,Yasuma  ,Kawaramachi,Izakaya (Tavern),Kyoto Cuisine,3.02
+35,In the Soup.  ,Gion Shijo,Bar,Bistro,3.02
+36,Gionyakinikukokoro  ,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06
+37,daininguba-daburyu-  ,Gion Shijo,Kappo (Traditional Japanese),Steak,3.25
+38,Kyoutodaina  ,Karasuma,Bistro,Bar,3.54
+39,Zasoudouhigashiyamakyouto  ,Gion Shijo,Italian,Pasta,3.61
+40,Gokyou  ,Jujo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04
+41,Ichifuji  ,Shijo,Izakaya (Tavern),Kappo (Traditional Japanese),3.05
+42,Tsukihikarasuma  ,Shijo,Izakaya (Tavern),Creative cuisine,3.17
+43,Kyoutotempuraendou  ,Higashiyama,Tempura,Kaiseki (Traditional Japanese),3.55
+44,Resutoraniro  ,Karasuma,Izakaya (Tavern),Creative cuisine,3.08
+45,Shuteimichiya  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.06
+46,Trattoria La Pace  ,Karasuma,Italian,Pizza,3.51
+47,Izakayabambu  ,Kyoto,Izakaya (Tavern),Kappo (Traditional Japanese),3.02
+48,Peppa  ,Kawaramachi,Okinawan Cuisine,Izakaya (Tavern),3.08
+49,Banikuryourisemmontenumayarou  ,Kawaramachi,Yakiniku (BBQ Beef),Shabu Shabu (Japanese Steamboat),3.51
+50,Teppanryourihanaroku  ,Gojo,Teppanyaki,Kyoto Cuisine,3.47
+51,Kyoutohanabi  ,Karasuma,Izakaya (Tavern),Japanese food (other),3.12
+52,Kyoutohananomai  ,Kyoto,Izakaya (Tavern),Seafood,3.04
+53,pontochoutanrakuyatoriume  ,Sanjo,Yakitori (Grilled chicken),Izakaya (Tavern),3.05
+54,Osakanadekoboko  ,Kyoto,Izakaya (Tavern),Seafood,3.42
+55,Sunny  ,Sanjo,Dining bar,Steak,3.48
+56,Gochiya  ,Kyoto,Izakaya (Tavern),Creative cuisine,3.18
+57,Shusaijoujou  ,Kyoto,Creative cuisine,Izakaya (Tavern),3.03
+58,o-rudeidainingukaza  ,Kyoto,Buffet style,Cafe,3.41
+59,Yakinikudainingukinoe  ,Kyoto Shiyakusho Mae,Yakiniku (BBQ Beef),Korean cuisine,3.58
+60,Manjirou  ,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.57
+61,Sakayaagurema  ,Sanjo,Izakaya (Tavern),Sukiyaki,3.03
+62,chuugokuryourichimmin  ,Gion Shijo,Chinese,Dim sum,3.5
+63,Hanasaki  ,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.58
+64,nikushokusakabagaru  ,Gion Shijo,Bar,Sumibiyaki,3.04
+65,furenchidainingutoppuobukyouto  ,Kyoto,French,Restaurants (other),3.07
+66,takaradoukarasuma  ,Shijo,Izakaya (Tavern),Sukiyaki,3.05
+67,Ikedayahananomai  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Kyoto Cuisine,3.07
+68,Kyoutogiontempurayasakaendou  ,Gion Shijo,Tempura,Kaiseki (Traditional Japanese),3.68
+69,Ryoumashamonoujou  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3
+70,Komefuku  ,Karasuma,Tempura,Ten-don (Tempura Bowl),3.55
+71,Gionkyouryourihanasaki  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.5
+72,Izakayashinoomiya  ,Shijo Omiya,Izakaya (Tavern),Kushi-age (Fried Skewer),3.14
+73,Ittetsugurache  ,Karasuma,Yakiniku (BBQ Beef),Bar,3.52
+74,Ichishun  ,Kyoto,Izakaya (Tavern),Japanese food (other),3.53
+75,Nikokubaru  ,Keihan Yamashina,Izakaya (Tavern),Kushi-age (Fried Skewer),3.03
+76,Teppansakuwan  ,Saiin,Teppanyaki,Izakaya (Tavern),3.04
+77,RIGOLETTO SMOKE GRILL & BAR  ,Gion Shijo,Italian,Spain,3.52
+78,Kugurinaberoppakuya  ,Karasuma,Izakaya (Tavern),Japanese food (other),3.08
+79,Kyouryouritategami  ,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51
+80,Pontochourobin  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.48
+81,BELLOTA concha  ,Kawaramachi,Spain,Italian,3.16
+82,Bejitejiya  ,Gion Shijo,Yakiniku (BBQ Beef),Korean cuisine,3.11
+83,Matsuzakagyuuwattsuzakicchin  ,Gion Shijo,Steak,Sushi,3.06
+84,Sushidokoroima  ,Katsura,Sushi,Seafood,3.53
+85,Maribuagaru  ,Karasuma,Izakaya (Tavern),Japanese food (other),3.1
+86,Italian bar Lugol  ,Karasuma Oike,Italian,Pasta,3.03
+87,Takishokudou  ,Shijo,Dining bar,Izakaya (Tavern),3.02
+88,Bar Pleasure  ,Kawaramachi,Bar,Wine bar,3
+89,Sou  ,Shijo,Izakaya (Tavern),Creative cuisine,3.55
+90,Kaisenizakayamatsurishungyotokyouyasaitoosakenoomise  ,Kawaramachi,Izakaya (Tavern),Seafood,3.03
+91,Momojirou  ,Fukakusa,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),3.04
+92,Yakinikusakayaisshin  ,Rokujizo,Yakiniku (BBQ Beef),Izakaya (Tavern),3.1
+93,Kyouhonoka  ,Sanjo,Izakaya (Tavern),Creative cuisine,3.01
+94,Ampan  ,Karasuma Oike,Korean cuisine,Yakiniku (BBQ Beef),3.08
+95,rino  ,Karasuma Oike,Italian,Pasta,3.2
+96,REAL NETA DINING ICHIZ  ,Tambaguchi,Italian,Izakaya (Tavern),3.05
+97,nikubaruginjirou  ,Gion Shijo,Bar,Steak,3.06
+98,Kushikatsutanaka  ,Saiin,Kushi-age (Fried Skewer),Izakaya (Tavern),3.02
+99,nihonshusumiyakiyaiki  ,Fushimi Momoyama,Izakaya (Tavern),Kappo (Traditional Japanese),3.04
+100,Taketori  ,Hanazono,Fowl,Yakitori (Grilled chicken),3.06
+101,Pierupureshiuzu  ,Karasuma Oike,French,Western Cuisine,3.06
+102,Yamadaruma  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.03
+103,unagihitsumabushisumiyagura  ,Kawaramachi,Unagi (Freshwater eel),Kyoto Cuisine,3.21
+104,pittsuxeriaba-rurenapori  ,Karasuma,Italian,Pizza,3.37
+105,kyoutoufusousakuhirarinteikakurean  ,Kyoto,Izakaya (Tavern),Tofu,3
+106,Yakinikusebun  ,Tambaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.3
+107,Kushiyakimanten  ,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),3.07
+108,Yakinikuichiba  ,Chayama,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04
+109,Pizzeria e Bar La Voce  ,Kawaramachi,Italian,Pizza,3.18
+110,Nyavetonamu  ,Kyoto,Viet Nam cuisine,Cafe,3.04
+111,Taishuusakabatenuzumasatenjingawaten  ,Uzumasa Tenjingawa,Izakaya (Tavern),Yakitori (Grilled chicken),3.02
+112,hoterukeihankyoutogurandeokujoubiaga-den  ,Kyoto,Beer garden,Beer,3.05
+113,Gionramburu  ,Gion Shijo,Kyoto Cuisine,Creative cuisine,3.56
+114,Shisui  ,Sanjo,Izakaya (Tavern),Kyoto Cuisine,3
+115,gyouzaba-anzukko  ,Kyoto Shiyakusho Mae,Dumplings,Chinese,3.08
+116,jukuseiyakinikupondo  ,Shijo Omiya,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.28
+117,KORAN  ,Sai,Korean cuisine,Yakiniku (BBQ Beef),3.12
+118,Kyoutonijoutosaka  ,Marutamachi,Kappo (Traditional Japanese),Japanese food (other),3.53
+119,YAMAMURA GYUUBEI  ,Omiya,Izakaya (Tavern),Italian,3.06
+120,Poquito  ,Kyoto Shiyakusho Mae,Spain,Dining bar,3.51
+121,Machiyashisenhoshitsukiyo  ,Omiya,Sichuan Cuisine,Shanghai Cuisine,3.53
+122,Ameirobisutoroaruru  ,Nishi Maizuru,Italian,Cafe,3.05
+123,LODGE  ,Kyoto Shiyakusho Mae,Steak,Izakaya (Tavern),3.06
+124,Yosuke YAMAJI  ,Gion Shijo,French,Modern French,4.02
+125,Feliz-Lana  ,Karasuma,Italian,Bar,3.2
+126,Wakanoshizuku  ,Sanjo,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),3.02
+127,fujiyakyoushoku  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Japanese food (other),3.04
+128,Teramachiyoshikura  ,Demachiyanagi,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.16
+129,sakanaryouritosakeshinsengumi  ,Fushimi,Izakaya (Tavern),Seafood,3.28
+130,bisutorowaraku  ,Karasuma,Bistro,Bar,3.2
+131,Uroko  ,Kawaramachi,Izakaya (Tavern),Japanese food (other),3.07
+132,Ipponyari  ,Fujinomori,Fugu (Blowfish),Kappo (Traditional Japanese),3.08
+133,Higashinotouinsou  ,Karasuma Oike,Kappo (Traditional Japanese),Japanese food (other),3.15
+134,hokkorisakabanagomiya  ,Shijo Omiya,Izakaya (Tavern),Yakitori (Grilled chicken),3.06
+135,teppandainingugionshou  ,Gion Shijo,Izakaya (Tavern),Teppanyaki,3.02
+136,Charcoal  ,Shijo,Italian,Bar,3.53
+137,rakuenzakayaannachuraru  ,Demachiyanagi,Izakaya (Tavern),Dining bar,3
+138,Gionemon  ,Higashiyama,Sushi,Kappo (Traditional Japanese),3.48
+139,Momojirou  ,Keihan Yamashina,Izakaya (Tavern),Seafood,3.08
+140,Kizakurajirokutei  ,Sanjo,Izakaya (Tavern),Kyoto Cuisine,3.2
+141,torisemmontenyamadori  ,Kyoto,Yakitori (Grilled chicken),Sukiyaki,3.38
+142,satsumachirandorikuroyakibeppinya  ,Karasuma,Izakaya (Tavern),Fowl,3.48
+143,zensekikoshitsuizakayasakurazaka  ,Sanjo,Izakaya (Tavern),Seafood,3
+144,Chiritorinabeiyama  ,Kitano Hakubaicho,Chiritori nabe (tripe),Korean cuisine,3.52
+145,Mayonakashokudouchoujuugigarokkaku  ,Karasuma Oike,Izakaya (Tavern),Fowl,3.06
+146,Bankettonishiki  ,Karasuma,Japanese food (other),Izakaya (Tavern),3.15
+147,Roppakuyakado  ,Karasuma,Izakaya (Tavern),Wine bar,3.06
+148,Parinijuuikku  ,Kawaramachi,Steak,Beer,3.15
+149,ajidokorosamon  ,Sai,Izakaya (Tavern),Okinawan Cuisine,3.05
+150,Ajidokoroterasaki  ,Kyoto,Kaiseki (Traditional Japanese),Seafood,3.52
+151,STRADA  ,Kyoto Shiyakusho Mae,Italian,NA,3
+152,Nonkitei  ,Gion Shijo,Kappo (Traditional Japanese),Creative cuisine,3.47
+153,kyouryourikaji  ,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.56
+154,nikugaumaikafenikkusutokku  ,Tambaguchi,Cafe,Steak,3.19
+155,momojirouichiba  ,Kitano Hakubaicho,Izakaya (Tavern),Seafood,3.05
+156,Waraiya  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3.09
+157,Ryouma  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.03
+158,Nihonryouriukihashi  ,Kyoto,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.53
+159,Sushiyoshino  ,Sanjo,Sushi,Kappo (Traditional Japanese),3.06
+160,Tsuneo  ,Gion Shijo,Kappo (Traditional Japanese),Wine bar,3.52
+161,KYOTO GATTEN  ,Gion Shijo,Tempura,Sushi,3.09
+162,Figerasu  ,Gion Shijo,Spain,Bar,3.06
+163,LOTUS  ,Shijo,Italian,Izakaya (Tavern),3.42
+164,Saredokafe  ,Kyoto,Cafe,Crepes,3.11
+165,Kushinobou  ,Kyoto,Kushi-age (Fried Skewer),NA,3.06
+166,Kaisendokoroichi  ,Karasuma,Izakaya (Tavern),Seafood,3.08
+167,Kyuushuunecchuuya  ,Omiya,Izakaya (Tavern),Dumplings,3.08
+168,Nosutarujia  ,Kyoto Shiyakusho Mae,Dining bar,Italian,3.04
+169,sakesakanatanagokoro  ,Gojo,Izakaya (Tavern),Japanese food (other),3.06
+170,mo-shondaina-  ,Kyoto Shiyakusho Mae,Cafe,Burger,3.12
+171,Sumibikushiyakitsujiya  ,Kawaramachi,Yakitori (Grilled chicken),Izakaya (Tavern),3.05
+172,Tenshinchashitsu  ,Kyoto,Shanghai Cuisine,Cantonese Cuisine,3.54
+173,Haiborubakyoutokarasumaichikyuuniisan  ,Karasuma,Bar,Bar,3.22
+174,Oumigyuuyakinikumeitokuya  ,Jujo,Yakiniku (BBQ Beef),NA,3
+175,Mukadeya  ,Karasuma,Kyoto Cuisine,Japanese food (other),3.07
+176,Hanagokoro  ,Hanazono,Kyoto Cuisine,Shojin Cuisine (Buddhist Cuisine),3.08
+177,Rakuza  ,Kyoto,Izakaya (Tavern),Seafood,3.22
+178,Monakadou  ,Kawaramachi,Izakaya (Tavern),Creative cuisine,3.07
+179,kyoutoayanokoujimangetsunohana  ,Karasuma,Sweets,Japanese food (other),3.26
+180,shunsaibaruiberiko  ,Sanjo,Dining bar,Creative cuisine,3.05
+181,Ikiikiudon  ,Karasuma Oike,Udon,Japanese food (other),3.18
+182,zasera-kyouto  ,Kyoto Shiyakusho Mae,Dining bar,Kappo (Traditional Japanese),3.05
+183,Daikokuebisu  ,Saiin,Yakiniku (BBQ Beef),Korean cuisine,3.06
+184,kaitoshirowainnobarukakimaru  ,Kyoto,Bar,Italian,3
+185,chisouyouga  ,Gojo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.63
+186,Kushiyamonogatari  ,Kyoto,Kushi-age (Fried Skewer),Izakaya (Tavern),3
+187,nihonshubarujinsuke  ,Karasuma,Izakaya (Tavern),Seafood,3.05
+188,Hanatanuki  ,Nishioji Oike,Izakaya (Tavern),Okonomiyaki,3.01
+189,izakayaba-shiba  ,Gion Shijo,Izakaya (Tavern),Japanese food (other),3.03
+190,Satsumagokamon  ,Karasuma,Izakaya (Tavern),Sukiyaki,3.07
+191,Kyoutoyamanashiyakitorikanazawa  ,Keihan Yamashina,Izakaya (Tavern),Yakitori (Grilled chicken),3.06
+192,Himiko  ,Higashi Maizuru,Izakaya (Tavern),Seafood,3.12
+193,koshitsuichiammasamunebettei  ,Gion Shijo,Izakaya (Tavern),Dining bar,3.06
+194,CHULETA  ,Gion Shijo,Spain,Bar,3.58
+195,GRILL&PUB The NICK STOCK  ,Sanjo,Steak,Bar,3
+196,Choushuuryourikyoumon  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.07
+197,Brochette  ,Karasuma Oike,Western (Others),French,3.55
+198,Ilifune  ,Jingu Marutamachi,Dining bar,Italian,3.06
+199,Satsuki  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51
+200,Kaitoshirowainnobarukakimaru  ,Saiin,Bar,Izakaya (Tavern),3.04
+201,Sandaimetorimero  ,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),3
+202,Furenchibado  ,Kyoto Shiyakusho Mae,French,Bistro,3.06
+203,BISTRO BAR A VIN  C  ,Shijo,Bistro,Seafood,3.51
+204,Figerasu  ,Karasuma,Spain,Bar,3.04
+205,Sorekaraayanokouji  ,Shijo,Izakaya (Tavern),Japanese food (other),3
+206,nikugaumaikafenikkusutokku  ,Toji,Cafe,Steak,3.19
+207,Teppankushiyakisakura  ,Chushojima,Izakaya (Tavern),Teppanyaki,3.05
+208,TORIBUN  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3.02
+209,Supuringubareburuwarikyouto  ,Kawaramachi,Dining bar,Cafe,3.53
+210,Bistro SUMIRE Chinese   ,Gion Shijo,Chinese,Dim sum,3.35
+211,Bisutoroemuiaru  ,Gion Shijo,Bistro,Italian,3.48
+212,Daitouryou  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.08
+213,Nagomijun  ,Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.15
+214,Hiroya  ,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.59
+215,Kenedhikurabu  ,Sanjo,Bar,Italian,3.04
+216,zensekikoshitsuizakayataketorinoneiro  ,Kyoto,Izakaya (Tavern),Seafood,3
+217,Miho  ,Shijo Omiya,Izakaya (Tavern),Okinawan Cuisine,3.12
+218,Chabana  ,Kyoto,Okonomiyaki,Izakaya (Tavern),3.01
+219,Akayashiro  ,Tambaguchi,Horumon (BBQ Offel),Yakiniku (BBQ Beef),3.52
+220,Sousakukoshitsuizakayasugiurakyoutoekimaeshichijouten  ,Shichijo,Izakaya (Tavern),Seafood,3.18
+221,Sakanayariichi  ,Keihan Yamashina,Izakaya (Tavern),Seafood,3.05
+222,yasaidainingukusushi  ,Sanjo,Vegetable dishes,Izakaya (other),3.05
+223,nikuyanodaidokoro  ,Sanjo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3
+224,Miyagawachousaka  ,Gion Shijo,Italian,French,3.09
+225,Kashiwa  ,Gion Shijo,Yakitori (Grilled chicken),Fowl,3.06
+226,Iorisantouka  ,Emmachi,Izakaya (Tavern),Kyoto Cuisine,3.05
+227,Kyuushuunecchuuya  ,Katsura,Izakaya (Tavern),Dumplings,3.03
+228,kyoutokushidokoroazumaya  ,Sanjo,Yakitori (Grilled chicken),Izakaya (Tavern),3
+229,Chizutakkarubitonichinandorisachi  ,Saiin,Izakaya (Tavern),Bar,3.04
+230,Shunsaifujii  ,Kitaoji,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.35
+231,Hitotose  ,Kyoto,Japanese food (other),Izakaya (Tavern),3
+232,Bairan  ,Katsuragawa,Chinese,Dim sum,3.12
+233,Setsugekka  ,Kyoto Shiyakusho Mae,Bar,Lounge,3.13
+234,yakinikutobi-ruichibakouji  ,Karasuma,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06
+235,Sandaimetorimero  ,Shijo Omiya,Izakaya (Tavern),Yakitori (Grilled chicken),3.04
+236,zensekikoshitsuizakayatsukinokakehashi  ,Kyoto,Izakaya (Tavern),Regional Cuisine (Other),3
+237,tounyuutonshabutoratarou  ,Shijo,Kaiseki (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3
+238,Dainingunagomi  ,Keihan Yamashina,Izakaya (Tavern),Japanese food (other),3
+239,Mossannobetayaki  ,Sai,Okonomiyaki,Horumon (BBQ Offel),3.51
+240,gionnotonjiruyasanadachiya  ,Gion Shijo,Regional Cuisine (Other),Nihonshu (Japanese sake),3.15
+241,Gottie'sBEEF  ,Gion Shijo,Steak,Yakiniku (BBQ Beef),3.09
+242,pasutakorekushonandoba-dougetsuneo  ,Shijo,Izakaya (Tavern),Pasta,3.43
+243,Shougetsu  ,Kawaramachi,Okonomiyaki,Teppanyaki,3.08
+244,Kampaiboupuruda  ,Sanjo,Korean cuisine,Yakiniku (BBQ Beef),3
+245,teppandainingugionshou  ,Karasuma,Izakaya (Tavern),Italian,3.03
+246,Sajiki  ,Karasuma,Izakaya (Tavern),Japanese food (other),3
+247,gansochiriteppanyakimotsunabeakachiriya  ,Kyoto,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),3.02
+248,Nikumon  ,Omiya,Yakiniku (BBQ Beef),Izakaya (Tavern),3
+249,pontochouyakinikuyaruki  ,Sanjo,Yakiniku (BBQ Beef),Bar,3.06
+250,BAR-CERVECERIA xativa  ,Kyoto Shiyakusho Mae,Spain,Bar,3.45
+251,Ginnan  ,Kyoto,Izakaya (Tavern),Tofu,3.05
+252,Kyuushuunecchuuya  ,Fushimi Momoyama,Izakaya (Tavern),Dumplings,3
+253,konken  ,Kawaramachi,Thailand cooking,Izakaya (Tavern),3.12
+254,Yakinikuhorumonanju  ,Karasuma,Yakiniku (BBQ Beef),Korean cuisine,3
+255,Yamabanaheihachidiya  ,Shugakuin,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.56
+256,Idutsuya  ,Karasuma Oike,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.28
+257,Kyouyoushokumatsumoto  ,Karasuma,Western Cuisine,French,3.33
+258,Ashuckurk  ,Demachiyanagi,Bistro,Bar,3
+259,ITALIAN BAR MODERNTIMES  ,Marutamachi,Italian,Pizza,3.29
+260,Aiyoxtsu  ,Karasuma Oike,Kushi-age (Fried Skewer),Izakaya (Tavern),3.05
+261,Chanchi  ,Kyoto,Korean cuisine,Izakaya (Tavern),3.46
+262,SHUKURA  ,Sanjo,Bar,Nihonshu (Japanese sake),3.06
+263,mikusoroji-ba-sumu-su  ,Gion Shijo,Bar,Dining bar,3.05
+264,Kinugawa  ,Gojo,Kappo (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3.42
+265,Momojirou  ,Demachiyanagi,Izakaya (Tavern),Seafood,3.01
+266,daikouen  ,Tambaguchi,Yakiniku (BBQ Beef),Korean cuisine,3.21
+267,Gounotora  ,Shijo,Izakaya (Tavern),Nihonshu (Japanese sake),3.16
+268,Bejotamuamua  ,Karasuma Oike,Bar,Western (Others),3.1
+269,Ichibakouji  ,Kawaramachi,Izakaya (Tavern),Steak,3.51
+270,shioriyaichie  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Nihonshu (Japanese sake),3.07
+271,Kitayama  ,Gion Shijo,Hot Pot (other),Kyoto Cuisine,3.02
+272,Tempurashinjukutsunahachi  ,Kawaramachi,Tempura,Kaiseki (Traditional Japanese),3.02
+273,yakinikuajidouraku  ,Higashi Maizuru,Yakiniku (BBQ Beef),Seafood,3.06
+274,IL TOBANCHI  ,Karasuma Oike,Bar,Italian,3.18
+275,Shikinoajisugiura  ,Karasuma,Izakaya (Tavern),Seafood,3.15
+276,Kyoutoyakitoriseisakujo  ,Kawaramachi,Yakitori (Grilled chicken),Fowl,3.29
+277,arashiyamakushibun  ,Shijo,Kushi-age (Fried Skewer),Izakaya (Tavern),3.21
+278,Toriasa  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.09
+279,zensekikoshitsuizakayawazakurahitohira  ,Kyoto,Izakaya (Tavern),Seafood,3.02
+280,saredowa  ,Kyoto,Izakaya (Tavern),Creative cuisine,3.38
+281,gyokouchokusoukaisensakabaanji  ,Kawaramachi,Izakaya (Tavern),Seafood,3.53
+282,Rejon  ,Kawaramachi,French,Bistro,3.4
+283,Maruichi  ,Sanjo,Yakiniku (BBQ Beef),Korean cuisine,3.02
+284,Osakenobijutsukan  ,Kyoto Shiyakusho Mae,Bar,Dining bar,3.06
+285,wainandooyasaibarubejibaru  ,Shijo,Italian,Wine bar,3.51
+286,kaitoshirowainnobarukakimaru  ,Kawaramachi,Bar,Izakaya (Tavern),3.31
+287,Yudoufutakemura  ,Arashiyama,Tofu,Yuba,3.5
+288,ajiromanishigamatei  ,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,3.12
+289,Giombansankyoushoku  ,Gion Shijo,Izakaya (Tavern),Tempura,3
+290,Kyouhorumonhana  ,Kujo,Izakaya (Tavern),Horumon (BBQ Offel),3.06
+291,Bar PLAYGROUND  ,Imadegawa,Bar,Wine bar,3.06
+292,Kyameron  ,Kawaramachi,Steak,French,3.07
+293,Sumibikazuya  ,Kawaramachi,Izakaya (Tavern),Seafood,3.51
+294,Kandumebaruamichi  ,Karasuma,Bar,Izakaya (Tavern),3.05
+295,Ikkakujuu  ,Shijo,Izakaya (Tavern),Teppanyaki,3.29
+296,Jounetsushokusaikyoushoku  ,Kawaramachi,Seafood,Kyoto Cuisine,3.08
+297,Yakinikumarutomi  ,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.06
+298,toriiebisu  ,Kyoto,Seafood,Izakaya (Tavern),3.51
+299,Kyoutokeburikawa  ,  Kameoka,Ryokan,Auberge,3.42
+300,Gionyamamoto  ,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06
+301,Kappouyoshizen  ,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.58
+302,Nikuryouritobatoyo  ,Karasuma,Beef dishes,Wine bar,3.04
+303,jikidoukagura  ,Nijojo Mae,Kappo (Traditional Japanese),Izakaya (Tavern),3.04
+304,itaria-nasagura  ,Gion Shijo,Italian,Wine bar,3.59
+305,Puranchaken  ,Gion Shijo,Steak,Creative cuisine,3.53
+306,Bansankyoushoku  ,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),3.31
+307,Azuki  ,Keihan Yamashina,Izakaya (Tavern),Seafood,3
+308,Ichibakouji  ,Kyoto,Dining bar,Creative cuisine,3.5
+309,Sumikatominokouji  ,Kawaramachi,Izakaya (Tavern),Seafood,3.52
+310,zensekikoshitsuizakayasakurakomachi  ,Kawaramachi,Izakaya (Tavern),Seafood,3
+311,Imomatsu  ,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.07
+312,Rakuchin  ,Gion Shijo,Kushi-age (Fried Skewer),Japanese food (other),3.31
+313,Mogu piatti  ,Karasuma Oike,Italian,Bar,3.04
+314,sute-kihausupondo  ,Kawaramachi,Steak,Western Food (Other),3.31
+315,Taichirouya  ,Nishikyogoku,Izakaya (Tavern),Seafood,3.05
+316,Yakinikuhorumongyuuteruryourianiki  ,Shijo Omiya,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.14
+317,shioriya  ,Shijo,Izakaya (Tavern),Seafood,3.01
+318,Bar MICHIya  ,Sanjo,Bar,Bar,3.26
+319,Kushidainigusumiyakiromanya  ,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),3.03
+320,Daniel's Luce   ,Kyoto,Italian,NA,3.04
+321,Trattoria La Voce  ,Karasuma,Italian,Pasta,3.5
+322,Saketosakanatootokomaeshokudou  ,Kyoto,Izakaya (Tavern),Seafood,3
+323,Karyou  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.68
+324,Kyoutotawahoteruokujoubiagaden  ,Kyoto,Beer garden,BBQ,3.04
+325,kyouchabana  ,Kyoto,Okonomiyaki,Izakaya (Tavern),3.12
+326,giwonizakayamomojirou  ,Gion Shijo,Izakaya (Tavern),Seafood,3.04
+327,zeppinryokuchadashishabunoomiseiemon  ,Kyoto,Izakaya (Tavern),Japanese food (other),3.06
+328,Kyo gastronomy KOZO  ,Marutamachi,French,Kyoto Cuisine,3.06
+329,Teramachihambagugokurakutombo  ,Kyoto Shiyakusho Mae,Hamburger Steak,Western Cuisine,3.04
+330,Karasumarugenkiichiba  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.04
+331,Ikkon  ,Nijojo Mae,Kappo (Traditional Japanese),NA,3.06
+332,Taketorineo  ,Kuramaguchi,Izakaya (Tavern),Yakitori (Grilled chicken),3.15
+333,kyouyasaitosousakuryourinakaya  ,Saiin,Izakaya (Tavern),Dandan noodles,3.04
+334,Grelot  ,Gion Shijo,French,Western Cuisine,3.45
+335,kyoutoteppantachibana  ,Shijo,Teppanyaki,Okonomiyaki,3.03
+336,Itameshioriva  ,Gion Shijo,Italian,Bar,3.27
+337,CRAFT BEER & PIZZA 100K HYAKKEI  ,Kyoto,Italian,Pizza,3
+338,Shunsaidaininguitokoya  ,Sanjo,Izakaya (Tavern),Vegetable dishes,3.06
+339,Izakayaanji  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.45
+340,Bankokugaden  ,Marutamachi,Thailand cooking,Thai Curry,3.08
+341,Yakinikubaruyaruki  ,Kawaramachi,Yakiniku (BBQ Beef),Bar,3.06
+342,Osuteriaebaruporenta  ,Kawaramachi,Italian,Wine bar,3.53
+343,Tajimaya  ,Kyoto,Shabu Shabu (Japanese Steamboat),Sukiyaki,3
+344,Torisei  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3.16
+345,Old School wine and spirits  ,Kyoto Shiyakusho Mae,Dining bar,Bar,3.06
+346,Tsubakurosupponshokudou  ,Sanjo,Suppon (Soft-shelled Turtle),Hot Pot (other),3.09
+347,Rudensu  ,Marutamachi,Italian,Vegetable dishes,3.46
+348,zensekikoshitsuizakayataketorigoten  ,Keihan Yamashina,Izakaya (Tavern),Yakitori (Grilled chicken),3
+349,Arata  ,Omiya,Okonomiyaki,Teppanyaki,3.3
+350,Hachisei  ,Tambaguchi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.02
+351,Sentojemusukurabu  ,Gion Shijo,Bar,NA,3.09
+352,Kyoutonishikitempurasakabataneshichi  ,Karasuma,Tempura,Izakaya (Tavern),3.06
+353,Roti Chicken&Jackie Tacos  ,Shijo,Mexico cuisine,Bar,3.53
+354,Gurugurudon  ,Nijo,Okonomiyaki,Teppanyaki,3.05
+355,Rohan  ,Karasuma,Izakaya (Tavern),Seafood,3.05
+356,Jukuseiyakinikupondo  ,Kyoto,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.13
+357,kyoumachiyaitarianronkusu  ,Kawaramachi,Italian,Sumibiyaki,3
+358,Shunkouhinaka  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.05
+359,Fujiwara  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.55
+360,Tarou  ,Imadegawa,Kappo (Traditional Japanese),Seafood,3.02
+361,Osakekafepuchipuchi  ,Kawaramachi,Nihonshu (Japanese sake),Cafe,3.05
+362,MAWARI  ,Kawaramachi,Yakiniku (BBQ Beef),Korean cuisine,3
+363,Oumiyaseiemon  ,Marutamachi,European-style Curry,Curry rice,3.54
+364,Sanji  ,Marutamachi,Izakaya (Tavern),Japanese food (other),3.05
+365,Kyouryourimaiko  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.01
+366,waingurashiori  ,Kyoto,Wine bar,Izakaya (Tavern),3
+367,HOMURA  ,Sai,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.28
+368,Wine Bar Musée  ,Karasuma,Wine bar,Italian,3.21
+369,Gokoumachiono  ,Kawaramachi,Izakaya (Tavern),Oden,3.22
+370,Hamachou  ,Sanjo,Kaiseki (Traditional Japanese),Izakaya (Tavern),3.47
+371,osakenobijutsukankyoutosanjoukarasumaretoropabu  ,Karasuma Oike,Bar,Pub,3.07
+372,Sumibiyakinikuou  ,Nishioji Sanjo,Korean cuisine,Yakiniku (BBQ Beef),3.06
+373,Kichiri  ,Kawaramachi,Izakaya (Tavern),Dining bar,3.02
+374,kyouyakiyomizuhonke  ,Karasuma,Izakaya (Tavern),Kyoto Cuisine,3.41
+375,Itariankuatoro  ,Kyoto,Italian,NA,3.04
+376,fu-zuba-shioriya  ,Fushimi Momoyama,Izakaya (Tavern),Seafood,3.08
+377,SinSin  ,Shijo,Bar,Chinese,3.14
+378,Kyoukarasuma  ,Marutamachi,Kappo (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3.04
+379,konana  ,Karasuma,Pasta,Cafe,3
+380,Eijuan  ,Kyoto,Kyoto Cuisine,Kaiseki (Traditional Japanese),3
+381,Youfuushuzenumakarou  ,Higashi Muko,Izakaya (Tavern),Dining bar,3
+382,kyoutogyuukaisekiinayoshi  ,Gion Shijo,Kaiseki (Traditional Japanese),Beef dishes,3.52
+383,Sumibikushiyakitsujiya  ,Marutamachi,Yakitori (Grilled chicken),Izakaya (Tavern),3.19
+384,Koji  ,Nijojo Mae,Western Cuisine,Buffet style,3.21
+385,Iharada  ,Tambaguchi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.91
+386,gionkurashita  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.39
+387,Furenchimanjunia  ,Shijo,Bistro,Seafood,3.39
+388,Kaisen  ,Kawaramachi,Izakaya (Tavern),Seafood,3.04
+389,Karibunoutage  ,Okubo,Yakitori (Grilled chicken),Kushi-age (Fried Skewer),3.03
+390,Teppou  ,Fushimi,Izakaya (Tavern),Hot Pot (other),3.06
+391,Kyouryouriyumekaisekitaniguchi  ,Marutamachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51
+392,Kinnotsubasaerudoru  ,Karasuma,Izakaya (Tavern),Korean cuisine,3
+393,Umekoujikorabo  ,Tambaguchi,Italian,Pasta,3.06
+394,Yoshina  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51
+395,Zakicchinsaruvatorekuomo  ,Kyoto,Italian,Cafe,3.49
+396,Kyounosakanakatsugi  ,Gion Shijo,Kappo (Traditional Japanese),Seafood,3.06
+397,Kawamuraryourihei  ,Kawaramachi,Izakaya (Tavern),Japanese food (other),3.07
+398,Kyoutokimurayahonten  ,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3
+399,Kyouyakiyomizu  ,Kawaramachi,Izakaya (Tavern),Kyoto Cuisine,3.3
+400,Tsushima  ,Shijo Omiya,Izakaya (Tavern),Seafood,3.5
+401,Sherikurabu  ,Gion Shijo,Bar,Spain,3.39
+402,kaisekifuransuryourigurumantachibana  ,Kyoto,French,Western Cuisine,3.18
+403,THE ROCKIN' HEARTS  ,Uji,Dining bar,Curry rice,3.07
+404,wainshokudouumiusagi  ,Karasuma,Italian,Wine bar,3.13
+405,Soufuku  ,Sanjo,Steak,Teppanyaki,3.03
+406,Baruagiyao  ,Gojo,Bar,Seafood,3.57
+407,Danieruzusore  ,Karasuma,Italian,Pizza,3.21
+408,Shuuhou  ,Kujo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06
+409,Amakudoparadhikambaikan  ,Imadegawa,Cafe,Italian,3.39
+410,Shikisaishiwori  ,Gion Shijo,Kyoto Cuisine,Seafood,3.2
+411,Kyouwazentainotai  ,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.42
+412,Nagamegawapontochouhana  ,Gion Shijo,Kaiseki (Traditional Japanese),Tofu,3.56
+413,mekishikandaininguabokado  ,Sanjo,Mexico cuisine,Cafe,3.14
+414,nikubaruginjirou  ,Kyoto,Bar,Steak,3.49
+415,Kyoutofushimigura  ,Karasuma,Izakaya (Tavern),Seafood,3.05
+416,yakinikuyaruki  ,Saiin,Yakiniku (BBQ Beef),Izakaya (Tavern),3
+417,yakinikuyaruki  ,Sanjo,Yakiniku (BBQ Beef),Izakaya (Tavern),3.04
+418,Aburiya  ,Nishikyogoku,Yakiniku (BBQ Beef),Izakaya (Tavern),3.15
+419,nikudokoroikkou  ,Marutamachi,Yakiniku (BBQ Beef),Korean cuisine,3.04
+420,yakinikuyaruki  ,Fushimi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.02
+421,LOBUTA  ,Mototanaka,Izakaya (Tavern),Korean cuisine,3.05
+422,OICHO  ,Kiyomizu Gojo,Fowl,Hot Pot (other),3.09
+423,teppanyakiaoi  ,Kyoto,Teppanyaki,Japanese food (other),3.09
+424,yakinikuyaruki  ,Nagitsuji,Yakiniku (BBQ Beef),Korean cuisine,3.01
+425,Kyoutosakabaakamaru  ,Omiya,Izakaya (Tavern),NA,3.45
+426,Sara Sara  ,Shijo,Izakaya (Tavern),Dumplings,3.06
+427,Southern Court  ,Kyoto,Dining bar,Western (Others),3.58
+428,Gionshimmonsou  ,Sanjo Keihan,Ryokan,Kaiseki (Traditional Japanese),3.03
+429,Tenkanoyakinikudaishougun  ,Omiya,Yakiniku (BBQ Beef),Korean cuisine,3.2
+430,il pozzo  ,Karasuma Oike,Italian,Pasta,3.1
+431,kyouryouriuryuu  ,Sanjo,Kaiseki (Traditional Japanese),Fugu (Blowfish),3.23
+432,Rakusenrou  ,Karasuma,Chinese,Izakaya (Tavern),3.5
+433,Kishouzakura  ,Kiyomizu Gojo,French,Creative cuisine,3.31
+434,ryoushigoya  ,Nishi Maizuru,Izakaya (Tavern),Seafood,3.39
+435,nikubarudakara  ,Karasuma,Izakaya (Tavern),Steak,3.04
+436,BARVIDA  ,Katsuragawa,Dining bar,Teppanyaki,3.04
+437,kafeandodainingubambi  ,Kyoto Shiyakusho Mae,Italian,Cafe,3.19
+438,Erudoru  ,Matsugasaki,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.09
+439,Ippinhashinaga  ,Karasuma,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.51
+440,Nabetoshunsaitokyouryourikaryuu  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.48
+441,kafeandodainingubambikarasuma  ,Karasuma,Italian,Cafe,3.06
+442,Thiemuanfonvietto  ,Karasuma Oike,Viet Nam cuisine,Asian & ethnic cuisine (and others),3.41
+443,Kurepurikyoutoshanderu  ,Karasuma,Crepes,Cafe,3.53
+444,Risutoranteazekura  ,Kitayama,Italian,Restaurants (other),3.07
+445,Saryouhassui  ,Arashiyama,Cafe,Sweets,3.51
+446,Sala Suite Caffe Rucola   ,Shijo,Italian,Cafe,3.38
+447,Apollo+  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.52
+448,Houen  ,Shijo,Teppanyaki,NA,3.07
+449,Furenchiman  ,Kyoto,Bistro,Seafood,3.51
+450,Arigatou  ,Keihan Yamashina,Izakaya (Tavern),Yakiniku (BBQ Beef),3.02
+451,Kyousainikushima  ,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.03
+452,kurabuhausuminami  ,Kyoto,Izakaya (Tavern),Korean cuisine,3.05
+453,Pittsusarubatorekuomoandoguriru  ,Sanjo,Pizza,Italian,3.07
+454,Fresco  ,Kyoto,Izakaya (Tavern),Spain,3.03
+455,Rengetsudiya  ,Higashiyama,Tofu,Yuba,3.11
+456,gyuukushibunzou  ,Sanjo,Izakaya (Tavern),Sumibiyaki,3.04
+457,PREGO TOKICHI  ,Kyoto Shiyakusho Mae,Italian,Sumibiyaki,3.2
+458,sumibiyakiyasaiyaoki  ,Kyoto Shiyakusho Mae,Tempura,Izakaya (Tavern),3.05
+459,Osakanazukkorobashi  ,Kyoto,Izakaya (Tavern),Japanese food (other),3
+460,Torimasa  ,Kutsukawa,Izakaya (Tavern),Fowl,3
+461,Aguuru  ,Karasuma Oike,Okinawan Cuisine,Izakaya (Tavern),3.5
+462,Yakinikunonki  ,Higashino,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.07
+463,Adan  ,Kyoto,Izakaya (Tavern),Okinawan Cuisine,3.31
+464,Oushokuyakappa  ,Shijo,Italian,Bar,3.06
+465,Minari  ,Kyoto,Korean cuisine,table d'hôte,3.05
+466,Daichinokura  ,Higashi Maizuru,Izakaya (Tavern),NA,3.05
+467,sumibisute-kisakaikyoutosanjou  ,Karasuma Oike,Steak,Kaiseki (Traditional Japanese),3.5
+468,Ryuuhourakuenchura  ,Nishi Maizuru,Okinawan Cuisine,Izakaya (Tavern),3
+469,Byuandodainingukotoshieru  ,Kyoto,Modern French,Italian,3.42
+470,Karin  ,Nijojo Mae,Chinese,Dandan noodles,3.51
+471,Fujiya  ,Sanjo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.09
+472,Kyoutokimurayahonten  ,Gion Shijo,Izakaya (Tavern),Sukiyaki,3.04
+473,Joukoya  ,Karasuma,Izakaya (Tavern),Seafood,3.22
+474,Nikukappoubarugyugyu  ,Gion Shijo,Bar,Izakaya (Tavern),3.06
+475,furenchigiombarumaruhashi  ,Gion Shijo,Bar,French,3.54
+476,nikubaruginjirou  ,Karasuma Oike,Bar,Italian,3.52
+477,Sumibikushiyakitsujiya  ,Kyoto,Izakaya (Tavern),Kushiyaki (Grilled skewer),3.05
+478,Gyararishioriya  ,Kyoto,Izakaya (Tavern),Nihonshu (Japanese sake),3.27
+479,Kyounishikiobanzaibyuffehinataya  ,Kawaramachi,Buffet style,Kyoto Cuisine,3.03
+480,kamanzanijoumarufuku  ,Marutamachi,Izakaya (Tavern),Tempura,3.45
+481,coLLabo  ,Karasuma Oike,Cafe,Hamburger Steak,3.27
+482,tonkotsunabetogyouzaenraku  ,Shijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.04
+483,Ryuuan  ,Gion Shijo,Yakiniku (BBQ Beef),Japanese food (other),3.22
+484,Ace cafe  ,Sanjo,Cafe,Dining bar,3.09
+485,Resutoranrejina  ,Kyoto,Western Food (Other),Buffet style,3.03
+486,Akasaki  ,Shichijo,Izakaya (Tavern),Kyoto Cuisine,3.05
+487,Ozabu  ,Sanjo,Izakaya (Tavern),Kyoto Cuisine,3.06
+488,Sutekiandodainaburuba  ,Saiin,Bar,Steak,3.04
+489,Yakinikuyoshimi  ,Jingu Marutamachi,Yakiniku (BBQ Beef),Steak,3.58
+490,sute-kihausupondo  ,Marutamachi,Steak,Hamburger Steak,3.2
+491,Gyouzamatsukichi  ,Kitano Hakubaicho,Dumplings,Izakaya (Tavern),3.07
+492,Pontochounabariya  ,Gion Shijo,Italian,Wine bar,3.3
+493,Kamehameha  ,Kawaramachi,Okonomiyaki,Teppanyaki,3.05
+494,Bunta  ,Nagaoka Tenjin,Izakaya (Tavern),Chanko Nabe (Sumo Wrestlers Hot Pot),3.02
+495,Bejitejiya  ,Shijo,Korean cuisine,Yakiniku (BBQ Beef),3.5
+496,Juujuu  ,Kyoto,Yakiniku (BBQ Beef),Japanese food (other),3.03
+497,Kuuan  ,Kawaramachi,Izakaya (Tavern),Creative cuisine,3.04
+498,L'ajitto  ,Marutamachi,Teppanyaki,Okonomiyaki,3.23
+499,Aburaya  ,Uji,Izakaya (Tavern),Kushi-age (Fried Skewer),3.05
+500,yakitorisutandosakabakadofuku  ,Shijo,Izakaya (Tavern),Japanese food (other),3.28
+501,Kyoutosakagurakan  ,Shijo,Izakaya (Tavern),Bar,3.25
+502,Sutekihanasato  ,Gion Shijo,Steak,Teppanyaki,3.17
+503,Tawaterasu  ,Kyoto,Buffet style,Kaiseki (Traditional Japanese),3.35
+504,Gionshimbashinakatani  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.56
+505,Orudohonkonresutorankyouto  ,Shijo,Chinese,Cantonese Cuisine,3.88
+506,Okonomiyakitsuruhashifuugetsu  ,Kyoto,Izakaya (Tavern),Okonomiyaki,3.09
+507,Yakinikuyaruki  ,Gion Shijo,Yakiniku (BBQ Beef),Steak,3.07
+508,trattoria sette  ,Shichijo,Italian,Pizza,3.57
+509,Kurosuke  ,Kitano Hakubaicho,Tofu,Yuba,3.09
+510,Imozou  ,Gion Shijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.05
+511,Denen  ,Sanjo,Dining bar,Bar,3.04
+512,Kenzoesuteitowainarigionten  ,Gion Shijo,Italian,Wine bar,3.61
+513,Osteria Bastille  ,Karasuma,Italian,French,3.42
+514,IN THE GREEN  ,Kitayama,Italian,Pizza,3.52
+515,Ajoiichanchi  ,Fushimi Momoyama,Dining bar,Cafe,3.08
+516,Kitayamafuurin  ,Kitayama,Kaiseki (Traditional Japanese),Seafood,3.05
+517,burassuri-kontowa-ru  ,Nishioji,Izakaya (Tavern),Bistro,3.53
+518,Honmamonwagyu-sakanaya-hirari  ,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.17
+519,Manchou  ,Myoshinji,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.07
+520,Risutoranteoraegion  ,Gion Shijo,Italian,Pasta,3.59
+521,Taishuunikubarujuu  ,Sai,Bar,Steak,3.05
+522,Oyajinokura  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Seafood,3.04
+523,Occobe.  ,Higashiyama,Italian,Pasta,3
+524,itariamba-rukimuraya  ,Kyoto,Italian,Bar,3.08
+525,Cafe Restaurant Le Temps  ,Kyoto,Buffet style,Cafe,3.46
+526,sushidainingudaihachi  ,Karasuma,Sushi,Creative cuisine,3.06
+527,Umayakinikusemmontensakuratomomiji  ,Sanjo,Yakiniku (BBQ Beef),Meat dishes,3.53
+528,kyoutofushimigurapontochouminamian  ,Gion Shijo,Izakaya (Tavern),Japanese food (other),3
+529,Gempinfugushijoukarasumanoseki  ,Karasuma,Izakaya (Tavern),Fugu (Blowfish),3.05
+530,Shou  ,Marutamachi,Oden,Izakaya (Tavern),3.35
+531,Nikujuuhachi  ,Rokujizo,Yakiniku (BBQ Beef),NA,3
+532,Gori's Kitchen  ,Jujo,Italian,Pizza,3.05
+533,Tenkanoyakinikudaishougun  ,Kyoto,Yakiniku (BBQ Beef),Korean cuisine,3.05
+534,Kameya  ,Saiin,Crab,Fugu (Blowfish),3.02
+535,giombashunrou  ,Gion Shijo,Meat dishes,Regional Cuisine (Other),3.06
+536,Chishokufu  ,Emmachi,Chinese,Sichuan Cuisine,3.06
+537,eetokodori  ,Nishioji,Izakaya (Tavern),Yakitori (Grilled chicken),3.05
+538,Kasuian  ,Higashiyama,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.06
+539,Mimasuyamonami  ,Kawaramachi,Creative cuisine,Kyoto Cuisine,3.49
+540,Juunikiyakan  ,Kyoto,Izakaya (Tavern),Kyoto Cuisine,3.06
+541,kunseitojibi-ruwachi  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.51
+542,Torihime  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3
+543,Cafe Lavender  ,Nijo,Buffet style,Izakaya (other),3.04
+544,Kyoutobatake  ,Kyoto,Shabu Shabu (Japanese Steamboat),Izakaya (Tavern),3.03
+545,Fesshimon  ,Keihan Yamashina,Italian,Bar,3.05
+546,nikuyaoushin  ,Karasuma Oike,Yakiniku (BBQ Beef),Kyoto Cuisine,3.58
+547,Sumibirobataikoru  ,Shijo,Izakaya (Tavern),Seafood,3.04
+548,Hisa  ,Emmachi,Champon Noodle,Ramen,3.38
+549,Horumondaigorou  ,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.44
+550,Hikohachi  ,Gion Shijo,Sushi,Seafood,3.04
+551,Matsusakagyuuwattsu  ,Karasuma Oike,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.26
+552,FORTUNE GARDEN KYOTO  ,Kyoto Shiyakusho Mae,Bistro,Western Cuisine,3.59
+553,Enrian  ,Fushimi Momoyama,Creative cuisine,Japanese food (other),3
+554,kyuushuusakabaajito  ,Nishi Maizuru,Izakaya (Tavern),Fowl,3.03
+555,Heso  ,Kyoto,Standing style soba,Izakaya (Tavern),3.35
+556,Kyounozenkuruma  ,Shijo,Izakaya (Tavern),Yakitori (Grilled chicken),3.52
+557,oushuuizakayabiruzu  ,Fushimi Momoyama,Izakaya (Tavern),Pizza,3.03
+558,Aburishibuya  ,Keihan Yamashina,Izakaya (Tavern),Robatayaki,3.05
+559,Norakuro  ,Nishioji,Italian,Bistro,3.06
+560,Fuubitosuuro  ,Kawaramachi,Bar,Steak,3.29
+561,Kaisendokorowatanabeya  ,Karasuma Oike,Seafood,Izakaya (Tavern),3.06
+562,Gioniwamoto  ,Gion Shijo,Kyoto Cuisine,Kappo (Traditional Japanese),3.63
+563,Gyuutankeisuke  ,Kyoto,Izakaya (Tavern),Gyutan (Beef tongue),3.05
+564,Oribuoirusemmontenaorio  ,Sanjo,Bistro,Steak,3.06
+565,Seichuuan  ,Mototanaka,French,Western Food (Other),3.04
+566,Kyoukurozakura  ,Gion Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06
+567,Nettaishokudou  ,Gion Shijo,Thailand cooking,NA,3.15
+568,Toriseetakoyakushiten  ,Karasuma,Yakitori (Grilled chicken),Izakaya (Tavern),3.04
+569,Fujiishi  ,Gion Shijo,Kappo (Traditional Japanese),Japanese food (other),3.5
+570,yakinikuyaruki  ,Ichijoji,Yakiniku (BBQ Beef),Izakaya (Tavern),3.03
+571,Unkai  ,Nijojo Mae,Kaiseki (Traditional Japanese),Sushi,3.18
+572,Izakayamaruya  ,Kawaramachi,Izakaya (Tavern),Japanese food (other),3.03
+573,kyoutoarashiyamagoseiyuunoyadoranzan  ,Arashiyama,Other,NA,3.21
+574,Shimogamosaryou  ,Demachiyanagi,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.61
+575,Kifunekiraku  ,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.52
+576,Nikuyasuzu  ,Shichijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06
+577,KITAYAMA MONOLITH  ,Shugakuin,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06
+578,Watanabe  ,Nijojo Mae,Beef dishes,French,3.54
+579,clover  ,Sanjo,Dining bar,Italian,3.06
+580,hamba-guandosute-kipondo  ,Tambaguchi,Hamburger Steak,Steak,3.06
+581,Gempinfugukyoutoekimaenoseki  ,Kyoto,Fugu (Blowfish),Hot Pot (other),3.07
+582,guramuromanthikkumairu-mu  ,Kyoto Shiyakusho Mae,Dining bar,Italian,3.03
+583,Giombengara  ,Gion Shijo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.05
+584,gochisouizakayaippaiippai  ,Fujinomori,Izakaya (Tavern),Seafood,3
+585,uotanafumibun  ,Sanjo,Kappo (Traditional Japanese),Kyoto Cuisine,3.35
+586,Kyouhorumonkura  ,Kawaramachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04
+587,itariambarutoreotto  ,Omiya,Italian,Pizza,3.09
+588,Buraitonkicchin  ,Keihan Yamashina,Buffet style,Western Cuisine,3.16
+589,Aritsune  ,Kyoto Shiyakusho Mae,Kappo (Traditional Japanese),Kyoto Cuisine,3.69
+590,Akayashirosakae  ,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.21
+591,Kihara  ,Marutamachi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.15
+592,Kamon  ,Kawaramachi,Italian,Bar,3.31
+593,Mew’z cafe  ,Kyoto Shiyakusho Mae,Dining bar,Thailand cooking,3.06
+594,kyougokushinobinosato  ,Kawaramachi,Creative cuisine,Sushi,3
+595,Takaraya  ,Kujo,Izakaya (Tavern),Yakitori (Grilled chicken),3.07
+596,datten  ,Gion Shijo,Italian,Bar,3.03
+597,Tatsumi  ,Saiin,Kappo (Traditional Japanese),Sushi,3.05
+598,chuugokuryourikoukaryuuhou  ,Kyoto,Chinese,Dim sum,3.31
+599,Kaburaya  ,Gion Shijo,Kyoto Cuisine,Creative cuisine,3.51
+600,Kaiseitei  ,Kitayama,French,Italian,3.39
+601,Kushikatsutakoyakiseichan  ,Kyoto,Izakaya (Tavern),Takoyaki,3.05
+602,Gyuuzen  ,Shijo,Shabu Shabu (Japanese Steamboat),Sukiyaki,3.05
+603,Kyouzakanafukuya  ,Nijojo Mae,Izakaya (Tavern),Seafood,3.04
+604,Toto  ,Nishi Maizuru,Seafood,Sushi,3.22
+605,Ganko  ,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Shabu Shabu (Japanese Steamboat),3.52
+606,PASTA MORE  ,Kyoto,Italian,French,3
+607,Kyoumachibaru  ,Momoyamagoryomae,Dining bar,Izakaya (Tavern),3.04
+608,wagyuuyakinikutoku  ,Sanjo,Yakiniku (BBQ Beef),Korean cuisine,3.53
+609,Dembei  ,Kurama,Soba,Kamameshi (Clay pot rice),3.24
+610,Tsukinokurabito  ,Fushimi Momoyama,Kappo (Traditional Japanese),Dining bar,3.5
+611,Kinnotori  ,Kujo,Izakaya (Tavern),Yakitori (Grilled chicken),3
+612,Zekuu  ,Imadegawa,Ramen,Boneless deep-fried chicken,3.34
+613,Rojimon  ,Karasuma Oike,Izakaya (Tavern),Kyoto Cuisine,3.57
+614,Aiemuo  ,Shichijo,Pizza,Dining bar,3.06
+615,Al Vere  ,Momoyamagoryomae,Italian,Pasta,3
+616,Nijoukiduki  ,Kyoto Shiyakusho Mae,Sushi,Creative cuisine,3.57
+617,Hirarinteitemboukaku  ,Kyoto,Izakaya (Tavern),Kyoto Cuisine,3
+618,Kyoutogiommiyagawachououmie  ,Kiyomizu Gojo,Wine bar,Bar,3.26
+619,kibunebeniya  ,Kurama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.54
+620,Koikoi  ,Gion Shijo,Yakitori (Grilled chicken),Kushi-age (Fried Skewer),3
+621,Suiba  ,Karasuma,Stand Bar,Dining bar,3.53
+622,Bussarakan  ,Kiyomizu Gojo,Thailand cooking,Creative cuisine,3.14
+623,Saikouchou  ,Ogura,Yakitori (Grilled chicken),Izakaya (Tavern),3.05
+624,Noukoutoripaitanramemmisora  ,Kawaramachi,Ramen,Tsukemen,3.09
+625,Yakinikutoraji  ,Kyoto,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.13
+626,Ganko  ,Kyoto,Kaiseki (Traditional Japanese),Japanese food (other),3.18
+627,Sajjoupakuchi  ,Kyoto Shiyakusho Mae,Thailand cooking,Izakaya (Tavern),3.52
+628,Gionhatanaka  ,Gion Shijo,Ryokan,Kyoto Cuisine,3.65
+629,YURURI  ,Jingu Marutamachi,Izakaya (Tavern),NA,3.17
+630,Yakinikushoukakuoukiyamachitei  ,Sanjo,Yakiniku (BBQ Beef),Gyutan (Beef tongue),3.06
+631,Houshouan  ,Gion Shijo,Kyoto Cuisine,Tofu,3.03
+632,Kankokuanjupontochourinanha  ,Gion Shijo,Korean cuisine,Asian & ethnic cuisine (and others),3.56
+633,oumigyuujukuseisute-kiichigo-kyu-roku  ,Sanjo,Steak,Yakiniku (BBQ Beef),3.06
+634,Yukinoshita  ,Nijojo Mae,Pancake,Shaved ice (snow cone),3.58
+635,Yakinikuhorumonfukukawa  ,Omiya,Yakiniku (BBQ Beef),NA,3.04
+636,Purachinabifu  ,Gion Shijo,Teppanyaki,Steak,3.53
+637,Gionroiro  ,Gion Shijo,French,NA,3.83
+638,Gyuurakutei  ,Shijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.16
+639,Ristorante t.v.b  ,Gion Shijo,Italian,Wine bar,3.67
+640,YEBISU  ,Keihan Yamashina,Dandan noodles,Ramen,3.07
+641,Takayasuzekuu  ,Karasuma,Ramen,NA,3.09
+642,Koshitsuyakinikugokkoya  ,Kyoto Shiyakusho Mae,Yakiniku (BBQ Beef),Izakaya (Tavern),3.02
+643,Ebisu  ,Kyoto,Ramen,Chinese,3.51
+644,izakayakyounoshunsaiirodori  ,Kyoto,Izakaya (Tavern),Seafood,3.05
+645,matono  ,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.72
+646,Shiunsen  ,Kyoto Shiyakusho Mae,Soba,Kappo (Traditional Japanese),3.53
+647,BEER PUB Takumiya  ,Karasuma Oike,Dining bar,Italian,3.54
+648,Kidoriya  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3
+649,Kumamotosougouinshokutemmao  ,Karasuma,Bar,Cafe,3.25
+650,shijoupakuchi-  ,Shijo,Thailand cooking,Izakaya (Tavern),3.34
+651,SOUDEN  ,Karasuma Oike,Sushi,NA,3.08
+652,Kyoutotsuyushabuchiriri  ,Marutamachi,Shabu Shabu (Japanese Steamboat),Sukiyaki,3.51
+653,waintoonikudaisen  ,Gojo,Italian,Yakiniku (BBQ Beef),3.04
+654,Gokyou  ,Kuramaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.09
+655,Daburin  ,Kyoto Shiyakusho Mae,Pub,Beer,3.06
+656,Enyahanare  ,Karasuma,Izakaya (Tavern),Yakitori (Grilled chicken),3.05
+657,koubegyuuyakinikutaishitei  ,Kawaramachi,Yakiniku (BBQ Beef),Chiritori nabe (tripe),3.06
+658,nihonryourisakuragawa  ,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Kappo (Traditional Japanese),3.89
+659,Sushikawano  ,Kitaoji,Sushi,Seafood,3.59
+660,Mameyagenzou  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,Tofu,3.38
+661,chuukasobatakayasu  ,Ichijoji,Ramen,Boneless deep-fried chicken,3.59
+662,Kyouhorumontaisha  ,Kawaramachi,Horumon (BBQ Offel),Motsu Nabe (Offel Hot Pot),3.04
+663,cafe Cento Cento  ,Kyoto,Cafe,Pasta,3
+664,yakinikubunya  ,Tambaguchi,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.52
+665,Teuchisobaminagawa  ,Karasuma Oike,Soba,Izakaya (Tavern),3.17
+666,Kerara  ,Kyoto Shiyakusho Mae,India cuisine,Indian curry,3.22
+667,Maribu  ,Shijo,Dining bar,Bar,3.07
+668,takoyakimihashiya  ,Mototanaka,Takoyaki,NA,3.3
+669,Taverunamezzanotte  ,Kawaramachi,Italian,Bar,3.5
+670,Shunsaitempuraarima  ,Shijo,Fried Foods (other),Kappo (Traditional Japanese),3.25
+671,Kitanoguriru  ,Kyoto,Hamburger Steak,Croquette,3.09
+672,Torishinoguraten  ,Ogura,Izakaya (Tavern),Yakitori (Grilled chicken),3.03
+673,hakataaburimotsunabewarajiya  ,Kyoto,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.06
+674,Ryuumon  ,Sanjo Keihan,Sichuan Cuisine,Chinese,3.27
+675,Kaiuntei  ,Katsura,Yakiniku (BBQ Beef),Korean cuisine,3.19
+676,Kemuri  ,Shijo,Izakaya (Tavern),Kyoto Cuisine,3.5
+677,Ajirokkon  ,Karasuma,Kappo (Traditional Japanese),Izakaya (Tavern),3.45
+678,Rinya  ,Demachiyanagi,Pasta,Cafe,3
+679,Wasabi  ,Gion Shijo,Sushi,Izakaya (Tavern),3.18
+680,Kappousaraku  ,Marutamachi,Kappo (Traditional Japanese),Kyoto Cuisine,3.41
+681,kaisembarukamebarueito  ,Nijo,Bar,Wine bar,3.29
+682,Roko  ,Kyoto Shiyakusho Mae,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.26
+683,kafeandopanke-kiguramu  ,Karasuma,Cafe,Pancake,3.03
+684,Kyouryouritakeshimaichigo  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.07
+685,Kiyomizujunsei  ,Kiyomizu Gojo,Tofu,Yuba,3.31
+686,Kokekokko  ,Kyoto,Izakaya (Tavern),Steak,3.05
+687,Gionuemori  ,Gion Shijo,Kyoto Cuisine,Kappo (Traditional Japanese),3.49
+688,Daniel's  ,Karasuma,Italian,Pasta,3.26
+689,Kyounojidoriyaaki  ,Kawaramachi,Izakaya (Tavern),Yakitori (Grilled chicken),3.06
+690,Rozurumu  ,Nijojo Mae,French,Western Cuisine,3.17
+691,ottimo  ,Marutamachi,Italian,Pasta,3.48
+692,Kunseimaketto  ,Higashino,Cafe,Western Food (Other),3.33
+693,Miyakohanten  ,Kuzuha,Chinese,Ramen,3.2
+694,Shichirinya  ,Kitaoji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3
+695,Kushiagetoshiko  ,Kitayama,Kushi-age (Fried Skewer),Creative cuisine,3.44
+696,Ishiyakinamapasutakuranosuke  ,Katsura,Pasta,Italian,3.08
+697,Buruvaru  ,Kyoto,Buffet style,Teppanyaki,3.08
+698,ORENO PAN okumura  ,Gion Shijo,Bread,Cafe,3.56
+699,Osuteriakochinerra  ,Shijo,Italian,Wine bar,3.53
+700,Sumibiyakinikugyuugyuutei  ,Sai,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.03
+701,Bapontochoukisshou  ,Sanjo,Bar,Pub,3.04
+702,karubidontosundoufusemmontenkandon  ,Fushimi,Korean cuisine,Ramen,3.33
+703,Momoya  ,Karasuma,Izakaya (Tavern),Kushi-age (Fried Skewer),3.09
+704,motsunabekamehachi  ,Sanjo,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),3.51
+705,nikubarushouzudainingu  ,Karasuma,Bar,Yakiniku (BBQ Beef),3
+706,yakinikushokudoukandon  ,Matsuiyamate,Yakiniku (BBQ Beef),Korean cuisine,3.07
+707,Kyoutohanagushi  ,Kyoto,Kushi-age (Fried Skewer),Yakitori (Grilled chicken),3.07
+708,Harise  ,Kiyomizu Gojo,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.6
+709,Hayashi  ,Shijo,Horumon (BBQ Offel),Yakiniku (BBQ Beef),3.51
+710,Iori  ,Kyoto Shiyakusho Mae,Izakaya (Tavern),Seafood,3.26
+711,Kankokusakuratei  ,Nishioji,Yakiniku (BBQ Beef),Creative cuisine,3.27
+712,Norumandhi  ,Kyoto Shiyakusho Mae,French,Mediterranean,3.55
+713,Rokurokuato  ,Saiin,Izakaya (Tavern),Seafood,3.46
+714,Sagano  ,Arashiyama,Tofu,Yuba,3.58
+715,Kaosusupaisudaina  ,Kyoto Shiyakusho Mae,Curry (other),Dining bar,3.35
+716,Erushimmachi  ,Shijo,French,Italian,3.44
+717,Ginzaraion  ,Kyoto,Beer,beer restaurant,3.08
+718,kyouyakinikukikyou  ,Karasuma Oike,Yakiniku (BBQ Beef),Izakaya (Tavern),3.24
+719,Robatasushihotaru  ,Karasuma Oike,Robatayaki,Seafood,3.38
+720,nikubaruginjirou  ,Kyoto,Bar,Italian,3.44
+721,Tanuki  ,Sanjo,Izakaya (Tavern),Creative cuisine,3
+722,Arashiyamamitate  ,Arashiyama,French,Kyoto Cuisine,3.66
+723,Gansochikaranikumiyoshi  ,Nijo,Yakiniku (BBQ Beef),Izakaya (Tavern),3.07
+724,Rakuzouutage  ,Kyoto,Izakaya (Tavern),Yakitori (Grilled chicken),3.02
+725,Kyoutomamehachi  ,Gion Shijo,Kyoto Cuisine,Tofu,3.08
+726,Garejisankyukafe  ,Uzumasa Tenjingawa,Cafe,Izakaya (other),3.03
+727,Membou  ,Kyoto Shiyakusho Mae,Kaiseki (Traditional Japanese),Udon Suki,3.11
+728,Masohohanare  ,Kyoto,Izakaya (Tavern),Seafood,3.18
+729,Yumeya  ,Kyoto Shiyakusho Mae,Okonomiyaki,Chow Mein Noodle,3.55
+730,Giontakahashi  ,Gion Shijo,Kappo (Traditional Japanese),Fugu (Blowfish),3.57
+731,Ranka  ,Kawaramachi,Bistro,French,3.58
+732,Hakatamotsunabefukuya  ,Kawaramachi,Motsu Nabe (Offel Hot Pot),Izakaya (Tavern),3.03
+733,Ramenhikosaku  ,Imadegawa,Ramen,Dumplings,3.51
+734,Shunsaisousakubifferoan  ,Yawatashi,Buffet style,Shabu Shabu (Japanese Steamboat),3
+735,Tempurabaruharuichi  ,Karasuma Oike,Tempura,Bar,3.3
+736,Tankumakitamise  ,Kawaramachi,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.59
+737,Miho  ,Nishioji,Izakaya (Tavern),Okinawan Cuisine,3.23
+738,Tempurakawatatsu  ,Katsuragawa,Tempura,Kaiseki (Traditional Japanese),3.56
+739,Gyaatei  ,Arashiyama,Buffet style,Sushi,3.51
+740,Ryuumon  ,Mototanaka,Sichuan Cuisine,Dim sum,3.08
+741,Yakinikudaisen  ,Saiin,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3
+742,Erupojo  ,Kyoto,Spain,Pizza,3.2
+743,Man  ,Kyoto Shiyakusho Mae,Sushi,Kappo (Traditional Japanese),3.06
+744,Baoku  ,Karasuma,Bar,Wine bar,3.08
+745,Arashiyamakohakudou  ,Arashiyama,French,Cafe,3.07
+746,Shinshin  ,Karasuma Oike,Izakaya (Tavern),Seafood,3.49
+747,Icchou  ,Gion Shijo,Kyoto Cuisine,Nihonshu (Japanese sake),3.02
+748,Shusaishokubouichi  ,Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.22
+749,supeimbarurapaera  ,Matsugasaki,Spain,Bar,3.28
+750,Gimmiyananairo  ,Omiya,Izakaya (Tavern),Kappo (Traditional Japanese),3.06
+751,Marugameseimen  ,Kyoto Shiyakusho Mae,Udon,NA,3.07
+752,Ramenfuji  ,Kiyomizu Gojo,Ramen,NA,3.16
+753,Kyoutogionkawamuraryourihei  ,Gion Shijo,Kyoto Cuisine,Kaiseki (Traditional Japanese),3
+754,Sentoro  ,Kyoto,Italian,Restaurants (other),3.1
+755,Giommikaku  ,Gion Shijo,Steak,Sukiyaki,3.1
+756,Enyanishiki  ,Karasuma,Izakaya (Tavern),Oden,3.12
+757,Kampaiboupuruda  ,Kyoto,Korean cuisine,Yakiniku (BBQ Beef),3.42
+758,Menshoutakamatsu  ,Karasuma,Ramen,Tsukemen,3.07
+759,Kyounooheso  ,Kawaramachi,Izakaya (Tavern),NA,3.51
+760,Zen  ,Demachiyanagi,Izakaya (Tavern),Yakitori (Grilled chicken),3.05
+761,Aburiya  ,Higashi Maizuru,Izakaya (Tavern),Oden,3.05
+762,kodawaritamagosemmontentamagoya  ,Arashiyama Torokko Station,Cafe,Japanese food (other),3.15
+763,Tenjiyuen  ,Saiin,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.46
+764,Rinku  ,Kyoto Shiyakusho Mae,Fowl,Izakaya (Tavern),3.27
+765,Nishikiichiha  ,Kawaramachi,Café / coffee shop (and others),Sweets,3.46
+766,Kushiageadachi  ,Kitaoji,Kushi-age (Fried Skewer),Izakaya (Tavern),3.07
+767,Haiborubakyoutoichikyunisan  ,Gion Shijo,Izakaya (other),Bar,3.32
+768,Washokumai  ,Kyoto,Tempura,Sushi,3
+769,Kyoutonanajouyakinikusakabayamadaruma  ,Shichijo,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.06
+770,nikubaruandohorumonnabetaigu  ,Kyoto Shiyakusho Mae,Bar,Motsu Nabe (Offel Hot Pot),3.04
+771,Itoukyuuemon  ,Uji,Sweets,Japan tea shoppe,3.58
+772,Kantonoryouritakeka  ,Gion Shijo,Chinese,Cantonese Cuisine,3.3
+773,Chikurin  ,Uji,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.04
+774,Satsumayakinikukurozakurakurozakura  ,Uji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.42
+775,Takasegawa  ,Gion Shijo,Sumibiyaki,Yakitori (Grilled chicken),3.6
+776,Hairaitoshiyokudou  ,Yamanouchi,table d'hôte,Western Cuisine,3.08
+777,Kikusui  ,Gion Shijo,Western Cuisine,French,3.18
+778,Kimukatsu  ,Shijo,Tonkatsu (Pork cutlet),Sandwich,3.08
+779,Kafemanowaru  ,Saiin,Italian,NA,3.08
+780,Purejiru  ,Kyoto,Buffet style,NA,3.15
+781,Sumibiyakitorikajian  ,Nagaokakyo,Yakitori (Grilled chicken),Shochu (Japanese spirits),3.03
+782,Kazamidori  ,Karasuma Oike,Izakaya (Tavern),Yakitori (Grilled chicken),3
+783,SPOON  ,Karasuma,Dining bar,Japanese food (other),3.18
+784,Isobe  ,Higashiyama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06
+785,Sukairaunjikuu  ,Kyoto,Bar,Lounge,3.09
+786,Kaiuntei  ,Ogura,Yakiniku (BBQ Beef),Korean cuisine,3.05
+787,Honkedaiichiasahi  ,Kyoto,Ramen,Dumplings,3.6
+788,Kichisen  ,Demachiyanagi,Kaiseki (Traditional Japanese),NA,4.19
+789,Hisago  ,Gion Shijo,Oyako-don (Chicken Bowl),Soba,3.54
+790,shikimanzenhanahana  ,Nijo,Izakaya (Tavern),Motsu Nabe (Offel Hot Pot),3.09
+791,Gurumatei  ,Shin Tanabe,Okonomiyaki,Teppanyaki,3.05
+792,Kappouiimori  ,Gion Shijo,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.52
+793,barchetta  ,Gojo,Italian,Wine bar,3.43
+794,Ajinomeimon  ,Tambaguchi,Ramen,Dumplings,3.19
+795,Nagagutsutei  ,Jingu Marutamachi,Pasta,Pizza,3
+796,Ishise  ,Fushimi Momoyama,Kyoto Cuisine,Kappo (Traditional Japanese),3.08
+797,Apikaruinkyouto  ,Shugakuin,Ryokan,Kaiseki (Traditional Japanese),3.06
+798,Hanakushi  ,Kyoto,Kushi-age (Fried Skewer),Izakaya (Tavern),3.53
+799,Gionyuyama  ,Sanjo Keihan,Kaiseki (Traditional Japanese),Kappo (Traditional Japanese),3.51
+800,Gioneguchi  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.17
+801,Sumibitowainkyoutoekimaeten  ,Kyoto,Bar,Italian,3.49
+802,Susumevaikingubaikingu  ,Yawatashi,Buffet style,Yakiniku (BBQ Beef),3.03
+803,Jounanen  ,Takeda,Chinese,Bento (Lunch box),3.15
+804,shunsairyoushin  ,Fushimi Momoyama,Seafood,Izakaya (Tavern),3.33
+805,Shourenkanyoshinoya  ,  Kyotango,Ryokan,Crab,3.55
+806,pino  ,Matsugasaki,Italian,Cafe,3.07
+807,Kyoumachishizuku  ,Kyoto,Izakaya (Tavern),Seafood,3.05
+808,nihonshutoobanzainokyousakabamitoki  ,Shijo,Izakaya (Tavern),Kyoto Cuisine,3.12
+809,Koudaijihashiba  ,Gion Shijo,Kyoto Cuisine,Tempura,3.23
+810,Ryuunohige  ,Kyoto Shiyakusho Mae,Kyoto Cuisine,French,3.7
+811,nikutowaimbaruwaraku  ,Kyoto,Bar,Spain,3.52
+812,Kyoutogontaro  ,Kawaramachi,Udon Suki,Soba,3.59
+813,Kuragarimasa  ,Gion Shijo,Dining bar,Motsu Nabe (Offel Hot Pot),3.44
+814,Kirarazaka  ,Matsuiyamate,Izakaya (Tavern),Creative cuisine,3.08
+815,Ryuumon  ,Higashiyama,Chinese,Sichuan Cuisine,3.09
+816,Minamiyakankokushokudou  ,Shijo,Korean cuisine,Korean hot pot,3.09
+817,Kyouya  ,Gion Shijo,Kaiseki (Traditional Japanese),Angler,3.04
+818,Giwommorikou  ,Higashiyama,Cantonese Cuisine,Dim sum,3.5
+819,Sakaguratamanohikari  ,Karasuma,Izakaya (Tavern),Mizutaki,3.05
+820,Itsuraku  ,Gion Shijo,Izakaya (Tavern),Kyoto Cuisine,3.5
+821,Teppen  ,Momoyamagoryomae,Okonomiyaki,Chow Mein Noodle,3.06
+822,Nijou  ,Nijojo Mae,Teppanyaki,Steak,3.06
+823,Giwontokiwa  ,Sanjo Keihan,Soba,Udon,3.6
+824,Arufakafe  ,Sanjo,Dining bar,Bar,3.04
+825,Kaiuntei  ,Ogura,Korean cuisine,Yakiniku (BBQ Beef),3.06
+826,Bisutoroya  ,Kyoto,Izakaya (Tavern),Bistro,3
+827,THE AGLIO GARDEN  ,Gion Shijo,Dining bar,Creative cuisine,3.03
+828,Ichiyoshi  ,Kyotanabe,Yakiniku (BBQ Beef),Izakaya (Tavern),3.5
+829,Yukari  ,Shijo,Chinese,Izakaya (Tavern),3.32
+830,RH Cafe  ,Kawaramachi,Cafe,NA,3.39
+831,Suiba  ,Kyoto Shiyakusho Mae,Stand Bar,Dining bar,3.55
+832,menkiya  ,Kawaramachi,Ramen,Chinese,3.08
+833,Kinkao  ,Shichijo,Thailand cooking,Thai Curry,3.55
+834,Ujisoukokoro  ,Uji,Dining bar,Creative cuisine,3.07
+835,Domadoma  ,Sanjo,Izakaya (Tavern),Yakitori (Grilled chicken),3.02
+836,Chikyuuizakayashibuya  ,Nagitsuji,Izakaya (Tavern),Japanese food (other),3
+837,Ginzaraion  ,Shijo,Dining bar,Beer,3.03
+838,ORTO  ,Karasuma Oike,Innovative cuisine,Fusion cuisine,4.06
+839,tsujiriheehonten  ,Uji,Parfait,Japan tea shoppe,3.54
+840,Haroukithisaryou  ,Gion Shijo,Cafe,Kyoto Cuisine,3.53
+841,Minamiyawagyuudou  ,Kitaoji,Yakiniku (BBQ Beef),Horumon (BBQ Offel),3.04
+842,Toretatedaininguyagyuu  ,Narayama,Kaiseki (Traditional Japanese),Izakaya (Tavern),3.27
+843,Itoudainingu  ,Gion Shijo,Teppanyaki,Steak,3.33
+844,Saradanomisesancho  ,Fushimi Momoyama,Hamburger Steak,Western (Others),3.08
+845,eruku  ,Kawaramachi,Pancake,Cafe,3.53
+846,Teinojikafe  ,Kyoto Shiyakusho Mae,Cafe,Coffee shoppe,3.55
+847,Sumibiyakitorikou  ,Kawaramachi,Yakitori (Grilled chicken),Izakaya (Tavern),3.02
+848,Maboroshinochuukasobakatouyashijounibojirou  ,Shijo,Ramen,Chinese,3.51
+849,Kyouryouriujigawaryokan  ,Uji,Ryokan,NA,3.04
+850,Obanzaitatsunosuke  ,Kawaramachi,Japanese food (other),Izakaya (Tavern),3.3
+851,kyounosozaiyatoku  ,Kujo,Izakaya (Tavern),Dining bar,3.07
+852,Kankokusakuratei  ,Shijo,Yakiniku (BBQ Beef),Korean cuisine,3.16
+853,Shisen  ,Kyoto,Sichuan Cuisine,Cantonese Cuisine,3.08
+854,Barubera  ,Saiin,Italian,Pasta,3.09
+855,Yubasen  ,Kokusaikaikan,Tofu,Yuba,3.51
+856,Ibushigin  ,Sanjo,Izakaya (Tavern),Dining bar,3.06
+857,Irujeko  ,Shijo,Italian,Pasta,3.52
+858,Anju  ,Arashiyama,Tofu,Yuba,3
+859,Genkiya  ,Nagaokakyo,Izakaya (Tavern),Seafood,3.23
+860,Gohanya  ,Karasuma Oike,Izakaya (Tavern),Dining bar,3.05
+861,Kyouwasabi  ,Fukakusa,Pork Shabu Shabu,Kyoto Cuisine,3.08
+862,kyoutoebisuya  ,Kitaoji,Izakaya (Tavern),Oden,3
+863,Rakudaya  ,Saiin,Genghis Khan (BBQ Rum),Motsu Nabe (Offel Hot Pot),3.06
+864,Shouentei  ,Kiyomizu Gojo,Chinese,Ramen,3.14
+865,Nishikihenkotsu  ,Kawaramachi,Yakiniku (BBQ Beef),Izakaya (Tavern),3.51
+866,Gyuukimura  ,Nagitsuji,Yakiniku (BBQ Beef),Sukiyaki,3.06
+867,Kafecherisshu  ,Marutamachi,Cafe,Sweets (and others),3.45
+868,Masoho  ,Kyoto,Seafood,Robatayaki,3.35
+869,Kamogawatakashi  ,Jingu Marutamachi,Yakiniku (BBQ Beef),Kaiseki (Traditional Japanese),3.59
+870,IZAMA  ,Karasuma,Kyoto Cuisine,Creative cuisine,3.53
+871,Kaisekihyouki  ,Karasuma Oike,Kappo (Traditional Japanese),Kyoto Cuisine,3.47
+872,miyazakikenhyuugashitsukadanoujou  ,Sanjo,Izakaya (Tavern),Fowl,3.03
+873,Kyounojiyasaiitariampacchokone  ,Kyoto,Italian,Pasta,3.03
+874,Kabochanotane  ,Gion Shijo,Kappo (Traditional Japanese),Kyoto Cuisine,3.51
+875,Giwonyakinikushige  ,Gion Shijo,Yakiniku (BBQ Beef),Shabu Shabu (Japanese Steamboat),3.06
+876,Taruhachi  ,Mototanaka,Izakaya (Tavern),Ramen,3
+877,THE BUFFET STYLE SARA  ,Shijo,Buffet style,Creative cuisine,3.12
+878,Karafuneyakohiten  ,Kyoto Shiyakusho Mae,Traditional Café,Cafe,3.52
+879,Arashiyamataniguchi  ,Arashiyama,Kaiseki (Traditional Japanese),Kyoto Cuisine,3.06
+880,danieruzuaruba  ,Karasuma Oike,Italian,Dining bar,3.08
+881,Giongyuuzen  ,Gion Shijo,Shabu Shabu (Japanese Steamboat),Sukiyaki,3.06
+882,guridorufo-suitsuraku  ,Karasuma,Teppanyaki,Steak,3.06
+883,Tatsumiya  ,Uji,Kyoto Cuisine,Hot Pot (other),3.07
+884,Okonomiyakitonchinkan  ,Kyoto Shiyakusho Mae,Okonomiyaki,Monjya yaki,3.05
+885,Kifuneugenta  ,Kurama,Kyoto Cuisine,Kaiseki (Traditional Japanese),3.54
+886,teuchiudonishokuyabongu  ,Nishi Maizuru,Izakaya (Tavern),Udon,3.07
+887,umaimonyaki sun  ,Gion Shijo,Yakitori (Grilled chicken),Motsu Nabe (Offel Hot Pot),3.03
+888,Toritoyudoufuizakayaaogiya  ,Saiin,Izakaya (Tavern),Kyoto Cuisine,3.15
+889,Menshoutakamatsu  ,Karasuma,Tsukemen,Ramen,3.58
+890,Wayang Bali  ,Kyoto Shiyakusho Mae,Indonesia cuisine,NA,3.04
+891,Waraku  ,Fukuchiyama,Izakaya (Tavern),Kaiseki (Traditional Japanese),3
+892,YEBISU BAR  ,Kyoto,Beer bar,Bar,3.08
+893,Ibushiginkazuya  ,Kawaramachi,Bar,Nihonshu (Japanese sake),3.36
+894,Tenichi  ,Kyoto,Tempura,Ten-don (Tempura Bowl),3.51
+895,Rakuzenkakinuma  ,Jingu Marutamachi,Kappo (Traditional Japanese),Kaiseki (Traditional Japanese),3.1
